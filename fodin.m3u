@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:0 tvg-rec="1",Первый HD
-#EXTGRP:HD
-http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/204/index.m3u8
-#EXTINF:0 tvg-rec="1",Россия HD
-#EXTGRP:HD
-http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/205/index.m3u8
 #EXTINF:0 tvg-rec="1",Первый канал
 #EXTGRP:другие
 http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/127/index.m3u8
@@ -80,6 +74,51 @@ http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/101/index.m3u8
 #EXTINF:0 tvg-rec="1",Ностальгия
 #EXTGRP:кино
 http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/102/index.m3u8
+#EXTINF:0 tvg-rec="0",1+1
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/994/index.m3u8
+#EXTINF:0 tvg-rec="0",2+2
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/995/index.m3u8
+#EXTINF:0 tvg-rec="0",UKRAINE 1
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/997/index.m3u8
+#EXTINF:0 tvg-rec="0",Бiгудi
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/989/index.m3u8
+#EXTINF:0 tvg-rec="0",Мега
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/929/index.m3u8
+#EXTINF:0 tvg-rec="0",К2
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/930/index.m3u8
+#EXTINF:0 tvg-rec="0",К1
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/931/index.m3u8
+#EXTINF:0 tvg-rec="0",Квартал ТВ
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/932/index.m3u8
+#EXTINF:0 tvg-rec="0",Enter-фільм
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/933/index.m3u8
+#EXTINF:0 tvg-rec="0",Новий Канал
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/935/index.m3u8
+#EXTINF:0 tvg-rec="0",НТН
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/936/index.m3u8
+#EXTINF:0 tvg-rec="0",Інтер
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/937/index.m3u8
+EXTINF:0 tvg-rec="0",Интер+
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/1047/index.m3u8
+#EXTINF:0 tvg-rec="0",O-TV
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/1055/index.m3u8
+#EXTINF:0 tvg-rec="0",D1
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/1058/index.m3u8
 #EXTINF:0 tvg-rec="1",СТС Love
 #EXTGRP:кино
 http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/103/index.m3u8
@@ -1289,30 +1328,6 @@ http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/926/index.m3u8
 #EXTINF:0 tvg-rec="0",Eспресо TV
 #EXTGRP:українські
 http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/927/index.m3u8
-#EXTINF:0 tvg-rec="0",Мега
-#EXTGRP:українські
-http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/929/index.m3u8
-#EXTINF:0 tvg-rec="0",К2
-#EXTGRP:українські
-http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/930/index.m3u8
-#EXTINF:0 tvg-rec="0",К1
-#EXTGRP:українські
-http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/931/index.m3u8
-#EXTINF:0 tvg-rec="0",Квартал ТВ
-#EXTGRP:українські
-http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/932/index.m3u8
-#EXTINF:0 tvg-rec="0",Enter-фільм
-#EXTGRP:українські
-http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/933/index.m3u8
-#EXTINF:0 tvg-rec="0",Новий Канал
-#EXTGRP:українські
-http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/935/index.m3u8
-#EXTINF:0 tvg-rec="0",НТН
-#EXTGRP:українські
-http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/936/index.m3u8
-#EXTINF:0 tvg-rec="0",Інтер
-#EXTGRP:українські
-http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/937/index.m3u8
 #EXTINF:0 tvg-rec="0",Пiксель ТВ
 #EXTGRP:українські
 http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/938/index.m3u8
@@ -1400,27 +1415,6 @@ http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/1030/index.m3u8
 #EXTINF:0 tvg-rec="0",Star Family
 #EXTGRP:українські
 http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/1042/index.m3u8
-#EXTINF:0 tvg-rec="0",Интер+
-#EXTGRP:українські
-http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/1047/index.m3u8
-#EXTINF:0 tvg-rec="0",O-TV
-#EXTGRP:українські
-http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/1055/index.m3u8
-#EXTINF:0 tvg-rec="0",D1
-#EXTGRP:українські
-http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/1058/index.m3u8
-#EXTINF:0 tvg-rec="0",1+1
-#EXTGRP:українські
-http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/994/index.m3u8
-#EXTINF:0 tvg-rec="0",2+2
-#EXTGRP:українські
-http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/995/index.m3u8
-#EXTINF:0 tvg-rec="0",UKRAINE 1
-#EXTGRP:українські
-http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/997/index.m3u8
-#EXTINF:0 tvg-rec="0",Бiгудi
-#EXTGRP:українські
-http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/989/index.m3u8
 #EXTINF:0 tvg-rec="0",НТА
 #EXTGRP:українські
 http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/990/index.m3u8
