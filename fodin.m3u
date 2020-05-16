@@ -11,7 +11,6 @@ http://cdn.ottg.tv/7870/video.m3u8?username=serj74m&password=labuh74m&token=ced5
 http://cdn.ottg.tv/7796/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=119&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="pobeda"  group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/2988.png",Победа HD
 http://cdn.ottg.tv/2988/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=259&req_host=pkjX3BL
-
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="pobeda"  group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/8934.png",Победа
 http://cdn.ottg.tv/8934/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=643&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="denpobedy"  group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/5425.png",День Победы HD
@@ -1105,6 +1104,172 @@ http://cdn.ottg.tv/4885/video.m3u8?username=serj74m&password=labuh74m&token=ced5
 http://cdn.ottg.tv/3203/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=344&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="iconcerts"  group-title="Музыкальные" tvg-logo="http://pl.ottg.tv:80/icon/4880.png",iConcerts HD
 http://cdn.ottg.tv/4880/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=345&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="match-igra"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/4780.png",Матч! Игра HD
+http://cdn.ottg.tv/4780/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=277&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="match-nash-sport"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/7937.png",Матч! Страна
+http://cdn.ottg.tv/7937/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=278&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="match-arena"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/3226.png",Матч! Арена HD
+http://cdn.ottg.tv/3226/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=279&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="match-tv"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/5292.png",Матч! HD
+http://cdn.ottg.tv/5292/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=280&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="match-football1"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/2321.png",Матч! Футбол 1 HD
+http://cdn.ottg.tv/2321/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=282&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="match-football2"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/6026.png",Матч! Футбол 2 HD
+http://cdn.ottg.tv/6026/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=283&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="match-football3"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/6866.png",Матч! Футбол 3 HD
+http://cdn.ottg.tv/6866/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=284&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="match-premier"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/7517.png",Матч! Премьер HD
+http://cdn.ottg.tv/7517/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=285&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="football1-ua"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/8521.png",Футбол 1 HD Украина
+http://cdn.ottg.tv/8521/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=286&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="football2-ua"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/2070.png",Футбол 2 HD Украина
+http://cdn.ottg.tv/2070/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=287&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="eurosport1"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/1515.png",Eurosport 1 HD
+http://cdn.ottg.tv/1515/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=288&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="eurosport2"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/1525.png",Eurosport 2 HD
+http://cdn.ottg.tv/1525/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=289&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="eurosport-gold"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/8749.png",Eurosport Gold HD
+http://cdn.ottg.tv/8749/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=290&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="belarus5"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/5813.png",Беларусь 5 HD
+http://cdn.ottg.tv/5813/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=291&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="kazsport"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/9686.png",Kazsport
+http://cdn.ottg.tv/9686/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=292&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="viasat-sport"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/1072.png",Viasat Sport HD
+http://cdn.ottg.tv/1072/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=293&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="extreme-sports"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/1285.png",Extreme Sports
+http://cdn.ottg.tv/1285/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=294&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="setanta-sports"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/4652.png",Setanta Sports 1 HD
+http://cdn.ottg.tv/4652/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=295&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="setanta-sports-plus"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/1931.png",Setanta Sports 2 HD
+http://cdn.ottg.tv/1931/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=296&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="match-boets"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/1403.png",Матч! Боец
+http://cdn.ottg.tv/1403/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=297&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="box-tv"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/9550.png",Бокс ТВ
+http://cdn.ottg.tv/9550/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=298&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="ufc"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/9546.png",UFC ТВ HD
+http://cdn.ottg.tv/9546/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=299&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="kxl"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/2957.png",КХЛ ТВ
+http://cdn.ottg.tv/2957/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=300&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="kxl-hd"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/6328.png",КХЛ HD
+http://cdn.ottg.tv/6328/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=301&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="russky-ekstrim"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/8809.png",Russian Extreme HD
+http://cdn.ottg.tv/8809/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=302&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="fuel-tv-hd"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/5679.png",FUEL TV HD
+http://cdn.ottg.tv/5679/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=374&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="football-ru"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/2647.png",Футбол HD
+http://cdn.ottg.tv/2647/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=376&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="tochka-otryva"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/2746.png",Точка отрыва HD
+http://cdn.ottg.tv/2746/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=381&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="motorsportv-tv"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/2697.png",Моторспорт ТВ HD
+http://cdn.ottg.tv/2697/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=403&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="m1global"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/8036.png",M-1 Global
+http://cdn.ottg.tv/8036/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=408&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="football1-ua"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/2284.png",Футбол 1 HD UA PREMIUM+
+http://cdn.ottg.tv/2284/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=413&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="football2-ua"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/7054.png",Футбол 2 HD UA PREMIUM+
+http://cdn.ottg.tv/7054/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=414&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="zhivi"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/9643.png",Живи!
+http://cdn.ottg.tv/9643/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=417&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="setanta-ua"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/7662.png",Setanta Sports UA HD
+http://cdn.ottg.tv/7662/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=418&req_host=pkjX3BL
+#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="drive"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/5603.png",Драйв
+http://cdn.ottg.tv/5603/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=427&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="match-tv"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/2575.png",Матч! ТВ
+http://cdn.ottg.tv/2575/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=434&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="eurosport1"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/6623.png",Eurosport 1
+http://cdn.ottg.tv/6623/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=447&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="viasat-sport"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/2839.png",Viasat Sport
+http://cdn.ottg.tv/2839/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=467&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="konny-mir"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/8609.png",Конный мир HD
+http://cdn.ottg.tv/8609/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=478&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="mir-basketbola"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/3271.png",Мир баскетбола
+http://cdn.ottg.tv/3271/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=481&req_host=pkjX3BL
+#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="match-football1"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/2065.png",Матч! Футбол 1 HD PREMIUM+
+http://cdn.ottg.tv/2065/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=485&req_host=pkjX3BL
+#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="match-football2"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/4286.png",Матч! Футбол 2 HD PREMIUM+
+http://cdn.ottg.tv/4286/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=486&req_host=pkjX3BL
+#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="match-football3"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/2773.png",Матч! Футбол 3 HD PREMIUM+
+http://cdn.ottg.tv/2773/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=487&req_host=pkjX3BL
+#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="match-igra"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/3570.png",Матч! Игра HD PREMIUM+
+http://cdn.ottg.tv/3570/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=488&req_host=pkjX3BL
+#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="match-arena"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/9517.png",Матч! Арена HD PREMIUM+
+http://cdn.ottg.tv/9517/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=489&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="match-planeta"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/2616.png",Матч! Планета
+http://cdn.ottg.tv/2616/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=490&req_host=pkjX3BL
+#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="match-tv"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/7962.png",Матч! HD PREMIUM+
+http://cdn.ottg.tv/7962/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=491&req_host=pkjX3BL
+#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="match-premier"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/3678.png",Матч! Премьер HD PREMIUM+
+http://cdn.ottg.tv/3678/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=492&req_host=pkjX3BL
+#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="kxl-hd"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/3069.png",КХЛ HD PREMIUM+
+http://cdn.ottg.tv/3069/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=493&req_host=pkjX3BL
+#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="eurosport1"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/8413.png",Eurosport 1 HD PREMIUM+
+http://cdn.ottg.tv/8413/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=494&req_host=pkjX3BL
+#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="eurosport2"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/9523.png",Eurosport 2 HD PREMIUM+
+http://cdn.ottg.tv/9523/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=495&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="viasat-sport-hd"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/2453.png",Viasat Sport HD PREMIUM+
+http://cdn.ottg.tv/2453/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=496&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="eurosport2"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/6904.png",Eurosport 2
+http://cdn.ottg.tv/6904/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=522&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="supertennis"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/6107.png",Super Tennis HD
+http://cdn.ottg.tv/6107/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=591&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="football-ru"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/7976.png",Футбол
+http://cdn.ottg.tv/7976/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=621&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="match-igra"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/1182.png",Матч! Игра
+http://cdn.ottg.tv/1182/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=623&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="football1-ua"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/7439.png",Футбол 1 Украина
+http://cdn.ottg.tv/7439/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=636&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="football2-ua"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/7486.png",Футбол 2 Украина
+http://cdn.ottg.tv/7486/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=637&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="match-football1"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/7721.png",Матч! Футбол 1
+http://cdn.ottg.tv/7721/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=638&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="match-football2"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/9099.png",Матч! Футбол 2
+http://cdn.ottg.tv/9099/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=639&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="match-football3"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/7197.png",Матч! Футбол 3
+http://cdn.ottg.tv/7197/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=640&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="match-premier"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/3863.png",Матч! Премьер
+http://cdn.ottg.tv/3863/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=641&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="fastfunbox-hd"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/9879.png",Fast&Fun Box
+http://cdn.ottg.tv/9879/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=657&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="match-arena"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/6495.png",Матч! Арена
+http://cdn.ottg.tv/6495/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=686&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="fightbox-hd"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/1949.png",FightBox HD
+http://cdn.ottg.tv/1949/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=696&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="docubox-hd"  group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/5291.png",DocuBox HD
+http://cdn.ottg.tv/5291/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=697&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="fastfunbox-hd"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/1647.png",Fast&FunBox HD
+http://cdn.ottg.tv/1647/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=698&req_host=pkjX3BL
+#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="setanta-ua"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/5493.png",Setanta Sports UA
+http://cdn.ottg.tv/5493/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=699&req_host=pkjX3BL
+#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="setanta-sports"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/5528.png",Setanta Sports 1
+http://cdn.ottg.tv/5528/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=706&req_host=pkjX3BL
+#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="setanta-sports-plus"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/6754.png",Setanta Sports 2
+http://cdn.ottg.tv/6754/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=707&req_host=pkjX3BL
+#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="football3-ua"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/2515.png",Футбол 3 HD UA PREMIUM+
+http://cdn.ottg.tv/2515/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=747&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="football3-ua"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/3600.png",Футбол 3 HD UA
+http://cdn.ottg.tv/3600/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=748&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="football3-ua"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/4275.png",Футбол 3
+http://cdn.ottg.tv/4275/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=749&req_host=pkjX3BL
+#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="match-tv"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/2094.png",Матч! HD 50fps
+http://cdn.ottg.tv/2094/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=754&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="setanta-plus-ua"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/2955.png",Setanta Sport + UA HD
+http://cdn.ottg.tv/2955/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=755&req_host=pkjX3BL
+#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="match-football1"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/7881.png",Матч! Футбол 1 HD 50fps
+http://cdn.ottg.tv/7881/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=772&req_host=pkjX3BL
+#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="match-football2"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/2222.png",Матч! Футбол 2 HD 50fps
+http://cdn.ottg.tv/2222/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=773&req_host=pkjX3BL
+#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="match-football3"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/1846.png",Матч! Футбол 3 HD 50fps
+http://cdn.ottg.tv/1846/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=774&req_host=pkjX3BL
+#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="match-premier"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/5442.png",Матч! Премьер HD 50fps
+http://cdn.ottg.tv/5442/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=775&req_host=pkjX3BL
+#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="match-igra"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/1610.png",Матч! Игра HD 50fps
+http://cdn.ottg.tv/1610/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=776&req_host=pkjX3BL
+#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="kxl-hd"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/5079.png",КХЛ HD 50fps
+http://cdn.ottg.tv/5079/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=777&req_host=pkjX3BL
+#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="motorsportv-tv"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/9397.png",Моторспорт HD 50fps
+http://cdn.ottg.tv/9397/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=778&req_host=pkjX3BL
+#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="setanta-plus-ua"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/4578.png",Setanta Sport+ UA HD PREMIUM+
+http://cdn.ottg.tv/4578/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=779&req_host=pkjX3BL
 
 #EXTINF:40,Первый канал (+2)
 http://85.143.191.135/42/f0541f135f40e645d4f245e93318d3190fe3d7d2/40/stream.m3u8
