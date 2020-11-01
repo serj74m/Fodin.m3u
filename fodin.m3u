@@ -1,2576 +1,2818 @@
 #EXTM3U
 #EXTINF:0 tvg-rec="3",Первый канал
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/127/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/127/index.m3u
 #EXTINF:0 tvg-rec="3",Первый канал (+2)
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/714/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/714/index.m3u
 #EXTINF:0 tvg-rec="0",Первый канал +4
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6021/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6021/index.m3u
 #EXTINF:0 tvg-rec="0",Первый канал +6
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6037/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6037/index.m3u
 #EXTINF:0 tvg-rec="0",Первый канал +8
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6050/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6050/index.m3u
 #EXTINF:0 tvg-rec="3",Россия FHD
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2409/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2409/index.m3u
 #EXTINF:0 tvg-rec="3",Россия HD
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/205/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/205/index.m3u
 #EXTINF:0 tvg-rec="3",Россия 1
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/504/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/504/index.m3u
 #EXTINF:0 tvg-rec="0",Россия-1 +2
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6011/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6011/index.m3u
 #EXTINF:0 tvg-rec="0",Россия-1 +4
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6022/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6022/index.m3u
 #EXTINF:0 tvg-rec="0",Россия-1 +6
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6038/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6038/index.m3u
 #EXTINF:0 tvg-rec="0",Россия-1 +8
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6051/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6051/index.m3u
 #EXTINF:0 tvg-rec="3",НТВ HD
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/213/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/213/index.m3u
 #EXTINF:0 tvg-rec="3",НТВ
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/501/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/501/index.m3u
 #EXTINF:0 tvg-rec="3",НТВ (+2)
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/713/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/713/index.m3u
 #EXTINF:0 tvg-rec="0",НТВ +4
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6024/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6024/index.m3u
 #EXTINF:0 tvg-rec="0",НТВ +6
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6039/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6039/index.m3u
 #EXTINF:0 tvg-rec="0",НТВ +8
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6053/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6053/index.m3u
 #EXTINF:0 tvg-rec="3",ТВЦ
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/520/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/520/index.m3u
 #EXTINF:0 tvg-rec="3",ТВЦ (+2)
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/716/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/716/index.m3u
 #EXTINF:0 tvg-rec="0",ТВЦ +4
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6027/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6027/index.m3u
 #EXTINF:0 tvg-rec="0",ТВЦ +6
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6041/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6041/index.m3u
 #EXTINF:0 tvg-rec="0",ТВЦ +8
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6056/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6056/index.m3u
 #EXTINF:0 tvg-rec="3",Пятый канал
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/112/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/112/index.m3u
 #EXTINF:0 tvg-rec="3",Пятый Канал (+2)
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/746/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/746/index.m3u
 #EXTINF:0 tvg-rec="0",5 канал +4
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6025/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6025/index.m3u
 #EXTINF:0 tvg-rec="0",5 канал +6
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6040/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6040/index.m3u
 #EXTINF:0 tvg-rec="0",5 канал +8
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6054/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6054/index.m3u
 #EXTINF:0 tvg-rec="3",ТНТ FHD
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2417/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2417/index.m3u
 #EXTINF:0 tvg-rec="3",ТНТ HD
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/237/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/237/index.m3u
 #EXTINF:0 tvg-rec="3",ТНТ
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/502/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/502/index.m3u
 #EXTINF:0 tvg-rec="3",ТНТ (+2)
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/717/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/717/index.m3u
 #EXTINF:0 tvg-rec="0",ТНТ +4
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6035/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6035/index.m3u
 #EXTINF:0 tvg-rec="0",ТНТ +6
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6049/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6049/index.m3u
 #EXTINF:0 tvg-rec="3",СТС
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/506/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/506/index.m3u
 #EXTINF:0 tvg-rec="0",СТС +2
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6015/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6015/index.m3u
 #EXTINF:0 tvg-rec="0",СТС +4
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6029/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6029/index.m3u
 #EXTINF:0 tvg-rec="0",СТС +6
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6043/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6043/index.m3u
 #EXTINF:0 tvg-rec="3",Рен ТВ HD
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2024/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2024/index.m3u
 #EXTINF:0 tvg-rec="3",РЕН ТВ
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/128/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/128/index.m3u
 #EXTINF:0 tvg-rec="3",РЕН ТВ (+2)
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/747/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/747/index.m3u
 #EXTINF:0 tvg-rec="0",Рен ТВ +4
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6028/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6028/index.m3u
 #EXTINF:0 tvg-rec="0",Рен ТВ +6
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6042/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6042/index.m3u
 #EXTINF:0 tvg-rec="3",Мир HD
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/235/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/235/index.m3u
 #EXTINF:0 tvg-rec="3",Мир
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/113/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/113/index.m3u
 #EXTINF:0 tvg-rec="0",Мир +2
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6019/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6019/index.m3u
 #EXTINF:0 tvg-rec="0",Мир +4
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6034/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6034/index.m3u
 #EXTINF:0 tvg-rec="0",Мир +6
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6048/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6048/index.m3u
 #EXTINF:0 tvg-rec="3",Мир Premium
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2105/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2105/index.m3u
 #EXTINF:0 tvg-rec="3",ОТР
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/705/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/705/index.m3u
 #EXTINF:0 tvg-rec="0",ОТР +2
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6014/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6014/index.m3u
 #EXTINF:0 tvg-rec="0",ОТР +4
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6026/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6026/index.m3u
 #EXTINF:0 tvg-rec="0",ОТР +8
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6055/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6055/index.m3u
 #EXTINF:0 tvg-rec="3",Телеканал Звезда
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/544/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/544/index.m3u
 #EXTINF:0 tvg-rec="3",Звезда (+2)
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/739/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/739/index.m3u
 #EXTINF:0 tvg-rec="0",Звезда +4
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6033/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6033/index.m3u
 #EXTINF:0 tvg-rec="0",Звезда +6
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6047/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6047/index.m3u
 #EXTINF:0 tvg-rec="3",СТС Love
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/103/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/103/index.m3u
 #EXTINF:0 tvg-rec="3",Че
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/513/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/513/index.m3u
 #EXTINF:0 tvg-rec="3",ТВ3 HD
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/5033/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/5033/index.m3u
 #EXTINF:0 tvg-rec="3",ТВ3
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/508/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/508/index.m3u
 #EXTINF:0 tvg-rec="0",ТВ3 +2
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6017/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6017/index.m3u
 #EXTINF:0 tvg-rec="0",ТВ3 +4
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6031/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6031/index.m3u
 #EXTINF:0 tvg-rec="0",ТВ3 +6
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6045/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6045/index.m3u
 #EXTINF:0 tvg-rec="3",Пятница! HD
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/5031/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/5031/index.m3u
 #EXTINF:0 tvg-rec="3",Пятница!
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/503/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/503/index.m3u
 #EXTINF:0 tvg-rec="0",Пятница +2
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6018/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6018/index.m3u
 #EXTINF:0 tvg-rec="0",Пятница +4
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6032/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6032/index.m3u
 #EXTINF:0 tvg-rec="0",Пятница +6
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6046/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6046/index.m3u
 #EXTINF:0 tvg-rec="3",RTVi
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2086/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2086/index.m3u
 #EXTINF:0 tvg-rec="3",Супер
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/826/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/826/index.m3u
 #EXTINF:0 tvg-rec="3",Домашний
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/514/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/514/index.m3u
 #EXTINF:0 tvg-rec="0",Домашний +2
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6016/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6016/index.m3u
 #EXTINF:0 tvg-rec="0",Домашний +4
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6030/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6030/index.m3u
 #EXTINF:0 tvg-rec="0",Домашний +6
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6044/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6044/index.m3u
 #EXTINF:0 tvg-rec="0",8 канал
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/1057/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/1057/index.m3u
 #EXTINF:0 tvg-rec="0",Настоящее время
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/986/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/986/index.m3u
 #EXTINF:0 tvg-rec="3",Ностальгия
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/102/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/102/index.m3u
 #EXTINF:0 tvg-rec="3",Ю ТВ
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/534/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/534/index.m3u
 #EXTINF:0 tvg-rec="3",ТНТ4
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/104/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/104/index.m3u
 #EXTINF:0 tvg-rec="3",КВН ТВ
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/546/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/546/index.m3u
 #EXTINF:0 tvg-rec="3",Сарафан
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/748/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/748/index.m3u
 #EXTINF:0 tvg-rec="3",Точка ТВ
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2053/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2053/index.m3u
 #EXTINF:0 tvg-rec="3",360° HD
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2065/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2065/index.m3u
 #EXTINF:0 tvg-rec="3",360°
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/825/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/825/index.m3u
 #EXTINF:0 tvg-rec="0",СПАС
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/983/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/983/index.m3u
 #EXTINF:0 tvg-rec="3",Союз
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2016/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2016/index.m3u
 #EXTINF:0 tvg-rec="3",Здоровое ТВ
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2022/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2022/index.m3u
 #EXTINF:0 tvg-rec="3",Психология 21
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2025/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2025/index.m3u
 #EXTINF:0 tvg-rec="3",Успех
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2041/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2041/index.m3u
 #EXTINF:0 tvg-rec="3",Кто есть кто
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2042/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2042/index.m3u
 #EXTINF:0 tvg-rec="3",Открытый мир
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2078/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2078/index.m3u
 #EXTINF:0 tvg-rec="3",Загородный
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2099/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2099/index.m3u
 #EXTINF:0 tvg-rec="3",Три ангела
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2116/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2116/index.m3u
 #EXTINF:0 tvg-rec="3",РЖД ТВ
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2120/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2120/index.m3u
 #EXTINF:0 tvg-rec="3",БСТ
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2108/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2108/index.m3u
 #EXTINF:0 tvg-rec="3",Красная линия
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2147/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2147/index.m3u
 #EXTINF:0 tvg-rec="3",ЛДПР ТВ
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2110/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2110/index.m3u
 #EXTINF:0 tvg-rec="3",Хузур ТВ
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2150/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2150/index.m3u
 #EXTINF:0 tvg-rec="0",Life TV
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/971/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/971/index.m3u
 #EXTINF:0 tvg-rec="3",Дождь
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2030/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2030/index.m3u
 #EXTINF:0 tvg-rec="0",ТБН
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/974/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/974/index.m3u
 #EXTINF:0 tvg-rec="0",CNL
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/955/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/955/index.m3u
 #EXTINF:0 tvg-rec="3",Вместе-РФ
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2073/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2073/index.m3u
 #EXTINF:0 tvg-rec="3",Россия-Культура
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/505/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/505/index.m3u
 #EXTINF:0 tvg-rec="3",Про Бизнес
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/5043/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/5043/index.m3u
 #EXTINF:0 tvg-rec="0",Дождь HD
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6308/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6308/index.m3u
 #EXTINF:0 tvg-rec="0",Апостроф TV
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6373/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6373/index.m3u
 #EXTINF:0 tvg-rec="3",Е
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/5048/index.m3u8
-#EXTINF:0 tvg-rec="3",568 HD
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/5048/index.m3u
+#EXTINF:0 tvg-rec="3",Gametoon HD
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/5049/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/5049/index.m3u
 #EXTINF:0 tvg-rec="3",Ратник
 #EXTGRP:Общие
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2119/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2119/index.m3u
+#EXTINF:0 tvg-rec="0",Инфоканал
+#EXTGRP:Новостные
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/435/index.m3u
 #EXTINF:0 tvg-rec="0",Россия-24 +2
 #EXTGRP:Новостные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6013/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6013/index.m3u
 #EXTINF:0 tvg-rec="3",РБК FHD
 #EXTGRP:Новостные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2404/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2404/index.m3u
 #EXTINF:0 tvg-rec="3",РБК-ТВ
 #EXTGRP:Новостные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/106/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/106/index.m3u
 #EXTINF:0 tvg-rec="3",Россия-24
 #EXTGRP:Новостные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/507/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/507/index.m3u
 #EXTINF:0 tvg-rec="3",Москва 24
 #EXTGRP:Новостные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/523/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/523/index.m3u
 #EXTINF:0 tvg-rec="3",Мир 24 HD
 #EXTGRP:Новостные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2107/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2107/index.m3u
 #EXTINF:0 tvg-rec="3",Мир 24
 #EXTGRP:Новостные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/712/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/712/index.m3u
 #EXTINF:0 tvg-rec="3",Euronews Россия
 #EXTGRP:Новостные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/828/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/828/index.m3u
 #EXTINF:0 tvg-rec="3",CGTN русский
 #EXTGRP:Новостные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/831/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/831/index.m3u
 #EXTINF:0 tvg-rec="3",Известия
 #EXTGRP:Новостные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2008/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2008/index.m3u
 #EXTINF:0 tvg-rec="3",Центральное телевидение
 #EXTGRP:Новостные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2064/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2064/index.m3u
 #EXTINF:0 tvg-rec="3",NHK World TV
 #EXTGRP:Новостные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/729/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/729/index.m3u
 #EXTINF:0 tvg-rec="3",CGTN
 #EXTGRP:Новостные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/830/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/830/index.m3u
 #EXTINF:0 tvg-rec="3",Ultra HD Cinema 4K
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/4000/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/4000/index.m3u
 #EXTINF:0 tvg-rec="0",Amedia Hit HD
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6010/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6010/index.m3u
 #EXTINF:0 tvg-rec="0",Paramount Comedy HD
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6000/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6000/index.m3u
 #EXTINF:0 tvg-rec="3",Кино UHD 4K
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/5004/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/5004/index.m3u
 #EXTINF:0 tvg-rec="3",Сериал UHD 4K
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/5005/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/5005/index.m3u
 #EXTINF:0 tvg-rec="3",Страшное HD
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2567/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2567/index.m3u
 #EXTINF:0 tvg-rec="3",Остросюжетное HD
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/904/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/904/index.m3u
 #EXTINF:0 tvg-rec="3",Премиальное FHD
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2410/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2410/index.m3u
 #EXTINF:0 tvg-rec="3",Дом Кино Премиум HD
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/911/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/911/index.m3u
 #EXTINF:0 tvg-rec="3",Дом кино Премиум HD orig
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/5082/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/5082/index.m3u
 #EXTINF:0 tvg-rec="3",Про Любовь HD
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2430/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2430/index.m3u
 #EXTINF:0 tvg-rec="3",Наш Кинопоказ HD
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2434/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2434/index.m3u
 #EXTINF:0 tvg-rec="3",Блокбастер HD
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2436/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2436/index.m3u
 #EXTINF:0 tvg-rec="3",Хит HD
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2438/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2438/index.m3u
 #EXTINF:0 tvg-rec="3",Кинопоказ HD
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2439/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2439/index.m3u
 #EXTINF:0 tvg-rec="3",Наше Мужское HD
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2440/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2440/index.m3u
 #EXTINF:0 tvg-rec="3",Камеди HD
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2441/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2441/index.m3u
 #EXTINF:0 tvg-rec="3",VIP Serial HD
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2443/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2443/index.m3u
 #EXTINF:0 tvg-rec="0",Шокирующее
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/913/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/913/index.m3u
 #EXTINF:0 tvg-rec="3",Романтичное HD
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/5053/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/5053/index.m3u
 #EXTINF:0 tvg-rec="3",Комедийное HD
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/912/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/912/index.m3u
 #EXTINF:0 tvg-rec="3",Наш Кинороман HD
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/914/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/914/index.m3u
 #EXTINF:0 tvg-rec="3",Наше крутое HD
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/915/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/915/index.m3u
 #EXTINF:0 tvg-rec="3",Наше любимое HD
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2106/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2106/index.m3u
 #EXTINF:0 tvg-rec="3",Наше новое кино HD
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2133/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2133/index.m3u
 #EXTINF:0 tvg-rec="3",КИНОПРЕМЬЕРА HD
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/224/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/224/index.m3u
 #EXTINF:0 tvg-rec="3",Кинокомедия HD
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2132/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2132/index.m3u
 #EXTINF:0 tvg-rec="3",Киноужас HD
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2056/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2056/index.m3u
 #EXTINF:0 tvg-rec="3",Русский роман HD
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2076/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2076/index.m3u
 #EXTINF:0 tvg-rec="3",Русский иллюзион HD
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2114/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2114/index.m3u
 #EXTINF:0 tvg-rec="3",Дорама HD
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2131/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2131/index.m3u
 #EXTINF:0 tvg-rec="3",КИНО ТВ HD
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2097/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2097/index.m3u
 #EXTINF:0 tvg-rec="3",Amedia Premium HD
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/229/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/229/index.m3u
 #EXTINF:0 tvg-rec="3",Fox HD
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/219/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/219/index.m3u
 #EXTINF:0 tvg-rec="3",Hollywood HD
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/209/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/209/index.m3u
 #EXTINF:0 tvg-rec="3",Bollywood HD
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/239/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/239/index.m3u
 #EXTINF:0 tvg-rec="3",VIP Premiere
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/202/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/202/index.m3u
 #EXTINF:0 tvg-rec="3",VIP Premiere orig
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/5079/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/5079/index.m3u
 #EXTINF:0 tvg-rec="3",VIP Comedy
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/200/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/200/index.m3u
 #EXTINF:0 tvg-rec="3",VIP Comedy orig
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/5080/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/5080/index.m3u
 #EXTINF:0 tvg-rec="3",VIP Megahit
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/201/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/201/index.m3u
 #EXTINF:0 tvg-rec="3",VIP Megahit orig
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/5081/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/5081/index.m3u
 #EXTINF:0 tvg-rec="0",Epic Drama
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/1048/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/1048/index.m3u
 #EXTINF:0 tvg-rec="3",День Победы HD
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/5054/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/5054/index.m3u
 #EXTINF:0 tvg-rec="3",Победа HD
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/5052/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/5052/index.m3u
 #EXTINF:0 tvg-rec="3",Победа
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2003/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2003/index.m3u
 #EXTINF:0 tvg-rec="3",Paramount Channel HD
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/5063/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/5063/index.m3u
 #EXTINF:0 tvg-rec="3",A2 HD
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2046/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2046/index.m3u
 #EXTINF:0 tvg-rec="3",TV 1000 Русское кино
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/101/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/101/index.m3u
 #EXTINF:0 tvg-rec="3",Sony Sci-Fi
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/110/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/110/index.m3u
 #EXTINF:0 tvg-rec="3",КИНОМИКС
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/509/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/509/index.m3u
 #EXTINF:0 tvg-rec="3",КИНОСЕМЬЯ
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/125/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/125/index.m3u
 #EXTINF:0 tvg-rec="3",РОДНОЕ КИНО
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/126/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/126/index.m3u
 #EXTINF:0 tvg-rec="3",TV 1000 Action
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/131/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/131/index.m3u
 #EXTINF:0 tvg-rec="3",Кинохит
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/516/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/516/index.m3u
 #EXTINF:0 tvg-rec="3",Amedia 2
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/510/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/510/index.m3u
 #EXTINF:0 tvg-rec="3",Наше новое кино
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/517/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/517/index.m3u
 #EXTINF:0 tvg-rec="3",TV XXI
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/525/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/525/index.m3u
 #EXTINF:0 tvg-rec="3",КИНОКОМЕДИЯ
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/145/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/145/index.m3u
 #EXTINF:0 tvg-rec="3",ИНДИЙСКОЕ КИНО
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/146/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/146/index.m3u
 #EXTINF:0 tvg-rec="3",КИНОСЕРИЯ
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/148/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/148/index.m3u
 #EXTINF:0 tvg-rec="3",Русский Иллюзион
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/547/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/547/index.m3u
 #EXTINF:0 tvg-rec="3",Еврокино
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/549/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/549/index.m3u
 #EXTINF:0 tvg-rec="3",Fox Russia
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/550/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/550/index.m3u
 #EXTINF:0 tvg-rec="3",Fox Life
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/553/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/553/index.m3u
 #EXTINF:0 tvg-rec="3",Дом Кино
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/154/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/154/index.m3u
 #EXTINF:0 tvg-rec="3",Amedia 1
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/554/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/554/index.m3u
 #EXTINF:0 tvg-rec="3",Amedia Premium HD (SD)
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/555/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/555/index.m3u
 #EXTINF:0 tvg-rec="3",AMEDIA HIT
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/556/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/556/index.m3u
 #EXTINF:0 tvg-rec="3",TV 1000
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/132/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/132/index.m3u
 #EXTINF:0 tvg-rec="3",МУЖСКОЕ КИНО
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/164/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/164/index.m3u
 #EXTINF:0 tvg-rec="3",Hollywood
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/557/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/557/index.m3u
 #EXTINF:0 tvg-rec="3",Sony Entertainment Television
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/559/index.m3u8
-#EXTINF:0 tvg-rec="3",2X2
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/559/index.m3u
+#EXTINF:0 tvg-rec="3",2x2
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/702/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/702/index.m3u
 #EXTINF:0 tvg-rec="3",Sony Turbo
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/708/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/708/index.m3u
 #EXTINF:0 tvg-rec="3",Русский бестселлер
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/905/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/905/index.m3u
 #EXTINF:0 tvg-rec="3",Русский роман
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/906/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/906/index.m3u
 #EXTINF:0 tvg-rec="3",Русский детектив
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/907/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/907/index.m3u
 #EXTINF:0 tvg-rec="3",Любимое Кино
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/722/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/722/index.m3u
 #EXTINF:0 tvg-rec="3",КИНОСВИДАНИЕ
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/728/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/728/index.m3u
 #EXTINF:0 tvg-rec="3",КИНО ТВ
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/732/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/732/index.m3u
 #EXTINF:0 tvg-rec="3",Русская Комедия
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/733/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/733/index.m3u
 #EXTINF:0 tvg-rec="3",FAN
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/734/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/734/index.m3u
 #EXTINF:0 tvg-rec="3",НТВ‑ХИТ
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/741/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/741/index.m3u
 #EXTINF:0 tvg-rec="3",НТВ Сериал
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/744/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/744/index.m3u
 #EXTINF:0 tvg-rec="3",НСТ
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/726/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/726/index.m3u
 #EXTINF:0 tvg-rec="3",Bollywood
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/719/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/719/index.m3u
 #EXTINF:0 tvg-rec="0",ZEE TV
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/1001/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/1001/index.m3u
 #EXTINF:0 tvg-rec="0",Filmbox Arthouse
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/1071/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/1071/index.m3u
 #EXTINF:0 tvg-rec="0",Дорама
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/1066/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/1066/index.m3u
 #EXTINF:0 tvg-rec="0",TV1000 World Kino
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/1065/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/1065/index.m3u
 #EXTINF:0 tvg-rec="3",Мир Сериала
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/856/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/856/index.m3u
 #EXTINF:0 tvg-rec="3",Ретро
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2018/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2018/index.m3u
 #EXTINF:0 tvg-rec="3",Иллюзион +
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2038/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2038/index.m3u
 #EXTINF:0 tvg-rec="3",Феникс плюс Кино
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2039/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2039/index.m3u
 #EXTINF:0 tvg-rec="3",Paramount Channel
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2055/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2055/index.m3u
 #EXTINF:0 tvg-rec="3",Sony Channel HD
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2062/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2062/index.m3u
 #EXTINF:0 tvg-rec="3",Киносат
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2121/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2121/index.m3u
 #EXTINF:0 tvg-rec="3",Cinéma
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/5051/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/5051/index.m3u
 #EXTINF:0 tvg-rec="3",Paramount Comedy Russia
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/157/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/157/index.m3u
 #EXTINF:0 tvg-rec="3",Зал 1
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2568/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2568/index.m3u
 #EXTINF:0 tvg-rec="3",Зал 2
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2569/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2569/index.m3u
 #EXTINF:0 tvg-rec="3",Зал 3
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2570/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2570/index.m3u
 #EXTINF:0 tvg-rec="3",Зал 4
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2571/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2571/index.m3u
 #EXTINF:0 tvg-rec="3",Зал 5
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2572/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2572/index.m3u
 #EXTINF:0 tvg-rec="3",Зал 6
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2573/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2573/index.m3u
 #EXTINF:0 tvg-rec="3",Зал 7
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2574/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2574/index.m3u
 #EXTINF:0 tvg-rec="3",Зал 8
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2575/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2575/index.m3u
 #EXTINF:0 tvg-rec="3",Зал 9
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2576/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2576/index.m3u
 #EXTINF:0 tvg-rec="3",Зал 10
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2577/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2577/index.m3u
 #EXTINF:0 tvg-rec="3",Зал 11
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2578/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2578/index.m3u
 #EXTINF:0 tvg-rec="3",Зал 12
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2579/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2579/index.m3u
 #EXTINF:0 tvg-rec="0",Шокирующее HD
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6299/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6299/index.m3u
 #EXTINF:0 tvg-rec="0",Киносемья HD
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6382/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6382/index.m3u
 #EXTINF:0 tvg-rec="0",Киносвидание HD
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6383/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6383/index.m3u
 #EXTINF:0 tvg-rec="0",TV 1000 Action HD
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6386/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6386/index.m3u
 #EXTINF:0 tvg-rec="0",TV 1000 HD
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6387/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6387/index.m3u
 #EXTINF:0 tvg-rec="0",TV 1000 Русское кино HD
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6388/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6388/index.m3u
 #EXTINF:0 tvg-rec="0",Fox Life HD
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6389/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6389/index.m3u
 #EXTINF:0 tvg-rec="0",Мосфильм. Золотая коллекция
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6392/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6392/index.m3u
 #EXTINF:0 tvg-rec="0",Trash HD
 #EXTGRP:Кино
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6396/index.m3u8
-#EXTINF:0 tvg-rec="0",5 канал UA
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/945/index.m3u8
-#EXTINF:0 tvg-rec="0",FilmBox
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/948/index.m3u8
-#EXTINF:0 tvg-rec="0",24 Канал
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/951/index.m3u8
-#EXTINF:0 tvg-rec="0",ATR
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/952/index.m3u8
-#EXTINF:0 tvg-rec="0",Lale
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/953/index.m3u8
-#EXTINF:0 tvg-rec="0",Надiя ТВ
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/956/index.m3u8
-#EXTINF:0 tvg-rec="0",Перший Захiдний
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/957/index.m3u8
-#EXTINF:0 tvg-rec="0",UA:ЛЬВIВ
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/958/index.m3u8
-#EXTINF:0 tvg-rec="0",BBB TV
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/959/index.m3u8
-#EXTINF:0 tvg-rec="0",Центральный канал
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/963/index.m3u8
-#EXTINF:0 tvg-rec="0",Черноморская ТРК
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/965/index.m3u8
-#EXTINF:0 tvg-rec="0",112 Україна
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/924/index.m3u8
-#EXTINF:0 tvg-rec="0",EU Music
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/925/index.m3u8
-#EXTINF:0 tvg-rec="0",NewsOne
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/926/index.m3u8
-#EXTINF:0 tvg-rec="0",Eспресо TV
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/927/index.m3u8
-#EXTINF:0 tvg-rec="0",Мега
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/929/index.m3u8
-#EXTINF:0 tvg-rec="0",К2
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/930/index.m3u8
-#EXTINF:0 tvg-rec="0",К1
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/931/index.m3u8
-#EXTINF:0 tvg-rec="0",Квартал ТВ
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/932/index.m3u8
-#EXTINF:0 tvg-rec="0",Enter-фільм
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/933/index.m3u8
-#EXTINF:0 tvg-rec="0",Новий Канал
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/935/index.m3u8
-#EXTINF:0 tvg-rec="0",НТН
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/936/index.m3u8
-#EXTINF:0 tvg-rec="0",Інтер
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/937/index.m3u8
-#EXTINF:0 tvg-rec="0",Пiксель ТВ
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/938/index.m3u8
-#EXTINF:0 tvg-rec="0",Первый городской (Кривой Рог)
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/939/index.m3u8
-#EXTINF:0 tvg-rec="0",ID Fashion
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/940/index.m3u8
-#EXTINF:0 tvg-rec="0",Культура
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/941/index.m3u8
-#EXTINF:0 tvg-rec="0",Телевсесвiт
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/942/index.m3u8
-#EXTINF:0 tvg-rec="0",Медiаiнформ
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/943/index.m3u8
-#EXTINF:0 tvg-rec="0",Skrypin.UA
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/944/index.m3u8
-#EXTINF:0 tvg-rec="0",ТРК Алекс
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/967/index.m3u8
-#EXTINF:0 tvg-rec="0",4ever Music
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/970/index.m3u8
-#EXTINF:0 tvg-rec="0",Глас
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/972/index.m3u8
-#EXTINF:0 tvg-rec="0",Правда Тут
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/973/index.m3u8
-#EXTINF:0 tvg-rec="0",Тернопіль 1
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/975/index.m3u8
-#EXTINF:0 tvg-rec="0",Рада
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/976/index.m3u8
-#EXTINF:0 tvg-rec="0",MAXXI TV
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/977/index.m3u8
-#EXTINF:0 tvg-rec="0",News Network
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/978/index.m3u8
-#EXTINF:0 tvg-rec="0",Южная волна
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/979/index.m3u8
-#EXTINF:0 tvg-rec="0",Первый городской
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/981/index.m3u8
-#EXTINF:0 tvg-rec="0",СК1
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/982/index.m3u8
-#EXTINF:0 tvg-rec="0",Перший дiловий
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/985/index.m3u8
-#EXTINF:0 tvg-rec="0",1+1 International
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/987/index.m3u8
-#EXTINF:0 tvg-rec="0",Громадське
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/988/index.m3u8
-#EXTINF:0 tvg-rec="0",BOLT
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/991/index.m3u8
-#EXTINF:0 tvg-rec="0",Star Cinema
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/992/index.m3u8
-#EXTINF:0 tvg-rec="0",Чернiвецький Промiнь
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/1004/index.m3u8
-#EXTINF:0 tvg-rec="0",UA:Перший
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/1016/index.m3u8
-#EXTINF:0 tvg-rec="0",UA:Крым
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/1017/index.m3u8
-#EXTINF:0 tvg-rec="0",MostVideo.TV
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/1027/index.m3u8
-#EXTINF:0 tvg-rec="0",OBOZ TV
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/1028/index.m3u8
-#EXTINF:0 tvg-rec="0",TV5
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/1030/index.m3u8
-#EXTINF:0 tvg-rec="0",Star Family
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/1042/index.m3u8
-#EXTINF:0 tvg-rec="0",Интер+
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/1047/index.m3u8
-#EXTINF:0 tvg-rec="0",O-TV
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/1055/index.m3u8
-#EXTINF:0 tvg-rec="0",Телеканал Рибалка
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/1058/index.m3u8
-#EXTINF:0 tvg-rec="0",1+1
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/994/index.m3u8
-#EXTINF:0 tvg-rec="0",2+2
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/995/index.m3u8
-#EXTINF:0 tvg-rec="0",UKRAINE 1
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/997/index.m3u8
-#EXTINF:0 tvg-rec="0",Бiгудi
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/989/index.m3u8
-#EXTINF:0 tvg-rec="0",НТА
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/990/index.m3u8
-#EXTINF:0 tvg-rec="0",ТВА
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/998/index.m3u8
-#EXTINF:0 tvg-rec="0",Вiнтаж ТВ
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/999/index.m3u8
-#EXTINF:0 tvg-rec="0",ZOOM
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/1000/index.m3u8
-#EXTINF:0 tvg-rec="0",ПлюсПлюс
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/1002/index.m3u8
-#EXTINF:0 tvg-rec="0",Малятко ТВ
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/1003/index.m3u8
-#EXTINF:0 tvg-rec="0",Галичина
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/1005/index.m3u8
-#EXTINF:0 tvg-rec="0",Еко TV
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/1006/index.m3u8
-#EXTINF:0 tvg-rec="0",ZIK HD
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/1007/index.m3u8
-#EXTINF:0 tvg-rec="0",ZIK
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/1008/index.m3u8
-#EXTINF:0 tvg-rec="0",ТЕТ
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/1009/index.m3u8
-#EXTINF:0 tvg-rec="0",Україна
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/1011/index.m3u8
-#EXTINF:0 tvg-rec="0",HDFASHION&LifeStyle
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/1012/index.m3u8
-#EXTINF:0 tvg-rec="0",Сонце
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/1013/index.m3u8
-#EXTINF:0 tvg-rec="0",NLO TV2
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/1014/index.m3u8
-#EXTINF:0 tvg-rec="0",Прямий HD
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/1015/index.m3u8
-#EXTINF:0 tvg-rec="0",КРТ
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/1019/index.m3u8
-#EXTINF:0 tvg-rec="0",ЧП.INFO
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/1020/index.m3u8
-#EXTINF:0 tvg-rec="0",Ескулап TV
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/1022/index.m3u8
-#EXTINF:0 tvg-rec="0",УНІАН
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/1023/index.m3u8
-#EXTINF:0 tvg-rec="0",UA|TV HD
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/1024/index.m3u8
-#EXTINF:0 tvg-rec="0",36.6 TV
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/1025/index.m3u8
-#EXTINF:0 tvg-rec="0",Milady Television
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/1026/index.m3u8
-#EXTINF:0 tvg-rec="0",BOUTIQUE TV
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/1029/index.m3u8
-#EXTINF:0 tvg-rec="0",NLO TV1
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/1032/index.m3u8
-#EXTINF:0 tvg-rec="0",7 канал
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/1035/index.m3u8
-#EXTINF:0 tvg-rec="0",Music Box UA HD
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/1036/index.m3u8
-#EXTINF:0 tvg-rec="0",ТРК Круг
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/1040/index.m3u8
-#EXTINF:0 tvg-rec="0",ТРК Київ
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/1045/index.m3u8
-#EXTINF:0 tvg-rec="0",8 Канал UA
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/1046/index.m3u8
-#EXTINF:0 tvg-rec="0",Чернiвцi
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/1072/index.m3u8
-#EXTINF:0 tvg-rec="0",24 Канал HD
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/1063/index.m3u8
-#EXTINF:0 tvg-rec="0",4 канал
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/1039/index.m3u8
-#EXTINF:0 tvg-rec="3",UA:Донбас
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/5038/index.m3u8
-#EXTINF:0 tvg-rec="3",Мариупольское ТВ
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/5039/index.m3u8
-#EXTINF:0 tvg-rec="3",33 канал
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/5040/index.m3u8
-#EXTINF:0 tvg-rec="3",Тернопіль 1
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/5041/index.m3u8
-#EXTINF:0 tvg-rec="3",Перший Західний
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/5042/index.m3u8
-#EXTINF:0 tvg-rec="0",Vintage TV UA
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6009/index.m3u8
-#EXTINF:0 tvg-rec="0",ICTV UA
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6302/index.m3u8
-#EXTINF:0 tvg-rec="0",СТБ UA
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6304/index.m3u8
-#EXTINF:0 tvg-rec="0",Интер UA
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6305/index.m3u8
-#EXTINF:0 tvg-rec="0",АТР UA
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6306/index.m3u8
-#EXTINF:0 tvg-rec="0",XSPORT UA
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6309/index.m3u8
-#EXTINF:0 tvg-rec="0",1+1 UA
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6310/index.m3u8
-#EXTINF:0 tvg-rec="0",Эспресо TV UA
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6311/index.m3u8
-#EXTINF:0 tvg-rec="0",Пиксель UA
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6312/index.m3u8
-#EXTINF:0 tvg-rec="0",Спорт-1 UA
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6313/index.m3u8
-#EXTINF:0 tvg-rec="0",Спорт-2 UA
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6314/index.m3u8
-#EXTINF:0 tvg-rec="0",112 Украина HD UA
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6315/index.m3u8
-#EXTINF:0 tvg-rec="0",1+1 International UA
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6316/index.m3u8
-#EXTINF:0 tvg-rec="0",1+1 HD UA
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6317/index.m3u8
-#EXTINF:0 tvg-rec="0",ТРК Украина HD UA
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6318/index.m3u8
-#EXTINF:0 tvg-rec="0",Перший Т2 UA
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6319/index.m3u8
-#EXTINF:0 tvg-rec="0",Индиго UA
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6320/index.m3u8
-#EXTINF:0 tvg-rec="0",Эспресо ТВ HD UA
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6321/index.m3u8
-#EXTINF:0 tvg-rec="0",Болт HD UA
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6322/index.m3u8
-#EXTINF:0 tvg-rec="0",Lale HD UA
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6323/index.m3u8
-#EXTINF:0 tvg-rec="0",UA
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6324/index.m3u8
-#EXTINF:0 tvg-rec="0",Star Cinema HD UA
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6325/index.m3u8
-#EXTINF:0 tvg-rec="0",Star Family HD UA
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6326/index.m3u8
-#EXTINF:0 tvg-rec="0",8 канал HD UA
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6327/index.m3u8
-#EXTINF:0 tvg-rec="0",4 канал HD UA
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6328/index.m3u8
-#EXTINF:0 tvg-rec="0",1+1 International UA
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6329/index.m3u8
-#EXTINF:0 tvg-rec="0",Бігуді UA
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6330/index.m3u8
-#EXTINF:0 tvg-rec="0",XSPORT UA
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6331/index.m3u8
-#EXTINF:0 tvg-rec="0",NIKI Kids HD UA
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6332/index.m3u8
-#EXTINF:0 tvg-rec="0",NIKI Junior HD UA
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6333/index.m3u8
-#EXTINF:0 tvg-rec="0",М1 HD UA
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6334/index.m3u8
-#EXTINF:0 tvg-rec="0",М2 HD UA
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6335/index.m3u8
-#EXTINF:0 tvg-rec="0",PRO Все UA
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6336/index.m3u8
-#EXTINF:0 tvg-rec="0",Lale UA
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6337/index.m3u8
-#EXTINF:0 tvg-rec="0",Максi ТВ UA
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6338/index.m3u8
-#EXTINF:0 tvg-rec="0",ICTV UA
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6339/index.m3u8
-#EXTINF:0 tvg-rec="0",Новий канал UA
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6340/index.m3u8
-#EXTINF:0 tvg-rec="0",Кус Кус HD UA
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6341/index.m3u8
-#EXTINF:0 tvg-rec="0",2+2 UA
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6342/index.m3u8
-#EXTINF:0 tvg-rec="0",НЛО UA
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6343/index.m3u8
-#EXTINF:0 tvg-rec="0",НЛО ТВ HD
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6372/index.m3u8
-#EXTINF:0 tvg-rec="0",Индиго ТВ HD
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6374/index.m3u8
-#EXTINF:0 tvg-rec="0",ОЦЕ HD
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6375/index.m3u8
-#EXTINF:0 tvg-rec="0",UA:Перший HD
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6376/index.m3u8
-#EXTINF:0 tvg-rec="0",ТЕТ HD
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6377/index.m3u8
-#EXTINF:0 tvg-rec="0",2+2 HD
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6378/index.m3u8
-#EXTINF:0 tvg-rec="0",ПлюсПлюс HD
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6379/index.m3u8
-#EXTINF:0 tvg-rec="0",Оце
-#EXTGRP:Украина | Українські
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6380/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6396/index.m3u
+#EXTINF:0 tvg-rec="3",Матч! Премьер FHD
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2414/index.m3u
+#EXTINF:0 tvg-rec="3",Точка отрыва HD
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2128/index.m3u
+#EXTINF:0 tvg-rec="0",Матч +2
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6012/index.m3u
+#EXTINF:0 tvg-rec="0",Матч +4
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6023/index.m3u
+#EXTINF:0 tvg-rec="0",Матч +8
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6052/index.m3u
+#EXTINF:0 tvg-rec="0",Super Tennis HD
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6079/index.m3u
+#EXTINF:0 tvg-rec="3",МАТЧ ПРЕМЬЕР HD
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/220/index.m3u
+#EXTINF:0 tvg-rec="3",МАТЧ ПРЕМЬЕР
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/531/index.m3u
+#EXTINF:0 tvg-rec="3",Матч! FHD
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2413/index.m3u
+#EXTINF:0 tvg-rec="3",Матч! HD
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/212/index.m3u
+#EXTINF:0 tvg-rec="3",Матч ТВ
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/535/index.m3u
+#EXTINF:0 tvg-rec="3",Матч! Футбол 1 FHD
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2407/index.m3u
+#EXTINF:0 tvg-rec="3",Матч! Футбол 1 HD
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/222/index.m3u
+#EXTINF:0 tvg-rec="3",МАТЧ! Футбол 1 HD 50 orig
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/5072/index.m3u
+#EXTINF:0 tvg-rec="3",Матч! Футбол 1
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/124/index.m3u
+#EXTINF:0 tvg-rec="3",Матч! Футбол 2 FHD
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2420/index.m3u
+#EXTINF:0 tvg-rec="3",Матч! Футбол 2 HD
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/211/index.m3u
+#EXTINF:0 tvg-rec="3",Матч! Футбол 2
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/530/index.m3u
+#EXTINF:0 tvg-rec="3",Матч! Футбол 3 FHD
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2408/index.m3u
+#EXTINF:0 tvg-rec="3",Матч! Футбол 3 HD
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/206/index.m3u
+#EXTINF:0 tvg-rec="3",Матч Футбол 3 HD 50 orig
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/5071/index.m3u
+#EXTINF:0 tvg-rec="3",Матч! Футбол 3
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/522/index.m3u
+#EXTINF:0 tvg-rec="3",Матч! Игра FHD
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2406/index.m3u
+#EXTINF:0 tvg-rec="3",Матч! Игра HD
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/225/index.m3u
+#EXTINF:0 tvg-rec="3",Матч! Игра
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/529/index.m3u
+#EXTINF:0 tvg-rec="3",Матч! Арена HD
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/207/index.m3u
+#EXTINF:0 tvg-rec="3",Матч! Арена
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/528/index.m3u
+#EXTINF:0 tvg-rec="3",МАТЧ! СТРАНА
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/107/index.m3u
+#EXTINF:0 tvg-rec="0",Матч! Планета
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/123/index.m3u
+#EXTINF:0 tvg-rec="3",Матч! Боец
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/150/index.m3u
+#EXTINF:0 tvg-rec="3",Eurosport 4K
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/4004/index.m3u
+#EXTINF:0 tvg-rec="3",Eurosport 1 HD
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/228/index.m3u
+#EXTINF:0 tvg-rec="3",Eurosport 1 HD orig
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/5075/index.m3u
+#EXTINF:0 tvg-rec="3",Eurosport 1
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/141/index.m3u
+#EXTINF:0 tvg-rec="3",Eurosport 2 North-East HD
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/234/index.m3u
+#EXTINF:0 tvg-rec="3",Eurosport 2 North-East HD orig
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/5076/index.m3u
+#EXTINF:0 tvg-rec="3",Eurosport Gold HD
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2002/index.m3u
+#EXTINF:0 tvg-rec="3",Eurosport Gold HD orig
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/5066/index.m3u
+#EXTINF:0 tvg-rec="3",Setanta Sports HD
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/271/index.m3u
+#EXTINF:0 tvg-rec="3",Setanta Sports HD orig
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/5069/index.m3u
+#EXTINF:0 tvg-rec="3",Setanta Sports 2
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/270/index.m3u
+#EXTINF:0 tvg-rec="3",Setanta Sports 2 orig
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/5070/index.m3u
+#EXTINF:0 tvg-rec="3",Setanta Qazaqstan HD
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2399/index.m3u
+#EXTINF:0 tvg-rec="3",Setanta Sports Ukraine HD
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/272/index.m3u
+#EXTINF:0 tvg-rec="3",Setanta Sports Ukraine HD orig
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/5068/index.m3u
+#EXTINF:0 tvg-rec="3",Viasat Sport HD
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2007/index.m3u
+#EXTINF:0 tvg-rec="3",VIASAT Sport HD orig
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/5065/index.m3u
+#EXTINF:0 tvg-rec="3",Viasat Fotboll HD SK orig
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/5078/index.m3u
+#EXTINF:0 tvg-rec="3",UFC HD orig
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/5067/index.m3u
+#EXTINF:0 tvg-rec="3",UFC ТВ
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2000/index.m3u
+#EXTINF:0 tvg-rec="0",XSPORT HD
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/996/index.m3u
+#EXTINF:0 tvg-rec="3",Xsport HD orig
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/5077/index.m3u
+#EXTINF:0 tvg-rec="3",Русский Экстрим UHD 4K
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/5003/index.m3u
+#EXTINF:0 tvg-rec="3",Russian Extreme HD
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2077/index.m3u
+#EXTINF:0 tvg-rec="3",Конный Мир HD
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/214/index.m3u
+#EXTINF:0 tvg-rec="3",Телеканал КХЛ HD
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/215/index.m3u
+#EXTINF:0 tvg-rec="3",КХЛ FHD
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2403/index.m3u
+#EXTINF:0 tvg-rec="3",KHL
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/519/index.m3u
+#EXTINF:0 tvg-rec="0",FAST&FUN BOX HD
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/1018/index.m3u
+#EXTINF:0 tvg-rec="3",Моторспорт ТВ FHD
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2405/index.m3u
+#EXTINF:0 tvg-rec="3",Моторспорт ТВ HD
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2146/index.m3u
+#EXTINF:0 tvg-rec="3",Моторспорт ТВ
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2145/index.m3u
+#EXTINF:0 tvg-rec="3",Extreme Sports
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/144/index.m3u
+#EXTINF:0 tvg-rec="0",Футбол 1
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/1109/index.m3u
+#EXTINF:0 tvg-rec="3",Футбол 1 HD orig
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/5073/index.m3u
+#EXTINF:0 tvg-rec="0",Футбол 2
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/1110/index.m3u
+#EXTINF:0 tvg-rec="3",Футбол 2 HD orig
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/5074/index.m3u
+#EXTINF:0 tvg-rec="3",Футбол 3 HD
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/290/index.m3u
+#EXTINF:0 tvg-rec="3",Футбол 3 HD orig
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/5083/index.m3u
+#EXTINF:0 tvg-rec="3",Viasat Sport
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/160/index.m3u
+#EXTINF:0 tvg-rec="3",Fuel TV HD
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2396/index.m3u
+#EXTINF:0 tvg-rec="3",M-1 Global TV
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/843/index.m3u
+#EXTINF:0 tvg-rec="3",Бокс ТВ
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/870/index.m3u
+#EXTINF:0 tvg-rec="3",СТАРТ
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2154/index.m3u
+#EXTINF:0 tvg-rec="3",Телеканал Футбол
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/5050/index.m3u
+#EXTINF:0 tvg-rec="3",Драйв
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2021/index.m3u
+#EXTINF:0 tvg-rec="3",ЖИВИ!
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/738/index.m3u
+#EXTINF:0 tvg-rec="3",Е HD
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/5035/index.m3u
+#EXTINF:0 tvg-rec="0",Старт HD
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6384/index.m3u
+#EXTINF:0 tvg-rec="0",Golf TV HD
+#EXTGRP:Спорт
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6393/index.m3u
 #EXTINF:0 tvg-rec="3",Stingray Festival 4K
 #EXTGRP:Музыка
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/5006/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/5006/index.m3u
 #EXTINF:0 tvg-rec="3",MTV Россия HD
 #EXTGRP:Музыка
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2130/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2130/index.m3u
 #EXTINF:0 tvg-rec="3",MTV Live HD
 #EXTGRP:Музыка
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/221/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/221/index.m3u
 #EXTINF:0 tvg-rec="3",Жара HD
 #EXTGRP:Музыка
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2129/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2129/index.m3u
 #EXTINF:0 tvg-rec="3",ЖАРА
 #EXTGRP:Музыка
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/105/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/105/index.m3u
 #EXTINF:0 tvg-rec="3",BRIDGE HD
 #EXTGRP:Музыка
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/236/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/236/index.m3u
 #EXTINF:0 tvg-rec="3",BRIDGE TV DANCE
 #EXTGRP:Музыка
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/711/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/711/index.m3u
 #EXTINF:0 tvg-rec="3",C-Music HD
 #EXTGRP:Музыка
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2028/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2028/index.m3u
 #EXTINF:0 tvg-rec="3",Europa Plus TV
 #EXTGRP:Музыка
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/115/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/115/index.m3u
 #EXTINF:0 tvg-rec="3",МУЗ-ТВ
 #EXTGRP:Музыка
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/116/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/116/index.m3u
 #EXTINF:0 tvg-rec="3",BRIDGE TV Русский Хит
 #EXTGRP:Музыка
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/120/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/120/index.m3u
 #EXTINF:0 tvg-rec="3",Bridge TV
 #EXTGRP:Музыка
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/122/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/122/index.m3u
 #EXTINF:0 tvg-rec="3",MTV
 #EXTGRP:Музыка
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/142/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/142/index.m3u
 #EXTINF:0 tvg-rec="3",MTV Hits
 #EXTGRP:Музыка
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/153/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/153/index.m3u
 #EXTINF:0 tvg-rec="3",Музыка
 #EXTGRP:Музыка
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/155/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/155/index.m3u
 #EXTINF:0 tvg-rec="3",Mezzo Live HD
 #EXTGRP:Музыка
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/208/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/208/index.m3u
 #EXTINF:0 tvg-rec="3",VH1 European
 #EXTGRP:Музыка
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/536/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/536/index.m3u
 #EXTINF:0 tvg-rec="3",MTV Dance
 #EXTGRP:Музыка
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/558/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/558/index.m3u
 #EXTINF:0 tvg-rec="3",Mezzo
 #EXTGRP:Музыка
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/707/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/707/index.m3u
 #EXTINF:0 tvg-rec="3",ТНТ MUSIC
 #EXTGRP:Музыка
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/710/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/710/index.m3u
 #EXTINF:0 tvg-rec="3",AIVA HD
 #EXTGRP:Музыка
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2442/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2442/index.m3u
 #EXTINF:0 tvg-rec="3",о2тв HD
 #EXTGRP:Музыка
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2141/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2141/index.m3u
 #EXTINF:0 tvg-rec="3",VH1 Classic
 #EXTGRP:Музыка
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/724/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/724/index.m3u
 #EXTINF:0 tvg-rec="0",Vostok TV
 #EXTGRP:Музыка
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/1054/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/1054/index.m3u
 #EXTINF:0 tvg-rec="0",MTV Rocks
 #EXTGRP:Музыка
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/1038/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/1038/index.m3u
 #EXTINF:0 tvg-rec="3",MCM Top Russia
 #EXTGRP:Музыка
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/836/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/836/index.m3u
 #EXTINF:0 tvg-rec="3",Clubbing TV HD RU
 #EXTGRP:Музыка
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2395/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2395/index.m3u
 #EXTINF:0 tvg-rec="3",RU.TV
 #EXTGRP:Музыка
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/838/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/838/index.m3u
 #EXTINF:0 tvg-rec="3",Шансон ТВ
 #EXTGRP:Музыка
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/859/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/859/index.m3u
 #EXTINF:0 tvg-rec="0",VIVA TV
 #EXTGRP:Музыка
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/301/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/301/index.m3u
 #EXTINF:0 tvg-rec="3",Ля-минор ТВ
 #EXTGRP:Музыка
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2043/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2043/index.m3u
 #EXTINF:0 tvg-rec="3",Russian Music Box
 #EXTGRP:Музыка
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2048/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2048/index.m3u
 #EXTINF:0 tvg-rec="3",Курай HD
 #EXTGRP:Музыка
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2144/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2144/index.m3u
 #EXTINF:0 tvg-rec="3",Курай TV
 #EXTGRP:Музыка
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2061/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2061/index.m3u
 #EXTINF:0 tvg-rec="3",о2тв
 #EXTGRP:Музыка
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2068/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2068/index.m3u
 #EXTINF:0 tvg-rec="3",МузСоюз
 #EXTGRP:Музыка
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2137/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2137/index.m3u
 #EXTINF:0 tvg-rec="3",Жар Птица
 #EXTGRP:Музыка
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2142/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2142/index.m3u
 #EXTINF:0 tvg-rec="3",AIVA TV
 #EXTGRP:Музыка
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2156/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2156/index.m3u
 #EXTINF:0 tvg-rec="0",Муз ТВ +4
 #EXTGRP:Музыка
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6036/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6036/index.m3u
 #EXTINF:0 tvg-rec="0",SONG TV HD RU
 #EXTGRP:Музыка
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6394/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6394/index.m3u
 #EXTINF:0 tvg-rec="3",СТС Kids HD
 #EXTGRP:Детские
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2001/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2001/index.m3u
 #EXTINF:0 tvg-rec="3",Nickelodeon HD
 #EXTGRP:Детские
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/223/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/223/index.m3u
 #EXTINF:0 tvg-rec="3",Cartoon Network HD
 #EXTGRP:Детские
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2011/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2011/index.m3u
 #EXTINF:0 tvg-rec="3",Tiji TV
 #EXTGRP:Детские
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/108/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/108/index.m3u
 #EXTINF:0 tvg-rec="3",Gulli
 #EXTGRP:Детские
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/109/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/109/index.m3u
 #EXTINF:0 tvg-rec="3",Nick Jr
 #EXTGRP:Детские
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/114/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/114/index.m3u
 #EXTINF:0 tvg-rec="3",Nickelodeon
 #EXTGRP:Детские
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/541/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/541/index.m3u
 #EXTINF:0 tvg-rec="3",Disney
 #EXTGRP:Детские
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/524/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/524/index.m3u
 #EXTINF:0 tvg-rec="3",Детский мир
 #EXTGRP:Детские
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/543/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/543/index.m3u
 #EXTINF:0 tvg-rec="3",Jim Jam
 #EXTGRP:Детские
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/138/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/138/index.m3u
 #EXTINF:0 tvg-rec="3",Cartoon Network
 #EXTGRP:Детские
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/143/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/143/index.m3u
 #EXTINF:0 tvg-rec="3",Карусель
 #EXTGRP:Детские
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/156/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/156/index.m3u
 #EXTINF:0 tvg-rec="3",Ani
 #EXTGRP:Детские
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/129/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/129/index.m3u
 #EXTINF:0 tvg-rec="3",Мульт
 #EXTGRP:Детские
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/909/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/909/index.m3u
 #EXTINF:0 tvg-rec="3",Тлум HD
 #EXTGRP:Детские
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/240/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/240/index.m3u
 #EXTINF:0 tvg-rec="3",Boomerang
 #EXTGRP:Детские
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/723/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/723/index.m3u
 #EXTINF:0 tvg-rec="3",О!
 #EXTGRP:Детские
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/727/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/727/index.m3u
 #EXTINF:0 tvg-rec="3",Детский
 #EXTGRP:Детские
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/730/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/730/index.m3u
 #EXTINF:0 tvg-rec="3",В гостях у сказки
 #EXTGRP:Детские
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/737/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/737/index.m3u
 #EXTINF:0 tvg-rec="3",Карусель (+3)
 #EXTGRP:Детские
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/740/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/740/index.m3u
 #EXTINF:0 tvg-rec="3",Мультимузыка
 #EXTGRP:Детские
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/749/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/749/index.m3u
 #EXTINF:0 tvg-rec="0",Duck TV
 #EXTGRP:Детские
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/1031/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/1031/index.m3u
 #EXTINF:0 tvg-rec="3",Baby TV
 #EXTGRP:Детские
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2084/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2084/index.m3u
 #EXTINF:0 tvg-rec="0",Da Vinci Kids
 #EXTGRP:Детские
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/1033/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/1033/index.m3u
 #EXTINF:0 tvg-rec="0",Da Vinci Kids PL
 #EXTGRP:Детские
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/1034/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/1034/index.m3u
 #EXTINF:0 tvg-rec="0",Малыш
 #EXTGRP:Детские
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/1041/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/1041/index.m3u
 #EXTINF:0 tvg-rec="0",Nickelodeon EN
 #EXTGRP:Детские
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/1069/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/1069/index.m3u
 #EXTINF:0 tvg-rec="3",Радость моя
 #EXTGRP:Детские
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/853/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/853/index.m3u
 #EXTINF:0 tvg-rec="1",Рыжий
 #EXTGRP:Детские
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2052/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2052/index.m3u
 #EXTINF:0 tvg-rec="3",Капитан Фантастика
 #EXTGRP:Детские
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2098/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2098/index.m3u
 #EXTINF:0 tvg-rec="3",UTv
 #EXTGRP:Детские
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2103/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2103/index.m3u
 #EXTINF:0 tvg-rec="3",Тамыр
 #EXTGRP:Детские
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2109/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2109/index.m3u
 #EXTINF:0 tvg-rec="3",Смайлик ТВ
 #EXTGRP:Детские
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2157/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2157/index.m3u
 #EXTINF:0 tvg-rec="3",Мультиландия
 #EXTGRP:Детские
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/5055/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/5055/index.m3u
 #EXTINF:0 tvg-rec="3",Уникум
 #EXTGRP:Детские
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/5056/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/5056/index.m3u
 #EXTINF:0 tvg-rec="3",Мультик HD
 #EXTGRP:Детские
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/921/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/921/index.m3u
 #EXTINF:0 tvg-rec="3",Home 4K
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/4002/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/4002/index.m3u
 #EXTINF:0 tvg-rec="0",Viasat History HD
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6002/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6002/index.m3u
 #EXTINF:0 tvg-rec="0",Discovery Science HD
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6001/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6001/index.m3u
 #EXTINF:0 tvg-rec="3",Insight UHD 4K
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/5000/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/5000/index.m3u
 #EXTINF:0 tvg-rec="3",Love Nature 4K
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/5001/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/5001/index.m3u
 #EXTINF:0 tvg-rec="3",Наша Сибирь 4K
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/4003/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/4003/index.m3u
 #EXTINF:0 tvg-rec="3",National Geographic FHD
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2416/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2416/index.m3u
 #EXTINF:0 tvg-rec="3",National Geographic HD
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/230/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/230/index.m3u
 #EXTINF:0 tvg-rec="3",nat geographic
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/134/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/134/index.m3u
 #EXTINF:0 tvg-rec="3",TLC HD
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/232/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/232/index.m3u
 #EXTINF:0 tvg-rec="3",Travel Channel HD
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/233/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/233/index.m3u
 #EXTINF:0 tvg-rec="3",History HD
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/231/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/231/index.m3u
 #EXTINF:0 tvg-rec="3",Viasat Nature/History HD
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/203/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/203/index.m3u
 #EXTINF:0 tvg-rec="3",H2 HD
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2033/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2033/index.m3u
 #EXTINF:0 tvg-rec="3",Discovery Channel HD
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/227/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/227/index.m3u
 #EXTINF:0 tvg-rec="3",Discovery Channel
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/140/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/140/index.m3u
 #EXTINF:0 tvg-rec="3",Discovery HD Showcase
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2058/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2058/index.m3u
 #EXTINF:0 tvg-rec="3",RTG HD
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/210/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/210/index.m3u
 #EXTINF:0 tvg-rec="3",Nat Geo Wild FHD
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2415/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2415/index.m3u
 #EXTINF:0 tvg-rec="3",Nat Geo Wild HD
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/216/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/216/index.m3u
 #EXTINF:0 tvg-rec="3",Nat Geo Wild
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/133/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/133/index.m3u
 #EXTINF:0 tvg-rec="3",Discovery Science
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/136/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/136/index.m3u
 #EXTINF:0 tvg-rec="3",Animal Planet HD
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/218/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/218/index.m3u
 #EXTINF:0 tvg-rec="3",Animal Planet
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/137/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/137/index.m3u
 #EXTINF:0 tvg-rec="3",Охотник и рыболов HD
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/917/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/917/index.m3u
 #EXTINF:0 tvg-rec="3",ЕДА Премиум FHD
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2418/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2418/index.m3u
 #EXTINF:0 tvg-rec="3",ЕДА Премиум
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/918/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/918/index.m3u
 #EXTINF:0 tvg-rec="3",Food Network FHD
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2419/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2419/index.m3u
 #EXTINF:0 tvg-rec="0",Travel HD
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/1043/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/1043/index.m3u
 #EXTINF:0 tvg-rec="3",Живая природа HD
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2074/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2074/index.m3u
 #EXTINF:0 tvg-rec="3",В мире животных HD
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2089/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2089/index.m3u
 #EXTINF:0 tvg-rec="3",Планета HD
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2090/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2090/index.m3u
 #EXTINF:0 tvg-rec="3",Приключения HD
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/920/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/920/index.m3u
 #EXTINF:0 tvg-rec="1",Глазами туриста HD
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2104/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2104/index.m3u
 #EXTINF:0 tvg-rec="3",Большая Азия HD
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2009/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2009/index.m3u
 #EXTINF:0 tvg-rec="0",DocuBox HD
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/968/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/968/index.m3u
 #EXTINF:0 tvg-rec="3",Дикая охота HD
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2004/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2004/index.m3u
 #EXTINF:0 tvg-rec="3",Дикая рыбалка HD
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2005/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2005/index.m3u
 #EXTINF:0 tvg-rec="3",Диалоги о рыбалке HD
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2394/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2394/index.m3u
 #EXTINF:0 tvg-rec="3",Fine living HD
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2027/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2027/index.m3u
 #EXTINF:0 tvg-rec="3",Fine Living
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/735/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/735/index.m3u
 #EXTINF:0 tvg-rec="3",Загородный int HD
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2124/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2124/index.m3u
 #EXTINF:0 tvg-rec="3",ID Xtra HD
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2102/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2102/index.m3u
 #EXTINF:0 tvg-rec="3",Авто Плюс
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/151/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/151/index.m3u
 #EXTINF:0 tvg-rec="3",Кухня ТВ HD
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2127/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2127/index.m3u
 #EXTINF:0 tvg-rec="3",Кухня ТВ
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/152/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/152/index.m3u
 #EXTINF:0 tvg-rec="3",Нано ТВ HD
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2135/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2135/index.m3u
 #EXTINF:0 tvg-rec="3",Время
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/552/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/552/index.m3u
 #EXTINF:0 tvg-rec="3",Домашние Животные
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/158/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/158/index.m3u
 #EXTINF:0 tvg-rec="3",Точка отрыва
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/159/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/159/index.m3u
 #EXTINF:0 tvg-rec="3",Надежда
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2153/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2153/index.m3u
 #EXTINF:0 tvg-rec="3",Viasat Nature
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/161/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/161/index.m3u
 #EXTINF:0 tvg-rec="3",Viasat History
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/162/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/162/index.m3u
 #EXTINF:0 tvg-rec="3",Viasat Explore
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/163/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/163/index.m3u
 #EXTINF:0 tvg-rec="3",Travel Channel
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/130/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/130/index.m3u
 #EXTINF:0 tvg-rec="3",Наука HD
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2155/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2155/index.m3u
 #EXTINF:0 tvg-rec="3",Galaxy HD
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/5045/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/5045/index.m3u
 #EXTINF:0 tvg-rec="3",Первый образовательный
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/701/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/701/index.m3u
 #EXTINF:0 tvg-rec="3",OCEAN-TV
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/703/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/703/index.m3u
 #EXTINF:0 tvg-rec="3",Бобёр
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/725/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/725/index.m3u
 #EXTINF:0 tvg-rec="3",Зоопарк
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/731/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/731/index.m3u
 #EXTINF:0 tvg-rec="3",E
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/736/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/736/index.m3u
 #EXTINF:0 tvg-rec="3",Морской
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/742/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/742/index.m3u
 #EXTINF:0 tvg-rec="3",Телекафе
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/865/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/865/index.m3u
 #EXTINF:0 tvg-rec="3",Усадьба
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/532/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/532/index.m3u
 #EXTINF:0 tvg-rec="0",English Club TV
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/993/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/993/index.m3u
 #EXTINF:0 tvg-rec="0",H2
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/1052/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/1052/index.m3u
 #EXTINF:0 tvg-rec="0",Travel TV
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/1044/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/1044/index.m3u
 #EXTINF:0 tvg-rec="0",Classical Harmony
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/1037/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/1037/index.m3u
 #EXTINF:0 tvg-rec="0",Travel Channel EN
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/1070/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/1070/index.m3u
 #EXTINF:0 tvg-rec="3",History Russia
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/837/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/837/index.m3u
 #EXTINF:0 tvg-rec="3",RTG TV
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/841/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/841/index.m3u
 #EXTINF:0 tvg-rec="3",Первый Метео
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/845/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/845/index.m3u
 #EXTINF:0 tvg-rec="3",Дикий
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/847/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/847/index.m3u
 #EXTINF:0 tvg-rec="3",Spike Russia
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/849/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/849/index.m3u
 #EXTINF:0 tvg-rec="3",travel+adventure
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/850/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/850/index.m3u
 #EXTINF:0 tvg-rec="3",Поехали!
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/135/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/135/index.m3u
 #EXTINF:0 tvg-rec="3",Galaxy
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2010/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2010/index.m3u
 #EXTINF:0 tvg-rec="3",Охота и рыбалка
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2019/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2019/index.m3u
 #EXTINF:0 tvg-rec="3",ЕГЭ ТВ
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2020/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2020/index.m3u
 #EXTINF:0 tvg-rec="3",HD Media
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2037/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2037/index.m3u
 #EXTINF:0 tvg-rec="3",365 дней ТВ
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2040/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2040/index.m3u
 #EXTINF:0 tvg-rec="3",Телепутешествия
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2051/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2051/index.m3u
 #EXTINF:0 tvg-rec="3",Здоровье
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2054/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2054/index.m3u
 #EXTINF:0 tvg-rec="3",ТАЙНА
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2059/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2059/index.m3u
 #EXTINF:0 tvg-rec="3",Синергия ТВ
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2067/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2067/index.m3u
 #EXTINF:0 tvg-rec="3",Нано ТВ
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2081/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2081/index.m3u
 #EXTINF:0 tvg-rec="3",Investigation Discovery
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2085/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2085/index.m3u
 #EXTINF:0 tvg-rec="3",Оружие
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2087/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2087/index.m3u
 #EXTINF:0 tvg-rec="3",Зоо ТВ
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2100/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2100/index.m3u
 #EXTINF:0 tvg-rec="3",Живая Планета
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2101/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2101/index.m3u
 #EXTINF:0 tvg-rec="3",Наша тема
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2118/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2118/index.m3u
 #EXTINF:0 tvg-rec="3",Пёс и Ко
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2123/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2123/index.m3u
 #EXTINF:0 tvg-rec="3",Sea TV
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/5036/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/5036/index.m3u
 #EXTINF:0 tvg-rec="3",Домашние животные
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/5046/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/5046/index.m3u
 #EXTINF:0 tvg-rec="0",Fashion One
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/1010/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/1010/index.m3u
 #EXTINF:0 tvg-rec="0",World Fashion Channel
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/1068/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/1068/index.m3u
 #EXTINF:0 tvg-rec="3",Мужской
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2047/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2047/index.m3u
 #EXTINF:0 tvg-rec="3",Телеканал Да Винчи
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/537/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/537/index.m3u
 #EXTINF:0 tvg-rec="3",Мама
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/704/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/704/index.m3u
 #EXTINF:0 tvg-rec="3",CBS Reality
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/706/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/706/index.m3u
 #EXTINF:0 tvg-rec="3",НТВ Стиль
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/745/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/745/index.m3u
 #EXTINF:0 tvg-rec="3",НТВ Право
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/743/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/743/index.m3u
 #EXTINF:0 tvg-rec="0",Kabbala TV
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/1053/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/1053/index.m3u
 #EXTINF:0 tvg-rec="3",Первый Вегетарианский
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/833/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/833/index.m3u
 #EXTINF:0 tvg-rec="3",Загородная Жизнь
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/852/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/852/index.m3u
 #EXTINF:0 tvg-rec="3",Просвещение
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/846/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/846/index.m3u
 #EXTINF:0 tvg-rec="3",Твой дом
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/864/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/864/index.m3u
 #EXTINF:0 tvg-rec="3",ТДК
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2034/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2034/index.m3u
 #EXTINF:0 tvg-rec="3",Связист ТВ
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2111/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2111/index.m3u
 #EXTINF:0 tvg-rec="3",Мир Увлечений
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2112/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2112/index.m3u
 #EXTINF:0 tvg-rec="3",Т 24
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/5047/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/5047/index.m3u
 #EXTINF:0 tvg-rec="3",ТНОМЕР
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2149/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2149/index.m3u
 #EXTINF:0 tvg-rec="3",Калейдоскоп ТВ
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/5037/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/5037/index.m3u
 #EXTINF:0 tvg-rec="3",История
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/111/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/111/index.m3u
 #EXTINF:0 tvg-rec="3",Моя Планета
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/117/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/117/index.m3u
 #EXTINF:0 tvg-rec="3",Outdoor Channel
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/119/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/119/index.m3u
 #EXTINF:0 tvg-rec="3",Вопросы и ответы
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2026/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2026/index.m3u
 #EXTINF:0 tvg-rec="3",Совершенно секретно
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/121/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/121/index.m3u
 #EXTINF:0 tvg-rec="3",Доктор
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/512/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/512/index.m3u
 #EXTINF:0 tvg-rec="3",Авто 24
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/538/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/538/index.m3u
 #EXTINF:0 tvg-rec="0",Теледом
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/954/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/954/index.m3u
 #EXTINF:0 tvg-rec="0",ЕГЭ ТВ
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6301/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6301/index.m3u
 #EXTINF:0 tvg-rec="0",Авто Плюс HD
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6369/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6369/index.m3u
 #EXTINF:0 tvg-rec="0",Viasat Explore HD
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6381/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6381/index.m3u
 #EXTINF:0 tvg-rec="0",Museum HD
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6390/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6390/index.m3u
 #EXTINF:0 tvg-rec="0",HGTV HD RU
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6391/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6391/index.m3u
 #EXTINF:0 tvg-rec="0",Кто куда
 #EXTGRP:Познавательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6397/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6397/index.m3u
 #EXTINF:0 tvg-rec="3",MyZen TV 4K
 #EXTGRP:Развлекательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/5002/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/5002/index.m3u
 #EXTINF:0 tvg-rec="3",FTV UHD
 #EXTGRP:Развлекательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/4005/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/4005/index.m3u
 #EXTINF:0 tvg-rec="3",HD Life
 #EXTGRP:Развлекательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/226/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/226/index.m3u
 #EXTINF:0 tvg-rec="3",Эврика HD
 #EXTGRP:Развлекательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/908/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/908/index.m3u
 #EXTINF:0 tvg-rec="3",DTX HD
 #EXTGRP:Развлекательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2006/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2006/index.m3u
 #EXTINF:0 tvg-rec="3",DTX HD orig
 #EXTGRP:Развлекательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/5064/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/5064/index.m3u
 #EXTINF:0 tvg-rec="3",Fashion TV FHD
 #EXTGRP:Развлекательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2411/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2411/index.m3u
 #EXTINF:0 tvg-rec="3",Fashion TV HD
 #EXTGRP:Развлекательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2045/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2045/index.m3u
 #EXTINF:0 tvg-rec="3",Fashion One FHD
 #EXTGRP:Развлекательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2412/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2412/index.m3u
 #EXTINF:0 tvg-rec="3",Fashion One HD
 #EXTGRP:Развлекательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2044/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2044/index.m3u
 #EXTINF:0 tvg-rec="3",Арсенал HD
 #EXTGRP:Развлекательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/5044/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/5044/index.m3u
 #EXTINF:0 tvg-rec="3",Анекдот ТВ
 #EXTGRP:Развлекательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/5034/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/5034/index.m3u
 #EXTINF:0 tvg-rec="3",Театр
 #EXTGRP:Развлекательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2431/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2431/index.m3u
 #EXTINF:0 tvg-rec="3",Luxury World
 #EXTGRP:Развлекательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2072/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2072/index.m3u
 #EXTINF:0 tvg-rec="3",Luxury
 #EXTGRP:Развлекательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/5032/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/5032/index.m3u
 #EXTINF:0 tvg-rec="3",Продвижение
 #EXTGRP:Развлекательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/851/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/851/index.m3u
 #EXTINF:0 tvg-rec="3",ACB TV
 #EXTGRP:Развлекательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/868/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/868/index.m3u
 #EXTINF:0 tvg-rec="3",Globalstar TV
 #EXTGRP:Развлекательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2035/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2035/index.m3u
 #EXTINF:0 tvg-rec="3",Раз ТВ
 #EXTGRP:Развлекательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2069/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2069/index.m3u
 #EXTINF:0 tvg-rec="0",СТС HD
 #EXTGRP:Развлекательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6303/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6303/index.m3u
 #EXTINF:0 tvg-rec="0",ТНТ +2
 #EXTGRP:Развлекательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6020/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6020/index.m3u
 #EXTINF:0 tvg-rec="0",ТНТ4 HD
 #EXTGRP:Развлекательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6370/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6370/index.m3u
 #EXTINF:0 tvg-rec="0",Spike HD
 #EXTGRP:Развлекательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6371/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6371/index.m3u
 #EXTINF:0 tvg-rec="0",Театр HD
 #EXTGRP:Развлекательные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6385/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6385/index.m3u
 #EXTINF:0 tvg-rec="3",Сочи HD
 #EXTGRP:Региональные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2433/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2433/index.m3u
 #EXTINF:0 tvg-rec="3",Липецк Time
 #EXTGRP:Региональные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2435/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2435/index.m3u
 #EXTINF:0 tvg-rec="3",Санкт-Петербург
 #EXTGRP:Региональные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/715/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/715/index.m3u
 #EXTINF:0 tvg-rec="3",ТНВ-Планета
 #EXTGRP:Региональные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/515/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/515/index.m3u
 #EXTINF:0 tvg-rec="3",КРЫМ 24
 #EXTGRP:Региональные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2143/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2143/index.m3u
 #EXTINF:0 tvg-rec="3",Первый Крымский
 #EXTGRP:Региональные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2139/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2139/index.m3u
 #EXTINF:0 tvg-rec="3",Волга
 #EXTGRP:Региональные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2113/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2113/index.m3u
 #EXTINF:0 tvg-rec="0",Архыз 24
 #EXTGRP:Региональные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/1049/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/1049/index.m3u
 #EXTINF:0 tvg-rec="0",Астрахань 24
 #EXTGRP:Региональные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/1059/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/1059/index.m3u
 #EXTINF:0 tvg-rec="3",Башкирское спутниковое телевидение
 #EXTGRP:Региональные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/832/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/832/index.m3u
 #EXTINF:0 tvg-rec="3",Грозный
 #EXTGRP:Региональные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/855/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/855/index.m3u
 #EXTINF:0 tvg-rec="3",Брянская Губерния
 #EXTGRP:Региональные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/857/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/857/index.m3u
 #EXTINF:0 tvg-rec="3",Москва Доверие
 #EXTGRP:Региональные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/869/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/869/index.m3u
 #EXTINF:0 tvg-rec="3",БСТ HD
 #EXTGRP:Региональные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2115/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2115/index.m3u
 #EXTINF:0 tvg-rec="3",Губерния 33 HD
 #EXTGRP:Региональные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2400/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2400/index.m3u
 #EXTINF:0 tvg-rec="3",Юрган
 #EXTGRP:Региональные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2036/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2036/index.m3u
 #EXTINF:0 tvg-rec="3",Хамдан
 #EXTGRP:Региональные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2066/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2066/index.m3u
 #EXTINF:0 tvg-rec="3",ТОЛК
 #EXTGRP:Региональные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2140/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2140/index.m3u
 #EXTINF:0 tvg-rec="3",Эхо ТВ
 #EXTGRP:Региональные
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2151/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2151/index.m3u
 #EXTINF:0 tvg-rec="3",Extasy 4K
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/5014/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/5014/index.m3u
 #EXTINF:0 tvg-rec="3",Eroxxx HD
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/5015/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/5015/index.m3u
 #EXTINF:0 tvg-rec="3",Playboy
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/527/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/527/index.m3u
 #EXTINF:0 tvg-rec="3",Русская Ночь
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/147/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/147/index.m3u
 #EXTINF:0 tvg-rec="3",Brazzers TV Europe
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/910/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/910/index.m3u
 #EXTINF:0 tvg-rec="3",Шалун
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/922/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/922/index.m3u
 #EXTINF:0 tvg-rec="3",Candy
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/923/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/923/index.m3u
 #EXTINF:0 tvg-rec="0",Penthouse TV
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/1073/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/1073/index.m3u
 #EXTINF:0 tvg-rec="0",Blue Hustler
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/1064/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/1064/index.m3u
 #EXTINF:0 tvg-rec="3",Barely legal
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/871/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/871/index.m3u
 #EXTINF:0 tvg-rec="3",BRAZZERS TV Europe 2
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/872/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/872/index.m3u
 #EXTINF:0 tvg-rec="3",Sexto Senso
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/875/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/875/index.m3u
 #EXTINF:0 tvg-rec="0",SCT
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/876/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/876/index.m3u
 #EXTINF:0 tvg-rec="3",PRIVE
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/877/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/877/index.m3u
 #EXTINF:0 tvg-rec="3",Passion XXX
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/878/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/878/index.m3u
 #EXTINF:0 tvg-rec="3",Redlight HD
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/242/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/242/index.m3u
 #EXTINF:0 tvg-rec="3",Private TV
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/243/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/243/index.m3u
 #EXTINF:0 tvg-rec="0",Hustler HD Europe
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/244/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/244/index.m3u
 #EXTINF:0 tvg-rec="3",Dorcel TV HD
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/245/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/245/index.m3u
 #EXTINF:0 tvg-rec="3",Pink'o TV
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/874/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/874/index.m3u
 #EXTINF:0 tvg-rec="3",Нюарт TV
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2057/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2057/index.m3u
 #EXTINF:0 tvg-rec="3",FrenchLover
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2160/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2160/index.m3u
 #EXTINF:0 tvg-rec="3",O-la-la
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2161/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2161/index.m3u
 #EXTINF:0 tvg-rec="1",Vivid Red HD
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2162/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2162/index.m3u
 #EXTINF:0 tvg-rec="3",Exxxotica HD
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2397/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2397/index.m3u
 #EXTINF:0 tvg-rec="3",XXL
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/5009/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/5009/index.m3u
 #EXTINF:0 tvg-rec="3",Penthouse Passion
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/5010/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/5010/index.m3u
 #EXTINF:0 tvg-rec="3",Penthouse Gold HD
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/5011/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/5011/index.m3u
 #EXTINF:0 tvg-rec="3",Penthouse Quickies 1300k
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/5012/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/5012/index.m3u
 #EXTINF:0 tvg-rec="3",Penthouse Quickies HD
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/5013/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/5013/index.m3u
 #EXTINF:0 tvg-rec="3",SHOT TV
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/526/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/526/index.m3u
 #EXTINF:0 tvg-rec="0",21 Sextury
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6164/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6164/index.m3u
 #EXTINF:0 tvg-rec="0",A3 Bikini
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6165/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6165/index.m3u
 #EXTINF:0 tvg-rec="0",Adult Time
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6166/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6166/index.m3u
 #EXTINF:0 tvg-rec="0",Anal Red TV
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6167/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6167/index.m3u
 #EXTINF:0 tvg-rec="0",Analized HD
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6168/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6168/index.m3u
 #EXTINF:0 tvg-rec="0",AST TV
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6169/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6169/index.m3u
 #EXTINF:0 tvg-rec="0",AST TV 2
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6170/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6170/index.m3u
 #EXTINF:0 tvg-rec="0",Babes HD
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6171/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6171/index.m3u
 #EXTINF:0 tvg-rec="0",Babes TV HD
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6172/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6172/index.m3u
 #EXTINF:0 tvg-rec="0",Bang Bros HD
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6173/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6173/index.m3u
 #EXTINF:0 tvg-rec="0",Bang!
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6174/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6174/index.m3u
 #EXTINF:0 tvg-rec="0",Big Ass Adult TV
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6175/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6175/index.m3u
 #EXTINF:0 tvg-rec="0",Big Dick Red TV
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6176/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6176/index.m3u
 #EXTINF:0 tvg-rec="0",Big Tits Adult TV
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6177/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6177/index.m3u
 #EXTINF:0 tvg-rec="0",Blacked HD
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6178/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6178/index.m3u
 #EXTINF:0 tvg-rec="0",Blonde Adult TV
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6179/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6179/index.m3u
 #EXTINF:0 tvg-rec="0",Blowjob Red TV
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6180/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6180/index.m3u
 #EXTINF:0 tvg-rec="0",Brazzers eXXtra
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6181/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6181/index.m3u
 #EXTINF:0 tvg-rec="0",Brazzers HD
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6182/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6182/index.m3u
 #EXTINF:0 tvg-rec="0",Brunette Adult TV
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6183/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6183/index.m3u
 #EXTINF:0 tvg-rec="0",cento x cento
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6184/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6184/index.m3u
 #EXTINF:0 tvg-rec="0",Cherry Pimps
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6185/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6185/index.m3u
 #EXTINF:0 tvg-rec="0",Club 17
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6186/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6186/index.m3u
 #EXTINF:0 tvg-rec="0",Compilation Adult TV
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6187/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6187/index.m3u
 #EXTINF:0 tvg-rec="0",Cuckold Red TV
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6188/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6188/index.m3u
 #EXTINF:0 tvg-rec="0",Cum Louder
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6189/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6189/index.m3u
 #EXTINF:0 tvg-rec="0",Cum4k
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6190/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6190/index.m3u
 #EXTINF:0 tvg-rec="0",Daughter Swap
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6191/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6191/index.m3u
 #EXTINF:0 tvg-rec="0",Day with a Pornstar
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6192/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6192/index.m3u
 #EXTINF:0 tvg-rec="0",DDF Busty
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6193/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6193/index.m3u
 #EXTINF:0 tvg-rec="0",DDF Network
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6194/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6194/index.m3u
 #EXTINF:0 tvg-rec="0",Digital Desire HD
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6195/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6195/index.m3u
 #EXTINF:0 tvg-rec="0",Digital Playground HD
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6196/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6196/index.m3u
 #EXTINF:0 tvg-rec="0",Dorcel Club
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6197/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6197/index.m3u
 #EXTINF:0 tvg-rec="0",Dusk
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6198/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6198/index.m3u
 #EXTINF:0 tvg-rec="0",Evil Angel HD
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6199/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6199/index.m3u
 #EXTINF:0 tvg-rec="0",Evolved Fights
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6200/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6200/index.m3u
 #EXTINF:0 tvg-rec="0",Extasy HD
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6201/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6201/index.m3u
 #EXTINF:0 tvg-rec="0",Fake Taxi HD
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6202/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6202/index.m3u
 #EXTINF:0 tvg-rec="0",Fap TV 2
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6203/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6203/index.m3u
 #EXTINF:0 tvg-rec="0",Fap TV 3
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6204/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6204/index.m3u
 #EXTINF:0 tvg-rec="0",Fap TV 4
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6205/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6205/index.m3u
 #EXTINF:0 tvg-rec="0",Fap TV Anal
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6206/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6206/index.m3u
 #EXTINF:0 tvg-rec="0",Fap TV BBW
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6207/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6207/index.m3u
 #EXTINF:0 tvg-rec="0",Fap TV Compilation
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6208/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6208/index.m3u
 #EXTINF:0 tvg-rec="0",Fap TV Lesbian
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6209/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6209/index.m3u
 #EXTINF:0 tvg-rec="0",Fap TV Parody
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6210/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6210/index.m3u
 #EXTINF:0 tvg-rec="0",Fap TV Teens
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6211/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6211/index.m3u
 #EXTINF:0 tvg-rec="0",FemJoy
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6212/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6212/index.m3u
 #EXTINF:0 tvg-rec="0",Fetish Red TV
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6213/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6213/index.m3u
 #EXTINF:0 tvg-rec="0",Gangbang Adult TV
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6214/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6214/index.m3u
 #EXTINF:0 tvg-rec="0",Gay Adult TV
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6215/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6215/index.m3u
 #EXTINF:0 tvg-rec="0",Got MYLF
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6216/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6216/index.m3u
 #EXTINF:0 tvg-rec="0",Hands on Hardcore
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6217/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6217/index.m3u
 #EXTINF:0 tvg-rec="0",Hard X
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6218/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6218/index.m3u
 #EXTINF:0 tvg-rec="0",Hardcore Red TV
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6219/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6219/index.m3u
 #EXTINF:0 tvg-rec="0",Hitzefrei HD
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6220/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6220/index.m3u
 #EXTINF:0 tvg-rec="0",Holed
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6221/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6221/index.m3u
 #EXTINF:0 tvg-rec="0",Hot and Mean
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6222/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6222/index.m3u
 #EXTINF:0 tvg-rec="0",Hot Guys Fuck
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6223/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6223/index.m3u
 #EXTINF:0 tvg-rec="0",Interracial Red TV
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6224/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6224/index.m3u
 #EXTINF:0 tvg-rec="0",Japan HDV
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6225/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6225/index.m3u
 #EXTINF:0 tvg-rec="0",Latina Red TV
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6226/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6226/index.m3u
 #EXTINF:0 tvg-rec="0",Lesbea
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6227/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6227/index.m3u
 #EXTINF:0 tvg-rec="0",Lesbian Red TV
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6228/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6228/index.m3u
 #EXTINF:0 tvg-rec="0",Lethal Hardcore
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6229/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6229/index.m3u
 #EXTINF:0 tvg-rec="0",Little Asians HD
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6230/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6230/index.m3u
 #EXTINF:0 tvg-rec="0",Live Cams Adult TV
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6231/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6231/index.m3u
 #EXTINF:0 tvg-rec="0",Lust Cinema
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6232/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6232/index.m3u
 #EXTINF:0 tvg-rec="0",MetArt HD
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6233/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6233/index.m3u
 #EXTINF:0 tvg-rec="0",MILF Red TV
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6234/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6234/index.m3u
 #EXTINF:0 tvg-rec="0",Monsters of Cock
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6235/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6235/index.m3u
 #EXTINF:0 tvg-rec="0",MYLF TV HD
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6236/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6236/index.m3u
 #EXTINF:0 tvg-rec="0",Naughty America
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6237/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6237/index.m3u
 #EXTINF:0 tvg-rec="0",Nubiles TV HD
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6238/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6238/index.m3u
 #EXTINF:0 tvg-rec="0",ox-ax HD
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6239/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6239/index.m3u
 #EXTINF:0 tvg-rec="0",Pink Erotic 3
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6240/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6240/index.m3u
 #EXTINF:0 tvg-rec="0",Pink Erotic 4
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6241/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6241/index.m3u
 #EXTINF:0 tvg-rec="0",Playboy Plus
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6242/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6242/index.m3u
 #EXTINF:0 tvg-rec="0",Pornstar Red TV
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6243/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6243/index.m3u
 #EXTINF:0 tvg-rec="0",POV Adult TV
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6244/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6244/index.m3u
 #EXTINF:0 tvg-rec="0",Private HD
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6245/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6245/index.m3u
 #EXTINF:0 tvg-rec="0",Public Agent
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6246/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6246/index.m3u
 #EXTINF:0 tvg-rec="0",Reality Kings HD
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6247/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6247/index.m3u
 #EXTINF:0 tvg-rec="0",RK Prime
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6248/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6248/index.m3u
 #EXTINF:0 tvg-rec="0",RK TV
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6249/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6249/index.m3u
 #EXTINF:0 tvg-rec="0",Rough Adult TV
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6250/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6250/index.m3u
 #EXTINF:0 tvg-rec="0",Russian Adult TV
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6251/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6251/index.m3u
 #EXTINF:0 tvg-rec="0",Sex With Muslims
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6252/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6252/index.m3u
 #EXTINF:0 tvg-rec="0",SexArt
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6253/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6253/index.m3u
 #EXTINF:0 tvg-rec="0",sext 6 senso
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6254/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6254/index.m3u
 #EXTINF:0 tvg-rec="0",SINematica
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6255/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6255/index.m3u
 #EXTINF:0 tvg-rec="0",Teen Red TV
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6256/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6256/index.m3u
 #EXTINF:0 tvg-rec="0",Threesome Red TV
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6257/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6257/index.m3u
 #EXTINF:0 tvg-rec="0",Tiny4K
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6258/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6258/index.m3u
 #EXTINF:0 tvg-rec="0",Trans Angels
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6259/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6259/index.m3u
 #EXTINF:0 tvg-rec="0",True Amateurs
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6260/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6260/index.m3u
 #EXTINF:0 tvg-rec="0",Tushy HD
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6261/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6261/index.m3u
 #EXTINF:0 tvg-rec="0",TushyRAW
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6262/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6262/index.m3u
 #EXTINF:0 tvg-rec="0",Visit-X TV
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6263/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6263/index.m3u
 #EXTINF:0 tvg-rec="0",Vivid TV Europe
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6264/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6264/index.m3u
 #EXTINF:0 tvg-rec="0",Vixen HD
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6265/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6265/index.m3u
 #EXTINF:0 tvg-rec="0",We Live Together
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6266/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6266/index.m3u
 #EXTINF:0 tvg-rec="0",White Boxxx
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6267/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6267/index.m3u
 #EXTINF:0 tvg-rec="0",Wicked
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6268/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6268/index.m3u
 #EXTINF:0 tvg-rec="0",Xpanded TV
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6269/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6269/index.m3u
 #EXTINF:0 tvg-rec="0",Balkan Erotic
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6270/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6270/index.m3u
 #EXTINF:0 tvg-rec="0",Bangerz
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6271/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6271/index.m3u
 #EXTINF:0 tvg-rec="0",Emanuelle HD
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6272/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6272/index.m3u
 #EXTINF:0 tvg-rec="0",Extreme
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6273/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6273/index.m3u
 #EXTINF:0 tvg-rec="0",Fast Boyz
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6274/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6274/index.m3u
 #EXTINF:0 tvg-rec="0",HOT
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6275/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6275/index.m3u
 #EXTINF:0 tvg-rec="0",HOT XXL HD
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6276/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6276/index.m3u
 #EXTINF:0 tvg-rec="0",Hot Pleasure
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6277/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6277/index.m3u
 #EXTINF:0 tvg-rec="0",Lesbian Affair
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6278/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6278/index.m3u
 #EXTINF:0 tvg-rec="0",Oldtimer
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6279/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6279/index.m3u
 #EXTINF:0 tvg-rec="0",Playboy LA
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6280/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6280/index.m3u
 #EXTINF:0 tvg-rec="0",Red XXX
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6281/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6281/index.m3u
 #EXTINF:0 tvg-rec="0",Sexy Hot
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6282/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6282/index.m3u
 #EXTINF:0 tvg-rec="0",Taboo
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6283/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6283/index.m3u
 #EXTINF:0 tvg-rec="0",Venus
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6284/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6284/index.m3u
 #EXTINF:0 tvg-rec="0",X-MO
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6285/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6285/index.m3u
 #EXTINF:0 tvg-rec="0",XY Max HD
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6286/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6286/index.m3u
 #EXTINF:0 tvg-rec="0",XY Mix HD
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6287/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6287/index.m3u
 #EXTINF:0 tvg-rec="0",XY Plus HD
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6288/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6288/index.m3u
 #EXTINF:0 tvg-rec="0",Erotic
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6289/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6289/index.m3u
 #EXTINF:0 tvg-rec="0",Erotic 2
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6290/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6290/index.m3u
 #EXTINF:0 tvg-rec="0",Erotic 3
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6291/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6291/index.m3u
 #EXTINF:0 tvg-rec="0",Erotic 4
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6292/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6292/index.m3u
 #EXTINF:0 tvg-rec="0",Erotic 6
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6293/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6293/index.m3u
 #EXTINF:0 tvg-rec="0",Erotic 7
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6294/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6294/index.m3u
 #EXTINF:0 tvg-rec="0",Erotic 8
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6295/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6295/index.m3u
 #EXTINF:0 tvg-rec="0",Erox HD
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6296/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6296/index.m3u
 #EXTINF:0 tvg-rec="0",MvH Hard
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6297/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6297/index.m3u
 #EXTINF:0 tvg-rec="0",SuperOne HD
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6298/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6298/index.m3u
 #EXTINF:0 tvg-rec="0",Искушение HD
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6300/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6300/index.m3u
 #EXTINF:0 tvg-rec="0",Ню Арт HD
 #EXTGRP:Взрослые
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/6307/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6307/index.m3u
 #EXTINF:0 tvg-rec="0",Беларусь 24
 #EXTGRP:Беларусь | Беларускія
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/1061/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/1061/index.m3u
 #EXTINF:0 tvg-rec="3",БелРос
 #EXTGRP:Беларусь | Беларускія
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/835/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/835/index.m3u
 #EXTINF:0 tvg-rec="3",Беларусь 1
 #EXTGRP:Беларусь | Беларускія
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2170/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2170/index.m3u
 #EXTINF:0 tvg-rec="3",Беларусь 2
 #EXTGRP:Беларусь | Беларускія
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2173/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2173/index.m3u
 #EXTINF:0 tvg-rec="3",Беларусь 3
 #EXTGRP:Беларусь | Беларускія
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2174/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2174/index.m3u
 #EXTINF:0 tvg-rec="3",Беларусь 1 HD
 #EXTGRP:Беларусь | Беларускія
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2178/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2178/index.m3u
 #EXTINF:0 tvg-rec="3",Беларусь 2 HD
 #EXTGRP:Беларусь | Беларускія
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2179/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2179/index.m3u
 #EXTINF:0 tvg-rec="3",Беларусь 3 HD
 #EXTGRP:Беларусь | Беларускія
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2180/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2180/index.m3u
 #EXTINF:0 tvg-rec="3",Беларусь 5 HD
 #EXTGRP:Беларусь | Беларускія
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2177/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2177/index.m3u
 #EXTINF:0 tvg-rec="3",ВТВ (СТС)
 #EXTGRP:Беларусь | Беларускія
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2176/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2176/index.m3u
 #EXTINF:0 tvg-rec="3",СТВ
 #EXTGRP:Беларусь | Беларускія
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2172/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2172/index.m3u
 #EXTINF:0 tvg-rec="3",СТВ HD
 #EXTGRP:Беларусь | Беларускія
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2184/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2184/index.m3u
 #EXTINF:0 tvg-rec="3",ОНТ
 #EXTGRP:Беларусь | Беларускія
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2171/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2171/index.m3u
 #EXTINF:0 tvg-rec="3",ОНТ HD
 #EXTGRP:Беларусь | Беларускія
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2182/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2182/index.m3u
 #EXTINF:0 tvg-rec="3",РТР
 #EXTGRP:Беларусь | Беларускія
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2183/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2183/index.m3u
 #EXTINF:0 tvg-rec="3",Cinema HD
 #EXTGRP:Беларусь | Беларускія
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2185/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2185/index.m3u
 #EXTINF:0 tvg-rec="3",8 Канал HD
 #EXTGRP:Беларусь | Беларускія
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2186/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2186/index.m3u
 #EXTINF:0 tvg-rec="3",Беларусь 5 BY
 #EXTGRP:Беларусь | Беларускія
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/5060/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/5060/index.m3u
 #EXTINF:0 tvg-rec="3",ОНТ BY
 #EXTGRP:Беларусь | Беларускія
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/5061/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/5061/index.m3u
 #EXTINF:0 tvg-rec="3",БелРос BY
 #EXTGRP:Беларусь | Беларускія
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/5062/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/5062/index.m3u
 #EXTINF:0 tvg-rec="3",Рен ТВ MD
 #EXTGRP:Молдавия | Moldovenească
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2455/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2455/index.m3u
 #EXTINF:0 tvg-rec="3",Prime 1 MD
 #EXTGRP:Молдавия | Moldovenească
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2451/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2451/index.m3u
 #EXTINF:0 tvg-rec="3",Canal 3
 #EXTGRP:Молдавия | Moldovenească
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2453/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2453/index.m3u
 #EXTINF:0 tvg-rec="3",Publika TV
 #EXTGRP:Молдавия | Moldovenească
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2450/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2450/index.m3u
 #EXTINF:0 tvg-rec="3",Moldova 1 HD MD
 #EXTGRP:Молдавия | Moldovenească
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2444/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2444/index.m3u
 #EXTINF:0 tvg-rec="3",Moldova 2
 #EXTGRP:Молдавия | Moldovenească
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2445/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2445/index.m3u
 #EXTINF:0 tvg-rec="3",RTR Moldova
 #EXTGRP:Молдавия | Moldovenească
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2447/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2447/index.m3u
 #EXTINF:0 tvg-rec="3",N4 MD
 #EXTGRP:Молдавия | Moldovenească
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2460/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2460/index.m3u
 #EXTINF:0 tvg-rec="3",Orhei TV
 #EXTGRP:Молдавия | Moldovenească
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2448/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2448/index.m3u
 #EXTINF:0 tvg-rec="3",PRIMUL
 #EXTGRP:Молдавия | Moldovenească
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2449/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2449/index.m3u
 #EXTINF:0 tvg-rec="3",Accent TV
 #EXTGRP:Молдавия | Moldovenească
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2459/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2459/index.m3u
 #EXTINF:0 tvg-rec="3",ITV Moldova
 #EXTGRP:Молдавия | Moldovenească
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2461/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2461/index.m3u
 #EXTINF:0 tvg-rec="3",СТС Mega MD
 #EXTGRP:Молдавия | Moldovenească
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2462/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2462/index.m3u
 #EXTINF:0 tvg-rec="3",TVR1 HD
 #EXTGRP:Молдавия | Moldovenească
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/5026/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/5026/index.m3u
 #EXTINF:0 tvg-rec="3",MBC MD
 #EXTGRP:Молдавия | Moldovenească
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2465/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2465/index.m3u
 #EXTINF:0 tvg-rec="3",GOLD TV MD
 #EXTGRP:Молдавия | Moldovenească
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2472/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2472/index.m3u
 #EXTINF:0 tvg-rec="3",Noroc TV
 #EXTGRP:Молдавия | Moldovenească
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2473/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2473/index.m3u
 #EXTINF:0 tvg-rec="3",AXIAL TV
 #EXTGRP:Молдавия | Moldovenească
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2467/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2467/index.m3u
 #EXTINF:0 tvg-rec="3",Jurnal TV
 #EXTGRP:Молдавия | Moldovenească
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2446/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2446/index.m3u
 #EXTINF:0 tvg-rec="3",Canal 2 MD
 #EXTGRP:Молдавия | Moldovenească
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2452/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2452/index.m3u
 #EXTINF:0 tvg-rec="3",TV8 MD
 #EXTGRP:Молдавия | Moldovenească
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2454/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2454/index.m3u
 #EXTINF:0 tvg-rec="3",ProTV Chisinau
 #EXTGRP:Молдавия | Moldovenească
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2456/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2456/index.m3u
 #EXTINF:0 tvg-rec="3",NTV MD
 #EXTGRP:Молдавия | Moldovenească
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2457/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2457/index.m3u
 #EXTINF:0 tvg-rec="3",TVC 21 MD
 #EXTGRP:Молдавия | Moldovenească
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2458/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2458/index.m3u
 #EXTINF:0 tvg-rec="3",ТНТ Exclusiv TV
 #EXTGRP:Молдавия | Moldovenească
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2463/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2463/index.m3u
 #EXTINF:0 tvg-rec="3",TVR 1 MD
 #EXTGRP:Молдавия | Moldovenească
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2464/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2464/index.m3u
 #EXTINF:0 tvg-rec="3",10 TV MD
 #EXTGRP:Молдавия | Moldovenească
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2466/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2466/index.m3u
 #EXTINF:0 tvg-rec="3",Minimax MD
 #EXTGRP:Молдавия | Moldovenească
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2468/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2468/index.m3u
 #EXTINF:0 tvg-rec="3",Gurinel TV
 #EXTGRP:Молдавия | Moldovenească
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2469/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2469/index.m3u
 #EXTINF:0 tvg-rec="3",Zona M MD
 #EXTGRP:Молдавия | Moldovenească
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2470/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2470/index.m3u
 #EXTINF:0 tvg-rec="3",UTV MD
 #EXTGRP:Молдавия | Moldovenească
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/2471/index.m3u8
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2471/index.m3u
 #EXTINF:0 tvg-rec="3",Jurnal TV HD MD
 #EXTGRP:Молдавия | Moldovenească
-http://1c13e321.otttv.pw/iptv/RRNWPPUV2QFPK3/5008/index.m3u8
-
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/5008/index.m3u
+#EXTINF:0 tvg-rec="0",5 канал UA
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/945/index.m3u
+#EXTINF:0 tvg-rec="0",FilmBox
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/948/index.m3u
+#EXTINF:0 tvg-rec="0",24 Канал
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/951/index.m3u
+#EXTINF:0 tvg-rec="0",ATR
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/952/index.m3u
+#EXTINF:0 tvg-rec="0",Lale
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/953/index.m3u
+#EXTINF:0 tvg-rec="0",Надiя ТВ
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/956/index.m3u
+#EXTINF:0 tvg-rec="0",Перший Захiдний
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/957/index.m3u
+#EXTINF:0 tvg-rec="0",UA:ЛЬВIВ
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/958/index.m3u
+#EXTINF:0 tvg-rec="0",BBB TV
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/959/index.m3u
+#EXTINF:0 tvg-rec="0",Центральный канал
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/963/index.m3u
+#EXTINF:0 tvg-rec="0",Черноморская ТРК
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/965/index.m3u
+#EXTINF:0 tvg-rec="0",112 Україна
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/924/index.m3u
+#EXTINF:0 tvg-rec="0",EU Music
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/925/index.m3u
+#EXTINF:0 tvg-rec="0",NewsOne
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/926/index.m3u
+#EXTINF:0 tvg-rec="0",Еспресо TV
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/927/index.m3u
+#EXTINF:0 tvg-rec="0",Мега
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/929/index.m3u
+#EXTINF:0 tvg-rec="0",К2
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/930/index.m3u
+#EXTINF:0 tvg-rec="0",К1
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/931/index.m3u
+#EXTINF:0 tvg-rec="0",Квартал ТВ
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/932/index.m3u
+#EXTINF:0 tvg-rec="0",Enter-фільм
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/933/index.m3u
+#EXTINF:0 tvg-rec="0",Новий Канал
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/935/index.m3u
+#EXTINF:0 tvg-rec="0",НТН
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/936/index.m3u
+#EXTINF:0 tvg-rec="0",Інтер
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/937/index.m3u
+#EXTINF:0 tvg-rec="0",Пiксель ТВ
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/938/index.m3u
+#EXTINF:0 tvg-rec="0",Первый городской (Кривой Рог)
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/939/index.m3u
+#EXTINF:0 tvg-rec="0",ID Fashion
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/940/index.m3u
+#EXTINF:0 tvg-rec="0",Культура
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/941/index.m3u
+#EXTINF:0 tvg-rec="0",Телевсесвiт
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/942/index.m3u
+#EXTINF:0 tvg-rec="0",Медiаiнформ
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/943/index.m3u
+#EXTINF:0 tvg-rec="0",Skrypin.UA
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/944/index.m3u
+#EXTINF:0 tvg-rec="0",ТРК Алекс
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/967/index.m3u
+#EXTINF:0 tvg-rec="0",4ever Music
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/970/index.m3u
+#EXTINF:0 tvg-rec="0",Глас
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/972/index.m3u
+#EXTINF:0 tvg-rec="0",Правда Тут
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/973/index.m3u
+#EXTINF:0 tvg-rec="0",Тернопіль 1
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/975/index.m3u
+#EXTINF:0 tvg-rec="0",Рада
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/976/index.m3u
+#EXTINF:0 tvg-rec="0",MAXXI TV
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/977/index.m3u
+#EXTINF:0 tvg-rec="0",News Network
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/978/index.m3u
+#EXTINF:0 tvg-rec="0",Южная волна
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/979/index.m3u
+#EXTINF:0 tvg-rec="0",Первый городской
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/981/index.m3u
+#EXTINF:0 tvg-rec="0",СК1
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/982/index.m3u
+#EXTINF:0 tvg-rec="0",Перший дiловий
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/985/index.m3u
+#EXTINF:0 tvg-rec="0",1+1 International
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/987/index.m3u
+#EXTINF:0 tvg-rec="0",Громадське
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/988/index.m3u
+#EXTINF:0 tvg-rec="0",BOLT
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/991/index.m3u
+#EXTINF:0 tvg-rec="0",Star Cinema
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/992/index.m3u
+#EXTINF:0 tvg-rec="0",Чернiвецький Промiнь
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/1004/index.m3u
+#EXTINF:0 tvg-rec="0",UA:Перший
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/1016/index.m3u
+#EXTINF:0 tvg-rec="0",UA:Крым
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/1017/index.m3u
+#EXTINF:0 tvg-rec="0",MostVideo.TV
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/1027/index.m3u
+#EXTINF:0 tvg-rec="0",OBOZ TV
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/1028/index.m3u
+#EXTINF:0 tvg-rec="0",TV5
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/1030/index.m3u
+#EXTINF:0 tvg-rec="0",Star Family
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/1042/index.m3u
+#EXTINF:0 tvg-rec="0",Интер+
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/1047/index.m3u
+#EXTINF:0 tvg-rec="0",O-TV
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/1055/index.m3u
+#EXTINF:0 tvg-rec="0",Телеканал Рибалка
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/1058/index.m3u
+#EXTINF:0 tvg-rec="0",1+1
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/994/index.m3u
+#EXTINF:0 tvg-rec="0",2+2
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/995/index.m3u
+#EXTINF:0 tvg-rec="0",UKRAINE 1
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/997/index.m3u
+#EXTINF:0 tvg-rec="0",Бiгудi
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/989/index.m3u
+#EXTINF:0 tvg-rec="0",НТА
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/990/index.m3u
+#EXTINF:0 tvg-rec="0",ТВА
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/998/index.m3u
+#EXTINF:0 tvg-rec="0",Вiнтаж ТВ
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/999/index.m3u
+#EXTINF:0 tvg-rec="0",ZOOM
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/1000/index.m3u
+#EXTINF:0 tvg-rec="0",ПлюсПлюс
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/1002/index.m3u
+#EXTINF:0 tvg-rec="0",Малятко ТВ
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/1003/index.m3u
+#EXTINF:0 tvg-rec="0",Галичина
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/1005/index.m3u
+#EXTINF:0 tvg-rec="0",Еко TV
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/1006/index.m3u
+#EXTINF:0 tvg-rec="0",ZIK HD
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/1007/index.m3u
+#EXTINF:0 tvg-rec="0",ZIK
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/1008/index.m3u
+#EXTINF:0 tvg-rec="0",ТЕТ
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/1009/index.m3u
+#EXTINF:0 tvg-rec="0",Україна
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/1011/index.m3u
+#EXTINF:0 tvg-rec="0",HDFASHION&LifeStyle
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/1012/index.m3u
+#EXTINF:0 tvg-rec="0",Сонце
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/1013/index.m3u
+#EXTINF:0 tvg-rec="0",NLO TV2
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/1014/index.m3u
+#EXTINF:0 tvg-rec="0",Прямий HD
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/1015/index.m3u
+#EXTINF:0 tvg-rec="0",КРТ
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/1019/index.m3u
+#EXTINF:0 tvg-rec="0",ЧП.INFO
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/1020/index.m3u
+#EXTINF:0 tvg-rec="0",Ескулап TV
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/1022/index.m3u
+#EXTINF:0 tvg-rec="0",УНІАН
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/1023/index.m3u
+#EXTINF:0 tvg-rec="0",UA|TV HD
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/1024/index.m3u
+#EXTINF:0 tvg-rec="0",36.6 TV
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/1025/index.m3u
+#EXTINF:0 tvg-rec="0",Milady Television
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/1026/index.m3u
+#EXTINF:0 tvg-rec="0",BOUTIQUE TV
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/1029/index.m3u
+#EXTINF:0 tvg-rec="0",NLO TV1
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/1032/index.m3u
+#EXTINF:0 tvg-rec="0",7 канал
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/1035/index.m3u
+#EXTINF:0 tvg-rec="0",Music Box UA HD
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/1036/index.m3u
+#EXTINF:0 tvg-rec="0",ТРК Круг
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/1040/index.m3u
+#EXTINF:0 tvg-rec="0",ТРК Київ
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/1045/index.m3u
+#EXTINF:0 tvg-rec="0",8 Канал UA
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/1046/index.m3u
+#EXTINF:0 tvg-rec="0",Чернiвцi
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/1072/index.m3u
+#EXTINF:0 tvg-rec="0",24 Канал HD
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/1063/index.m3u
+#EXTINF:0 tvg-rec="0",4 канал
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/1039/index.m3u
+#EXTINF:0 tvg-rec="3",UA:Донбас
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/5038/index.m3u
+#EXTINF:0 tvg-rec="3",Мариупольское ТВ
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/5039/index.m3u
+#EXTINF:0 tvg-rec="3",33 канал
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/5040/index.m3u
+#EXTINF:0 tvg-rec="3",Тернопіль 1
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/5041/index.m3u
+#EXTINF:0 tvg-rec="3",Перший Західний
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/5042/index.m3u
+#EXTINF:0 tvg-rec="0",Vintage TV UA
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6009/index.m3u
+#EXTINF:0 tvg-rec="0",ICTV UA
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6302/index.m3u
+#EXTINF:0 tvg-rec="0",СТБ UA
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6304/index.m3u
+#EXTINF:0 tvg-rec="0",Интер UA
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6305/index.m3u
+#EXTINF:0 tvg-rec="0",АТР UA
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6306/index.m3u
+#EXTINF:0 tvg-rec="0",XSPORT UA
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6309/index.m3u
+#EXTINF:0 tvg-rec="0",1+1 UA
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6310/index.m3u
+#EXTINF:0 tvg-rec="0",Эспресо TV UA
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6311/index.m3u
+#EXTINF:0 tvg-rec="0",Пиксель UA
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6312/index.m3u
+#EXTINF:0 tvg-rec="0",Спорт-1 UA
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6313/index.m3u
+#EXTINF:0 tvg-rec="0",Спорт-2 UA
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6314/index.m3u
+#EXTINF:0 tvg-rec="0",112 Украина HD UA
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6315/index.m3u
+#EXTINF:0 tvg-rec="0",1+1 International UA
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6316/index.m3u
+#EXTINF:0 tvg-rec="0",1+1 HD UA
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6317/index.m3u
+#EXTINF:0 tvg-rec="0",ТРК Украина HD UA
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6318/index.m3u
+#EXTINF:0 tvg-rec="0",Перший Т2 UA
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6319/index.m3u
+#EXTINF:0 tvg-rec="0",Индиго UA
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6320/index.m3u
+#EXTINF:0 tvg-rec="0",Эспресо ТВ HD UA
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6321/index.m3u
+#EXTINF:0 tvg-rec="0",Болт HD UA
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6322/index.m3u
+#EXTINF:0 tvg-rec="0",Lale HD UA
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6323/index.m3u
+#EXTINF:0 tvg-rec="0",UA
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6324/index.m3u
+#EXTINF:0 tvg-rec="0",Star Cinema HD UA
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6325/index.m3u
+#EXTINF:0 tvg-rec="0",Star Family HD UA
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6326/index.m3u
+#EXTINF:0 tvg-rec="0",8 канал HD UA
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6327/index.m3u
+#EXTINF:0 tvg-rec="0",4 канал HD UA
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6328/index.m3u
+#EXTINF:0 tvg-rec="0",1+1 International UA
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6329/index.m3u
+#EXTINF:0 tvg-rec="0",Бігуді UA
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6330/index.m3u
+#EXTINF:0 tvg-rec="0",XSPORT UA
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6331/index.m3u
+#EXTINF:0 tvg-rec="0",NIKI Kids HD UA
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6332/index.m3u
+#EXTINF:0 tvg-rec="0",NIKI Junior HD UA
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6333/index.m3u
+#EXTINF:0 tvg-rec="0",М1 HD UA
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6334/index.m3u
+#EXTINF:0 tvg-rec="0",М2 HD UA
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6335/index.m3u
+#EXTINF:0 tvg-rec="0",PRO Все UA
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6336/index.m3u
+#EXTINF:0 tvg-rec="0",Lale UA
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6337/index.m3u
+#EXTINF:0 tvg-rec="0",Максi ТВ UA
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6338/index.m3u
+#EXTINF:0 tvg-rec="0",ICTV UA
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6339/index.m3u
+#EXTINF:0 tvg-rec="0",Новий канал UA
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6340/index.m3u
+#EXTINF:0 tvg-rec="0",Кус Кус HD UA
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6341/index.m3u
+#EXTINF:0 tvg-rec="0",2+2 UA
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6342/index.m3u
+#EXTINF:0 tvg-rec="0",НЛО UA
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6343/index.m3u
+#EXTINF:0 tvg-rec="0",НЛО ТВ HD
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6372/index.m3u
+#EXTINF:0 tvg-rec="0",Индиго ТВ HD
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6374/index.m3u
+#EXTINF:0 tvg-rec="0",ОЦЕ HD
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6375/index.m3u
+#EXTINF:0 tvg-rec="0",UA:Перший HD
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6376/index.m3u
+#EXTINF:0 tvg-rec="0",ТЕТ HD
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6377/index.m3u
+#EXTINF:0 tvg-rec="0",2+2 HD
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6378/index.m3u
+#EXTINF:0 tvg-rec="0",ПлюсПлюс HD
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6379/index.m3u
+#EXTINF:0 tvg-rec="0",Оце
+#EXTGRP:Украина | Українські
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6380/index.m3u
