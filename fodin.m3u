@@ -1,11 +1,8 @@
 #EXTM3U
-#EXTINF:0 tvg-rec="3",Первый FHD
-#EXTGRP:Общие
-http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2402/index.m3u8
-#EXTINF:0 tvg-rec="3",Первый HD
+#EXTINF:0 tvg-rec="7",Первый HD
 #EXTGRP:Общие
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/204/index.m3u8
-#EXTINF:0 tvg-rec="3",Первый канал
+#EXTINF:0 tvg-rec="7",Первый канал
 #EXTGRP:Общие
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/127/index.m3u8
 #EXTINF:0 tvg-rec="3",Первый канал (+2)
@@ -23,10 +20,10 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/6050/index.m3u8
 #EXTINF:0 tvg-rec="3",Россия FHD
 #EXTGRP:Общие
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2409/index.m3u8
-#EXTINF:0 tvg-rec="3",Россия HD
+#EXTINF:0 tvg-rec="7",Россия HD
 #EXTGRP:Общие
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/205/index.m3u8
-#EXTINF:0 tvg-rec="3",Россия 1
+#EXTINF:0 tvg-rec="7",Россия 1
 #EXTGRP:Общие
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/504/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия-1 +2
@@ -41,10 +38,10 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/6038/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия-1 +8
 #EXTGRP:Общие
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/6051/index.m3u8
-#EXTINF:0 tvg-rec="3",НТВ HD
+#EXTINF:0 tvg-rec="7",НТВ HD
 #EXTGRP:Общие
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/213/index.m3u8
-#EXTINF:0 tvg-rec="3",НТВ
+#EXTINF:0 tvg-rec="7",НТВ
 #EXTGRP:Общие
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/501/index.m3u8
 #EXTINF:0 tvg-rec="3",НТВ (+2)
@@ -59,7 +56,7 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/6039/index.m3u8
 #EXTINF:0 tvg-rec="0",НТВ +8
 #EXTGRP:Общие
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/6053/index.m3u8
-#EXTINF:0 tvg-rec="3",ТВЦ
+#EXTINF:0 tvg-rec="7",ТВЦ
 #EXTGRP:Общие
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/520/index.m3u8
 #EXTINF:0 tvg-rec="3",ТВЦ (+2)
@@ -74,7 +71,7 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/6041/index.m3u8
 #EXTINF:0 tvg-rec="0",ТВЦ +8
 #EXTGRP:Общие
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/6056/index.m3u8
-#EXTINF:0 tvg-rec="3",Пятый канал
+#EXTINF:0 tvg-rec="7",Пятый канал
 #EXTGRP:Общие
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/112/index.m3u8
 #EXTINF:0 tvg-rec="3",Пятый Канал (+2)
@@ -92,10 +89,10 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/6054/index.m3u8
 #EXTINF:0 tvg-rec="3",ТНТ FHD
 #EXTGRP:Общие
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2417/index.m3u8
-#EXTINF:0 tvg-rec="3",ТНТ HD
+#EXTINF:0 tvg-rec="7",ТНТ HD
 #EXTGRP:Общие
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/237/index.m3u8
-#EXTINF:0 tvg-rec="3",ТНТ
+#EXTINF:0 tvg-rec="7",ТНТ
 #EXTGRP:Общие
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/502/index.m3u8
 #EXTINF:0 tvg-rec="3",ТНТ (+2)
@@ -107,7 +104,7 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/6035/index.m3u8
 #EXTINF:0 tvg-rec="0",ТНТ +6
 #EXTGRP:Общие
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/6049/index.m3u8
-#EXTINF:0 tvg-rec="3",СТС
+#EXTINF:0 tvg-rec="7",СТС
 #EXTGRP:Общие
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/506/index.m3u8
 #EXTINF:0 tvg-rec="0",СТС +2
@@ -119,10 +116,10 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/6029/index.m3u8
 #EXTINF:0 tvg-rec="0",СТС +6
 #EXTGRP:Общие
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/6043/index.m3u8
-#EXTINF:0 tvg-rec="3",Рен ТВ HD
+#EXTINF:0 tvg-rec="7",Рен ТВ HD
 #EXTGRP:Общие
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2024/index.m3u8
-#EXTINF:0 tvg-rec="3",РЕН ТВ
+#EXTINF:0 tvg-rec="7",РЕН ТВ
 #EXTGRP:Общие
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/128/index.m3u8
 #EXTINF:0 tvg-rec="3",РЕН ТВ (+2)
@@ -134,10 +131,7 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/6028/index.m3u8
 #EXTINF:0 tvg-rec="0",Рен ТВ +6
 #EXTGRP:Общие
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/6042/index.m3u8
-#EXTINF:0 tvg-rec="3",Мир HD
-#EXTGRP:Общие
-http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/235/index.m3u8
-#EXTINF:0 tvg-rec="3",Мир
+#EXTINF:0 tvg-rec="7",Мир
 #EXTGRP:Общие
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/113/index.m3u8
 #EXTINF:0 tvg-rec="0",Мир +2
@@ -149,10 +143,7 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/6034/index.m3u8
 #EXTINF:0 tvg-rec="0",Мир +6
 #EXTGRP:Общие
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/6048/index.m3u8
-#EXTINF:0 tvg-rec="3",Мир Premium
-#EXTGRP:Общие
-http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2105/index.m3u8
-#EXTINF:0 tvg-rec="3",ОТР
+#EXTINF:0 tvg-rec="7",ОТР
 #EXTGRP:Общие
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/705/index.m3u8
 #EXTINF:0 tvg-rec="0",ОТР +2
@@ -164,7 +155,7 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/6026/index.m3u8
 #EXTINF:0 tvg-rec="0",ОТР +8
 #EXTGRP:Общие
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/6055/index.m3u8
-#EXTINF:0 tvg-rec="3",Телеканал Звезда
+#EXTINF:0 tvg-rec="7",Телеканал Звезда
 #EXTGRP:Общие
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/544/index.m3u8
 #EXTINF:0 tvg-rec="3",Звезда (+2)
@@ -176,16 +167,16 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/6033/index.m3u8
 #EXTINF:0 tvg-rec="0",Звезда +6
 #EXTGRP:Общие
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/6047/index.m3u8
-#EXTINF:0 tvg-rec="3",СТС Love
+#EXTINF:0 tvg-rec="7",СТС Love
 #EXTGRP:Общие
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/103/index.m3u8
-#EXTINF:0 tvg-rec="3",Че
+#EXTINF:0 tvg-rec="7",Че
 #EXTGRP:Общие
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/513/index.m3u8
 #EXTINF:0 tvg-rec="3",ТВ3 HD
 #EXTGRP:Общие
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/5033/index.m3u8
-#EXTINF:0 tvg-rec="3",ТВ3
+#EXTINF:0 tvg-rec="7",ТВ3
 #EXTGRP:Общие
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/508/index.m3u8
 #EXTINF:0 tvg-rec="0",ТВ3 +2
@@ -200,7 +191,7 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/6045/index.m3u8
 #EXTINF:0 tvg-rec="3",Пятница! HD
 #EXTGRP:Общие
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/5031/index.m3u8
-#EXTINF:0 tvg-rec="3",Пятница!
+#EXTINF:0 tvg-rec="7",Пятница!
 #EXTGRP:Общие
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/503/index.m3u8
 #EXTINF:0 tvg-rec="0",Пятница +2
@@ -215,10 +206,10 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/6046/index.m3u8
 #EXTINF:0 tvg-rec="3",RTVi
 #EXTGRP:Общие
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2086/index.m3u8
-#EXTINF:0 tvg-rec="3",Супер
+#EXTINF:0 tvg-rec="7",Суббота
 #EXTGRP:Общие
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/826/index.m3u8
-#EXTINF:0 tvg-rec="3",Домашний
+#EXTINF:0 tvg-rec="7",Домашний
 #EXTGRP:Общие
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/514/index.m3u8
 #EXTINF:0 tvg-rec="0",Домашний +2
@@ -236,19 +227,19 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/1057/index.m3u8
 #EXTINF:0 tvg-rec="3",Настоящее время
 #EXTGRP:Общие
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/986/index.m3u8
-#EXTINF:0 tvg-rec="3",Ностальгия
+#EXTINF:0 tvg-rec="7",Ностальгия
 #EXTGRP:Общие
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/102/index.m3u8
-#EXTINF:0 tvg-rec="3",Ю ТВ
+#EXTINF:0 tvg-rec="7",Ю ТВ
 #EXTGRP:Общие
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/534/index.m3u8
-#EXTINF:0 tvg-rec="3",ТНТ4
+#EXTINF:0 tvg-rec="7",ТНТ4
 #EXTGRP:Общие
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/104/index.m3u8
-#EXTINF:0 tvg-rec="3",КВН ТВ
+#EXTINF:0 tvg-rec="7",КВН ТВ
 #EXTGRP:Общие
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/546/index.m3u8
-#EXTINF:0 tvg-rec="3",Сарафан
+#EXTINF:0 tvg-rec="7",Сарафан
 #EXTGRP:Общие
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/748/index.m3u8
 #EXTINF:0 tvg-rec="3",Точка ТВ
@@ -257,25 +248,25 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2053/index.m3u8
 #EXTINF:0 tvg-rec="3",360° HD
 #EXTGRP:Общие
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2065/index.m3u8
-#EXTINF:0 tvg-rec="3",360°
+#EXTINF:0 tvg-rec="7",360°
 #EXTGRP:Общие
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/825/index.m3u8
 #EXTINF:0 tvg-rec="3",СПАС
 #EXTGRP:Общие
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/983/index.m3u8
-#EXTINF:0 tvg-rec="3",Союз
+#EXTINF:0 tvg-rec="7",Союз
 #EXTGRP:Общие
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2016/index.m3u8
-#EXTINF:0 tvg-rec="3",Здоровое ТВ
+#EXTINF:0 tvg-rec="7",Здоровое ТВ
 #EXTGRP:Общие
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2022/index.m3u8
-#EXTINF:0 tvg-rec="3",Психология 21
+#EXTINF:0 tvg-rec="7",Психология 21
 #EXTGRP:Общие
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2025/index.m3u8
-#EXTINF:0 tvg-rec="3",Успех
+#EXTINF:0 tvg-rec="7",Успех
 #EXTGRP:Общие
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2041/index.m3u8
-#EXTINF:0 tvg-rec="3",Кто есть кто
+#EXTINF:0 tvg-rec="7",Кто есть кто
 #EXTGRP:Общие
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2042/index.m3u8
 #EXTINF:0 tvg-rec="3",Открытый мир
@@ -305,7 +296,7 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2150/index.m3u8
 #EXTINF:0 tvg-rec="3",Life TV
 #EXTGRP:Общие
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/971/index.m3u8
-#EXTINF:0 tvg-rec="3",Дождь
+#EXTINF:0 tvg-rec="7",Дождь
 #EXTGRP:Общие
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2030/index.m3u8
 #EXTINF:0 tvg-rec="3",ТБН
@@ -320,7 +311,7 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2073/index.m3u8
 #EXTINF:0 tvg-rec="3",Про Бизнес
 #EXTGRP:Общие
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/5043/index.m3u8
-#EXTINF:0 tvg-rec="3",Россия-Культура
+#EXTINF:0 tvg-rec="7",Россия-Культура
 #EXTGRP:Общие
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/505/index.m3u8
 #EXTINF:0 tvg-rec="3",Е
@@ -350,9 +341,6 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/9095/index.m3u8
 #EXTINF:0 tvg-rec="3",Пятый канал orig
 #EXTGRP:Общие
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/9096/index.m3u8
-#EXTINF:0 tvg-rec="3",Мир Premium orig
-#EXTGRP:Общие
-http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/9097/index.m3u8
 #EXTINF:0 tvg-rec="3",Телеканал Звезда orig
 #EXTGRP:Общие
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/9098/index.m3u8
@@ -368,15 +356,12 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/9101/index.m3u8
 #EXTINF:0 tvg-rec="3",RTVi orig
 #EXTGRP:Общие
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/9102/index.m3u8
-#EXTINF:0 tvg-rec="3",Супер orig
+#EXTINF:0 tvg-rec="3",Суббота orig
 #EXTGRP:Общие
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/9103/index.m3u8
 #EXTINF:0 tvg-rec="3",Домашний orig
 #EXTGRP:Общие
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/9104/index.m3u8
-#EXTINF:0 tvg-rec="3",Настоящее время orig
-#EXTGRP:Общие
-http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/9105/index.m3u8
 #EXTINF:0 tvg-rec="3",Ностальгия orig
 #EXTGRP:Общие
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/9106/index.m3u8
@@ -464,46 +449,55 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/9211/index.m3u8
 #EXTINF:0 tvg-rec="3",Загородный orig
 #EXTGRP:Общие
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/9212/index.m3u8
+#EXTINF:0 tvg-rec="0",ТНТ HD Orig
+#EXTGRP:Общие
+http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/7251/index.m3u8
+#EXTINF:0 tvg-rec="0",Россия HD Orig
+#EXTGRP:Общие
+http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/7252/index.m3u8
+#EXTINF:0 tvg-rec="0",Первый HD Orig
+#EXTGRP:Общие
+http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/7253/index.m3u8
 #EXTINF:0 tvg-rec="0",Инфоканал
 #EXTGRP:Новостные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/407/index.m3u8
 #EXTINF:0 tvg-rec="3",РБК FHD
 #EXTGRP:Новостные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2404/index.m3u8
-#EXTINF:0 tvg-rec="3",РБК-ТВ
+#EXTINF:0 tvg-rec="7",РБК-ТВ
 #EXTGRP:Новостные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/106/index.m3u8
-#EXTINF:0 tvg-rec="3",Россия-24
+#EXTINF:0 tvg-rec="7",Россия-24
 #EXTGRP:Новостные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/507/index.m3u8
 #EXTINF:0 tvg-rec="3",Россия-24 +2
 #EXTGRP:Новостные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/6013/index.m3u8
-#EXTINF:0 tvg-rec="3",Москва 24
+#EXTINF:0 tvg-rec="7",Москва 24
 #EXTGRP:Новостные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/523/index.m3u8
 #EXTINF:0 tvg-rec="3",Мир 24 HD
 #EXTGRP:Новостные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2107/index.m3u8
-#EXTINF:0 tvg-rec="3",Мир 24
+#EXTINF:0 tvg-rec="7",Мир 24
 #EXTGRP:Новостные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/712/index.m3u8
-#EXTINF:0 tvg-rec="3",Euronews Россия
+#EXTINF:0 tvg-rec="7",Euronews Россия
 #EXTGRP:Новостные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/828/index.m3u8
-#EXTINF:0 tvg-rec="3",CGTN русский
+#EXTINF:0 tvg-rec="7",CGTN русский
 #EXTGRP:Новостные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/831/index.m3u8
-#EXTINF:0 tvg-rec="3",Известия
+#EXTINF:0 tvg-rec="7",Известия
 #EXTGRP:Новостные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2008/index.m3u8
 #EXTINF:0 tvg-rec="3",Центральное телевидение
 #EXTGRP:Новостные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2064/index.m3u8
-#EXTINF:0 tvg-rec="3",NHK World TV
+#EXTINF:0 tvg-rec="7",NHK World TV
 #EXTGRP:Новостные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/729/index.m3u8
-#EXTINF:0 tvg-rec="3",CGTN
+#EXTINF:0 tvg-rec="7",CGTN
 #EXTGRP:Новостные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/830/index.m3u8
 #EXTINF:0 tvg-rec="3",Дождь HD orig
@@ -542,6 +536,9 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/9222/index.m3u8
 #EXTINF:0 tvg-rec="3",CGTN Русский orig
 #EXTGRP:Новостные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/9223/index.m3u8
+#EXTINF:0 tvg-rec="0",360° Новости HD
+#EXTGRP:Новостные
+http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/7254/index.m3u8
 #EXTINF:0 tvg-rec="3",Ultra HD Cinema 4K
 #EXTGRP:Кино
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/4000/index.m3u8
@@ -551,16 +548,13 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/5004/index.m3u8
 #EXTINF:0 tvg-rec="3",Сериал UHD 4K
 #EXTGRP:Кино
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/5005/index.m3u8
-#EXTINF:0 tvg-rec="3",Страшное HD
-#EXTGRP:Кино
-http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2567/index.m3u8
-#EXTINF:0 tvg-rec="3",Остросюжетное HD
+#EXTINF:0 tvg-rec="7",Остросюжетное HD
 #EXTGRP:Кино
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/904/index.m3u8
 #EXTINF:0 tvg-rec="3",Премиальное FHD
 #EXTGRP:Кино
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2410/index.m3u8
-#EXTINF:0 tvg-rec="3",Дом Кино Премиум HD
+#EXTINF:0 tvg-rec="7",Дом Кино Премиум HD
 #EXTGRP:Кино
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/911/index.m3u8
 #EXTINF:0 tvg-rec="3",Дом кино Премиум HD orig
@@ -590,25 +584,22 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2441/index.m3u8
 #EXTINF:0 tvg-rec="3",VIP Serial HD
 #EXTGRP:Кино
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2443/index.m3u8
-#EXTINF:0 tvg-rec="3",Шокирующее
-#EXTGRP:Кино
-http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/913/index.m3u8
 #EXTINF:0 tvg-rec="3",Романтичное HD
 #EXTGRP:Кино
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/5053/index.m3u8
-#EXTINF:0 tvg-rec="3",Комедийное HD
+#EXTINF:0 tvg-rec="7",Комедийное HD
 #EXTGRP:Кино
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/912/index.m3u8
-#EXTINF:0 tvg-rec="3",Наш Кинороман HD
+#EXTINF:0 tvg-rec="7",Душевное кино HD
 #EXTGRP:Кино
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/914/index.m3u8
-#EXTINF:0 tvg-rec="3",Наше крутое HD
+#EXTINF:0 tvg-rec="7",Наше крутое HD
 #EXTGRP:Кино
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/915/index.m3u8
 #EXTINF:0 tvg-rec="3",Наше любимое HD
 #EXTGRP:Кино
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2106/index.m3u8
-#EXTINF:0 tvg-rec="3",КИНОПРЕМЬЕРА HD
+#EXTINF:0 tvg-rec="7",КИНОПРЕМЬЕРА HD
 #EXTGRP:Кино
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/224/index.m3u8
 #EXTINF:0 tvg-rec="3",Киноужас HD
@@ -626,31 +617,31 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2131/index.m3u8
 #EXTINF:0 tvg-rec="3",КИНО ТВ HD
 #EXTGRP:Кино
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2097/index.m3u8
-#EXTINF:0 tvg-rec="3",Amedia Premium HD
+#EXTINF:0 tvg-rec="7",Amedia Premium HD
 #EXTGRP:Кино
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/229/index.m3u8
-#EXTINF:0 tvg-rec="3",Fox HD
+#EXTINF:0 tvg-rec="7",Fox HD
 #EXTGRP:Кино
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/219/index.m3u8
-#EXTINF:0 tvg-rec="3",Hollywood HD
+#EXTINF:0 tvg-rec="7",Hollywood HD
 #EXTGRP:Кино
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/209/index.m3u8
 #EXTINF:0 tvg-rec="3",Bollywood HD
 #EXTGRP:Кино
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/239/index.m3u8
-#EXTINF:0 tvg-rec="3",VIP Premiere
+#EXTINF:0 tvg-rec="7",VIP Premiere
 #EXTGRP:Кино
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/202/index.m3u8
 #EXTINF:0 tvg-rec="3",VIP Premiere orig
 #EXTGRP:Кино
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/5079/index.m3u8
-#EXTINF:0 tvg-rec="3",VIP Comedy
+#EXTINF:0 tvg-rec="7",VIP Comedy
 #EXTGRP:Кино
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/200/index.m3u8
 #EXTINF:0 tvg-rec="3",VIP Comedy orig
 #EXTGRP:Кино
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/5080/index.m3u8
-#EXTINF:0 tvg-rec="3",VIP Megahit
+#EXTINF:0 tvg-rec="7",VIP Megahit
 #EXTGRP:Кино
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/201/index.m3u8
 #EXTINF:0 tvg-rec="3",VIP Megahit orig
@@ -665,127 +656,127 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/5054/index.m3u8
 #EXTINF:0 tvg-rec="3",Победа HD
 #EXTGRP:Кино
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/5052/index.m3u8
-#EXTINF:0 tvg-rec="3",Победа
+#EXTINF:0 tvg-rec="7",Победа
 #EXTGRP:Кино
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2003/index.m3u8
 #EXTINF:0 tvg-rec="3",Paramount Channel HD
 #EXTGRP:Кино
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/5063/index.m3u8
-#EXTINF:0 tvg-rec="3",A2 HD
+#EXTINF:0 tvg-rec="7",A2 HD
 #EXTGRP:Кино
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2046/index.m3u8
-#EXTINF:0 tvg-rec="3",TV 1000 Русское кино
+#EXTINF:0 tvg-rec="7",TV 1000 Русское кино
 #EXTGRP:Кино
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/101/index.m3u8
-#EXTINF:0 tvg-rec="3",Sony Sci-Fi
+#EXTINF:0 tvg-rec="7",Sony Sci-Fi
 #EXTGRP:Кино
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/110/index.m3u8
-#EXTINF:0 tvg-rec="3",КИНОМИКС
+#EXTINF:0 tvg-rec="7",КИНОМИКС
 #EXTGRP:Кино
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/509/index.m3u8
-#EXTINF:0 tvg-rec="3",КИНОСЕМЬЯ
+#EXTINF:0 tvg-rec="7",КИНОСЕМЬЯ
 #EXTGRP:Кино
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/125/index.m3u8
-#EXTINF:0 tvg-rec="3",РОДНОЕ КИНО
+#EXTINF:0 tvg-rec="7",РОДНОЕ КИНО
 #EXTGRP:Кино
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/126/index.m3u8
-#EXTINF:0 tvg-rec="3",TV 1000 Action
+#EXTINF:0 tvg-rec="7",TV 1000 Action
 #EXTGRP:Кино
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/131/index.m3u8
-#EXTINF:0 tvg-rec="3",Кинохит
+#EXTINF:0 tvg-rec="7",Кинохит
 #EXTGRP:Кино
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/516/index.m3u8
-#EXTINF:0 tvg-rec="3",Amedia 2
+#EXTINF:0 tvg-rec="7",Amedia 2
 #EXTGRP:Кино
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/510/index.m3u8
-#EXTINF:0 tvg-rec="3",Наше новое кино
+#EXTINF:0 tvg-rec="7",Наше новое кино
 #EXTGRP:Кино
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/517/index.m3u8
-#EXTINF:0 tvg-rec="3",TV XXI
+#EXTINF:0 tvg-rec="7",TV XXI
 #EXTGRP:Кино
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/525/index.m3u8
-#EXTINF:0 tvg-rec="3",КИНОКОМЕДИЯ
+#EXTINF:0 tvg-rec="7",КИНОКОМЕДИЯ
 #EXTGRP:Кино
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/145/index.m3u8
-#EXTINF:0 tvg-rec="3",ИНДИЙСКОЕ КИНО
+#EXTINF:0 tvg-rec="7",ИНДИЙСКОЕ КИНО
 #EXTGRP:Кино
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/146/index.m3u8
-#EXTINF:0 tvg-rec="3",КИНОСЕРИЯ
+#EXTINF:0 tvg-rec="7",КИНОСЕРИЯ
 #EXTGRP:Кино
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/148/index.m3u8
-#EXTINF:0 tvg-rec="3",Русский Иллюзион
+#EXTINF:0 tvg-rec="7",Русский Иллюзион
 #EXTGRP:Кино
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/547/index.m3u8
-#EXTINF:0 tvg-rec="3",Еврокино
+#EXTINF:0 tvg-rec="7",Еврокино
 #EXTGRP:Кино
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/549/index.m3u8
-#EXTINF:0 tvg-rec="3",Fox Russia
+#EXTINF:0 tvg-rec="7",Fox Russia
 #EXTGRP:Кино
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/550/index.m3u8
-#EXTINF:0 tvg-rec="3",Fox Life
+#EXTINF:0 tvg-rec="7",Fox Life
 #EXTGRP:Кино
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/553/index.m3u8
-#EXTINF:0 tvg-rec="3",Дом Кино
+#EXTINF:0 tvg-rec="7",Дом Кино
 #EXTGRP:Кино
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/154/index.m3u8
-#EXTINF:0 tvg-rec="3",Amedia 1
+#EXTINF:0 tvg-rec="7",Amedia 1
 #EXTGRP:Кино
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/554/index.m3u8
-#EXTINF:0 tvg-rec="3",Amedia Premium HD (SD)
+#EXTINF:0 tvg-rec="7",Amedia Premium HD (SD)
 #EXTGRP:Кино
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/555/index.m3u8
-#EXTINF:0 tvg-rec="3",AMEDIA HIT
+#EXTINF:0 tvg-rec="7",AMEDIA HIT
 #EXTGRP:Кино
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/556/index.m3u8
-#EXTINF:0 tvg-rec="3",TV 1000
+#EXTINF:0 tvg-rec="7",TV 1000
 #EXTGRP:Кино
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/132/index.m3u8
-#EXTINF:0 tvg-rec="3",МУЖСКОЕ КИНО
+#EXTINF:0 tvg-rec="7",МУЖСКОЕ КИНО
 #EXTGRP:Кино
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/164/index.m3u8
-#EXTINF:0 tvg-rec="3",Hollywood
+#EXTINF:0 tvg-rec="7",Hollywood
 #EXTGRP:Кино
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/557/index.m3u8
-#EXTINF:0 tvg-rec="3",Sony Entertainment Television
+#EXTINF:0 tvg-rec="7",Sony Entertainment Television
 #EXTGRP:Кино
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/559/index.m3u8
-#EXTINF:0 tvg-rec="3",2x2
+#EXTINF:0 tvg-rec="7",2x2
 #EXTGRP:Кино
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/702/index.m3u8
-#EXTINF:0 tvg-rec="3",Sony Turbo
+#EXTINF:0 tvg-rec="7",Sony Turbo
 #EXTGRP:Кино
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/708/index.m3u8
-#EXTINF:0 tvg-rec="3",Русский бестселлер
+#EXTINF:0 tvg-rec="7",Русский бестселлер
 #EXTGRP:Кино
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/905/index.m3u8
-#EXTINF:0 tvg-rec="3",Русский роман
+#EXTINF:0 tvg-rec="7",Русский роман
 #EXTGRP:Кино
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/906/index.m3u8
-#EXTINF:0 tvg-rec="3",Русский детектив
+#EXTINF:0 tvg-rec="7",Русский детектив
 #EXTGRP:Кино
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/907/index.m3u8
-#EXTINF:0 tvg-rec="3",Любимое Кино
+#EXTINF:0 tvg-rec="7",Любимое Кино
 #EXTGRP:Кино
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/722/index.m3u8
-#EXTINF:0 tvg-rec="3",КИНОСВИДАНИЕ
+#EXTINF:0 tvg-rec="7",КИНОСВИДАНИЕ
 #EXTGRP:Кино
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/728/index.m3u8
-#EXTINF:0 tvg-rec="3",КИНО ТВ
+#EXTINF:0 tvg-rec="7",КИНО ТВ
 #EXTGRP:Кино
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/732/index.m3u8
-#EXTINF:0 tvg-rec="3",Русская Комедия
+#EXTINF:0 tvg-rec="7",Русская Комедия
 #EXTGRP:Кино
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/733/index.m3u8
-#EXTINF:0 tvg-rec="3",FAN
+#EXTINF:0 tvg-rec="7",FAN
 #EXTGRP:Кино
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/734/index.m3u8
-#EXTINF:0 tvg-rec="3",НТВ‑ХИТ
+#EXTINF:0 tvg-rec="7",НТВ‑ХИТ
 #EXTGRP:Кино
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/741/index.m3u8
-#EXTINF:0 tvg-rec="3",НТВ Сериал
+#EXTINF:0 tvg-rec="7",НТВ Сериал
 #EXTGRP:Кино
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/744/index.m3u8
-#EXTINF:0 tvg-rec="3",НСТ
+#EXTINF:0 tvg-rec="7",НСТ
 #EXTGRP:Кино
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/726/index.m3u8
 #EXTINF:0 tvg-rec="3",ZEE TV
@@ -800,16 +791,16 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/1066/index.m3u8
 #EXTINF:0 tvg-rec="3",TV1000 World Kino
 #EXTGRP:Кино
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/1065/index.m3u8
-#EXTINF:0 tvg-rec="3",Мир Сериала
+#EXTINF:0 tvg-rec="7",Мир Сериала
 #EXTGRP:Кино
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/856/index.m3u8
-#EXTINF:0 tvg-rec="3",Ретро
+#EXTINF:0 tvg-rec="7",Ретро
 #EXTGRP:Кино
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2018/index.m3u8
-#EXTINF:0 tvg-rec="3",Иллюзион +
+#EXTINF:0 tvg-rec="7",Иллюзион +
 #EXTGRP:Кино
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2038/index.m3u8
-#EXTINF:0 tvg-rec="3",Феникс плюс Кино
+#EXTINF:0 tvg-rec="7",Феникс плюс Кино
 #EXTGRP:Кино
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2039/index.m3u8
 #EXTINF:0 tvg-rec="3",Paramount Channel
@@ -824,12 +815,15 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2121/index.m3u8
 #EXTINF:0 tvg-rec="3",Cinéma
 #EXTGRP:Кино
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/5051/index.m3u8
-#EXTINF:0 tvg-rec="3",Paramount Comedy Russia
+#EXTINF:0 tvg-rec="7",Paramount Comedy Russia
 #EXTGRP:Кино
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/157/index.m3u8
 #EXTINF:0 tvg-rec="3",Amedia Hit HD
 #EXTGRP:Кино
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/6010/index.m3u8
+#EXTINF:0 tvg-rec="3",Paramount Comedy HD
+#EXTGRP:Кино
+http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/6000/index.m3u8
 #EXTINF:0 tvg-rec="3",Зал 1
 #EXTGRP:Кино
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2568/index.m3u8
@@ -902,9 +896,6 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/9045/index.m3u8
 #EXTINF:0 tvg-rec="3",Наше HD orig
 #EXTGRP:Кино
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/9046/index.m3u8
-#EXTINF:0 tvg-rec="3",Страшное HD orig
-#EXTGRP:Кино
-http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/9047/index.m3u8
 #EXTINF:0 tvg-rec="3",Кино ТВ HD orig
 #EXTGRP:Кино
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/9051/index.m3u8
@@ -1088,34 +1079,76 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/9241/index.m3u8
 #EXTINF:0 tvg-rec="3",Paramount Channel orig
 #EXTGRP:Кино
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/9242/index.m3u8
-#EXTINF:0 tvg-rec="3",Теленовелла orig
-#EXTGRP:Кино
-http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/9243/index.m3u8
 #EXTINF:0 tvg-rec="3",Кино ТВ orig
 #EXTGRP:Кино
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/9244/index.m3u8
 #EXTINF:0 tvg-rec="3",VIP Serial HD orig
 #EXTGRP:Кино
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/9245/index.m3u8
+#EXTINF:0 tvg-rec="0",Премиальное HD
+#EXTGRP:Кино
+http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/7222/index.m3u8
+#EXTINF:0 tvg-rec="0",FLUX HD
+#EXTGRP:Кино
+http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/7227/index.m3u8
+#EXTINF:0 tvg-rec="0",Spike HD
+#EXTGRP:Кино
+http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/7243/index.m3u8
+#EXTINF:0 tvg-rec="0",Киносемья HD
+#EXTGRP:Кино
+http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/7244/index.m3u8
+#EXTINF:0 tvg-rec="0",Киносвидание HD
+#EXTGRP:Кино
+http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/7245/index.m3u8
+#EXTINF:0 tvg-rec="0",Страшное HD
+#EXTGRP:Кино
+http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/7247/index.m3u8
+#EXTINF:0 tvg-rec="0",Кинокомедия HD
+#EXTGRP:Кино
+http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/7248/index.m3u8
+#EXTINF:0 tvg-rec="0",Киномикс HD
+#EXTGRP:Кино
+http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/7249/index.m3u8
+#EXTINF:0 tvg-rec="0",Кинохит HD
+#EXTGRP:Кино
+http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/7250/index.m3u8
+#EXTINF:0 tvg-rec="0",Киноджем 1 HD
+#EXTGRP:Кино
+http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/7260/index.m3u8
+#EXTINF:0 tvg-rec="0",Киноджем 2 HD
+#EXTGRP:Кино
+http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/7261/index.m3u8
+#EXTINF:0 tvg-rec="0",Мосфильм. Золотая коллекция HD
+#EXTGRP:Кино
+http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/7347/index.m3u8
+#EXTINF:0 tvg-rec="0",Trash HD
+#EXTGRP:Кино
+http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/7359/index.m3u8
+#EXTINF:0 tvg-rec="3",SHOT TV
+#EXTGRP:Кино
+http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/526/index.m3u8
 #EXTINF:0 tvg-rec="3",Super Tennis HD
 #EXTGRP:Спорт
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/6079/index.m3u8
 #EXTINF:0 tvg-rec="3",Матч! Премьер FHD
 #EXTGRP:Спорт
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2414/index.m3u8
-#EXTINF:0 tvg-rec="3",МАТЧ ПРЕМЬЕР HD
+#EXTINF:0 tvg-rec="3",Точка отрыва HD
+#EXTGRP:Спорт
+http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2128/index.m3u8
+#EXTINF:0 tvg-rec="7",МАТЧ ПРЕМЬЕР HD
 #EXTGRP:Спорт
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/220/index.m3u8
-#EXTINF:0 tvg-rec="3",МАТЧ ПРЕМЬЕР
+#EXTINF:0 tvg-rec="7",МАТЧ ПРЕМЬЕР
 #EXTGRP:Спорт
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/531/index.m3u8
 #EXTINF:0 tvg-rec="3",Матч! FHD
 #EXTGRP:Спорт
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2413/index.m3u8
-#EXTINF:0 tvg-rec="3",Матч! HD
+#EXTINF:0 tvg-rec="7",Матч! HD
 #EXTGRP:Спорт
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/212/index.m3u8
-#EXTINF:0 tvg-rec="3",Матч ТВ
+#EXTINF:0 tvg-rec="7",Матч ТВ
 #EXTGRP:Спорт
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/535/index.m3u8
 #EXTINF:0 tvg-rec="3",Матч +2
@@ -1130,84 +1163,78 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/6052/index.m3u8
 #EXTINF:0 tvg-rec="3",Матч! Футбол 1 FHD
 #EXTGRP:Спорт
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2407/index.m3u8
-#EXTINF:0 tvg-rec="3",Матч! Футбол 1 HD
+#EXTINF:0 tvg-rec="7",Матч! Футбол 1 HD
 #EXTGRP:Спорт
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/222/index.m3u8
 #EXTINF:0 tvg-rec="3",МАТЧ! Футбол 1 HD 50 orig
 #EXTGRP:Спорт
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/5072/index.m3u8
-#EXTINF:0 tvg-rec="3",Матч! Футбол 1
+#EXTINF:0 tvg-rec="7",Матч! Футбол 1
 #EXTGRP:Спорт
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/124/index.m3u8
 #EXTINF:0 tvg-rec="3",Матч! Футбол 2 FHD
 #EXTGRP:Спорт
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2420/index.m3u8
-#EXTINF:0 tvg-rec="3",Матч! Футбол 2 HD
+#EXTINF:0 tvg-rec="7",Матч! Футбол 2 HD
 #EXTGRP:Спорт
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/211/index.m3u8
-#EXTINF:0 tvg-rec="3",Матч! Футбол 2
+#EXTINF:0 tvg-rec="7",Матч! Футбол 2
 #EXTGRP:Спорт
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/530/index.m3u8
 #EXTINF:0 tvg-rec="3",Матч! Футбол 3 FHD
 #EXTGRP:Спорт
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2408/index.m3u8
-#EXTINF:0 tvg-rec="3",Матч! Футбол 3 HD
+#EXTINF:0 tvg-rec="7",Матч! Футбол 3 HD
 #EXTGRP:Спорт
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/206/index.m3u8
 #EXTINF:0 tvg-rec="3",Матч! Футбол 3 HD 50 orig
 #EXTGRP:Спорт
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/5071/index.m3u8
-#EXTINF:0 tvg-rec="3",Матч! Футбол 3
+#EXTINF:0 tvg-rec="7",Матч! Футбол 3
 #EXTGRP:Спорт
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/522/index.m3u8
 #EXTINF:0 tvg-rec="3",Матч! Игра FHD
 #EXTGRP:Спорт
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2406/index.m3u8
-#EXTINF:0 tvg-rec="3",Матч! Игра HD
+#EXTINF:0 tvg-rec="7",Матч! Игра HD
 #EXTGRP:Спорт
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/225/index.m3u8
-#EXTINF:0 tvg-rec="3",Матч! Игра
+#EXTINF:0 tvg-rec="7",Матч! Игра
 #EXTGRP:Спорт
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/529/index.m3u8
-#EXTINF:0 tvg-rec="3",Матч! Арена HD
+#EXTINF:0 tvg-rec="7",Матч! Арена HD
 #EXTGRP:Спорт
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/207/index.m3u8
-#EXTINF:0 tvg-rec="3",Матч! Арена
+#EXTINF:0 tvg-rec="7",Матч! Арена
 #EXTGRP:Спорт
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/528/index.m3u8
-#EXTINF:0 tvg-rec="3",МАТЧ! СТРАНА
+#EXTINF:0 tvg-rec="7",МАТЧ! СТРАНА
 #EXTGRP:Спорт
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/107/index.m3u8
-#EXTINF:0 tvg-rec="3",Матч! Планета
+#EXTINF:0 tvg-rec="7",Матч! Планета
 #EXTGRP:Спорт
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/123/index.m3u8
-#EXTINF:0 tvg-rec="3",Матч! Боец
+#EXTINF:0 tvg-rec="7",Матч! Боец
 #EXTGRP:Спорт
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/150/index.m3u8
 #EXTINF:0 tvg-rec="3",Eurosport 4K
 #EXTGRP:Спорт
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/4004/index.m3u8
-#EXTINF:0 tvg-rec="3",Eurosport 1 HD
+#EXTINF:0 tvg-rec="7",Eurosport 1 HD
 #EXTGRP:Спорт
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/228/index.m3u8
 #EXTINF:0 tvg-rec="3",Eurosport 1 HD orig
 #EXTGRP:Спорт
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/5075/index.m3u8
-#EXTINF:0 tvg-rec="3",Eurosport 1
+#EXTINF:0 tvg-rec="7",Eurosport 1
 #EXTGRP:Спорт
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/141/index.m3u8
-#EXTINF:0 tvg-rec="3",Eurosport 2 North-East HD
+#EXTINF:0 tvg-rec="7",Eurosport 2 North-East HD
 #EXTGRP:Спорт
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/234/index.m3u8
 #EXTINF:0 tvg-rec="3",Eurosport 2 North-East HD orig
 #EXTGRP:Спорт
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/5076/index.m3u8
-#EXTINF:0 tvg-rec="3",Eurosport Gold HD
-#EXTGRP:Спорт
-http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2002/index.m3u8
-#EXTINF:0 tvg-rec="3",Eurosport Gold HD orig
-#EXTGRP:Спорт
-http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/5066/index.m3u8
 #EXTINF:0 tvg-rec="3",Setanta Sports HD
 #EXTGRP:Спорт
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/271/index.m3u8
@@ -1229,7 +1256,7 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/272/index.m3u8
 #EXTINF:0 tvg-rec="3",Setanta Sports Ukraine HD orig
 #EXTGRP:Спорт
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/5068/index.m3u8
-#EXTINF:0 tvg-rec="3",Viasat Sport HD
+#EXTINF:0 tvg-rec="7",Viasat Sport HD
 #EXTGRP:Спорт
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2007/index.m3u8
 #EXTINF:0 tvg-rec="3",VIASAT Sport HD orig
@@ -1241,7 +1268,7 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/5078/index.m3u8
 #EXTINF:0 tvg-rec="3",UFC HD orig
 #EXTGRP:Спорт
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/5067/index.m3u8
-#EXTINF:0 tvg-rec="3",UFC ТВ
+#EXTINF:0 tvg-rec="7",UFC ТВ
 #EXTGRP:Спорт
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2000/index.m3u8
 #EXTINF:0 tvg-rec="3",XSPORT HD
@@ -1256,31 +1283,28 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/5003/index.m3u8
 #EXTINF:0 tvg-rec="3",Russian Extreme HD
 #EXTGRP:Спорт
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2077/index.m3u8
-#EXTINF:0 tvg-rec="3",Конный Мир HD
+#EXTINF:0 tvg-rec="7",Конный Мир HD
 #EXTGRP:Спорт
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/214/index.m3u8
-#EXTINF:0 tvg-rec="3",Телеканал КХЛ HD
+#EXTINF:0 tvg-rec="7",Телеканал КХЛ HD
 #EXTGRP:Спорт
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/215/index.m3u8
 #EXTINF:0 tvg-rec="3",КХЛ FHD
 #EXTGRP:Спорт
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2403/index.m3u8
-#EXTINF:0 tvg-rec="3",KHL
+#EXTINF:0 tvg-rec="7",KHL
 #EXTGRP:Спорт
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/519/index.m3u8
 #EXTINF:0 tvg-rec="3",FAST&FUN BOX HD
 #EXTGRP:Спорт
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/1018/index.m3u8
-#EXTINF:0 tvg-rec="3",Моторспорт ТВ FHD
-#EXTGRP:Спорт
-http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2405/index.m3u8
 #EXTINF:0 tvg-rec="3",Моторспорт ТВ HD
 #EXTGRP:Спорт
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2146/index.m3u8
 #EXTINF:0 tvg-rec="3",Моторспорт ТВ
 #EXTGRP:Спорт
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2145/index.m3u8
-#EXTINF:0 tvg-rec="3",Extreme Sports
+#EXTINF:0 tvg-rec="7",Extreme Sports
 #EXTGRP:Спорт
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/144/index.m3u8
 #EXTINF:0 tvg-rec="3",Футбол 1
@@ -1301,16 +1325,16 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/290/index.m3u8
 #EXTINF:0 tvg-rec="3",Футбол 3 HD orig
 #EXTGRP:Спорт
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/5083/index.m3u8
-#EXTINF:0 tvg-rec="3",Viasat Sport
+#EXTINF:0 tvg-rec="7",Viasat Sport
 #EXTGRP:Спорт
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/160/index.m3u8
 #EXTINF:0 tvg-rec="3",Fuel TV HD
 #EXTGRP:Спорт
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2396/index.m3u8
-#EXTINF:0 tvg-rec="3",M-1 Global TV
+#EXTINF:0 tvg-rec="7",M-1 Global TV
 #EXTGRP:Спорт
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/843/index.m3u8
-#EXTINF:0 tvg-rec="3",Бокс ТВ
+#EXTINF:0 tvg-rec="7",Бокс ТВ
 #EXTGRP:Спорт
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/870/index.m3u8
 #EXTINF:0 tvg-rec="3",СТАРТ
@@ -1319,10 +1343,10 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2154/index.m3u8
 #EXTINF:0 tvg-rec="3",Телеканал Футбол
 #EXTGRP:Спорт
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/5050/index.m3u8
-#EXTINF:0 tvg-rec="3",Драйв
+#EXTINF:0 tvg-rec="7",Драйв
 #EXTGRP:Спорт
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2021/index.m3u8
-#EXTINF:0 tvg-rec="3",ЖИВИ!
+#EXTINF:0 tvg-rec="7",ЖИВИ!
 #EXTGRP:Спорт
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/738/index.m3u8
 #EXTINF:0 tvg-rec="3",Е HD
@@ -1361,31 +1385,46 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/9249/index.m3u8
 #EXTINF:0 tvg-rec="3",Футбол orig
 #EXTGRP:Спорт
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/9251/index.m3u8
-#EXTINF:0 tvg-rec="3",BRIDGE HD
+#EXTINF:0 tvg-rec="0",Хоккей 1
+#EXTGRP:Спорт
+http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/7360/index.m3u8
+#EXTINF:0 tvg-rec="0",Хоккей 2
+#EXTGRP:Спорт
+http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/7361/index.m3u8
+#EXTINF:0 tvg-rec="0",Хоккей 3
+#EXTGRP:Спорт
+http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/7362/index.m3u8
+#EXTINF:0 tvg-rec="0",Хоккей 4
+#EXTGRP:Спорт
+http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/7363/index.m3u8
+#EXTINF:0 tvg-rec="0",Хоккей 5
+#EXTGRP:Спорт
+http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/7364/index.m3u8
+#EXTINF:0 tvg-rec="7",BRIDGE HD
 #EXTGRP:Музыка
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/236/index.m3u8
 #EXTINF:0 tvg-rec="3",Жар Птица
 #EXTGRP:Музыка
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2142/index.m3u8
-#EXTINF:0 tvg-rec="3",Музыка
+#EXTINF:0 tvg-rec="7",Музыка
 #EXTGRP:Музыка
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/155/index.m3u8
-#EXTINF:0 tvg-rec="3",VIVA TV
-#EXTGRP:Музыка
-http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/301/index.m3u8
-#EXTINF:0 tvg-rec="3",C-Music HD
+#EXTINF:0 tvg-rec="7",C-Music HD
 #EXTGRP:Музыка
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2028/index.m3u8
-#EXTINF:0 tvg-rec="3",MTV 80s
+#EXTINF:0 tvg-rec="7",MTV 80s
 #EXTGRP:Музыка
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/724/index.m3u8
-#EXTINF:0 tvg-rec="3",VH1 European
+#EXTINF:0 tvg-rec="3",MTV Россия HD
+#EXTGRP:Музыка
+http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2130/index.m3u8
+#EXTINF:0 tvg-rec="7",VH1 European
 #EXTGRP:Музыка
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/536/index.m3u8
-#EXTINF:0 tvg-rec="3",Russian Music Box
+#EXTINF:0 tvg-rec="7",Russian Music Box
 #EXTGRP:Музыка
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2048/index.m3u8
-#EXTINF:0 tvg-rec="3",МУЗ-ТВ
+#EXTINF:0 tvg-rec="7",МУЗ-ТВ
 #EXTGRP:Музыка
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/116/index.m3u8
 #EXTINF:0 tvg-rec="0",Муз ТВ +4
@@ -1397,28 +1436,31 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/1038/index.m3u8
 #EXTINF:0 tvg-rec="3",Жара HD
 #EXTGRP:Музыка
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2129/index.m3u8
-#EXTINF:0 tvg-rec="3",Mezzo
+#EXTINF:0 tvg-rec="7",Mezzo
 #EXTGRP:Музыка
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/707/index.m3u8
 #EXTINF:0 tvg-rec="3",Курай TV
 #EXTGRP:Музыка
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2061/index.m3u8
-#EXTINF:0 tvg-rec="3",Bridge TV
+#EXTINF:0 tvg-rec="7",Bridge TV
 #EXTGRP:Музыка
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/122/index.m3u8
+#EXTINF:0 tvg-rec="3",Clubbing TV HD RU
+#EXTGRP:Музыка
+http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2395/index.m3u8
 #EXTINF:0 tvg-rec="3",AIVA HD
 #EXTGRP:Музыка
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2442/index.m3u8
 #EXTINF:0 tvg-rec="3",МузСоюз
 #EXTGRP:Музыка
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2137/index.m3u8
-#EXTINF:0 tvg-rec="3",MTV Hits
+#EXTINF:0 tvg-rec="7",MTV Hits
 #EXTGRP:Музыка
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/153/index.m3u8
-#EXTINF:0 tvg-rec="3",Шансон ТВ
+#EXTINF:0 tvg-rec="7",Шансон ТВ
 #EXTGRP:Музыка
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/859/index.m3u8
-#EXTINF:0 tvg-rec="3",BRIDGE TV DANCE
+#EXTINF:0 tvg-rec="7",BRIDGE TV HITS
 #EXTGRP:Музыка
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/711/index.m3u8
 #EXTINF:0 tvg-rec="3",о2тв HD
@@ -1427,25 +1469,22 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2141/index.m3u8
 #EXTINF:0 tvg-rec="3",AIVA TV
 #EXTGRP:Музыка
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2156/index.m3u8
-#EXTINF:0 tvg-rec="3",Stingray Festival 4K
-#EXTGRP:Музыка
-http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/5006/index.m3u8
-#EXTINF:0 tvg-rec="3",Mezzo Live HD
+#EXTINF:0 tvg-rec="7",Mezzo Live HD
 #EXTGRP:Музыка
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/208/index.m3u8
-#EXTINF:0 tvg-rec="3",Ля-минор ТВ
+#EXTINF:0 tvg-rec="7",Ля-минор ТВ
 #EXTGRP:Музыка
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2043/index.m3u8
-#EXTINF:0 tvg-rec="3",Europa Plus TV
+#EXTINF:0 tvg-rec="7",Europa Plus TV
 #EXTGRP:Музыка
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/115/index.m3u8
 #EXTINF:0 tvg-rec="3",Vostok TV
 #EXTGRP:Музыка
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/1054/index.m3u8
-#EXTINF:0 tvg-rec="3",MTV Live HD
+#EXTINF:0 tvg-rec="7",MTV Live HD
 #EXTGRP:Музыка
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/221/index.m3u8
-#EXTINF:0 tvg-rec="3",Club MTV
+#EXTINF:0 tvg-rec="7",Club MTV
 #EXTGRP:Музыка
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/558/index.m3u8
 #EXTINF:0 tvg-rec="3",Курай HD
@@ -1454,27 +1493,24 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2144/index.m3u8
 #EXTINF:0 tvg-rec="3",BRIDGE TV Русский Хит
 #EXTGRP:Музыка
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/120/index.m3u8
-#EXTINF:0 tvg-rec="3",MCM Top Russia
+#EXTINF:0 tvg-rec="7",MCM Top Russia
 #EXTGRP:Музыка
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/836/index.m3u8
-#EXTINF:0 tvg-rec="3",ЖАРА
+#EXTINF:0 tvg-rec="7",ЖАРА
 #EXTGRP:Музыка
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/105/index.m3u8
-#EXTINF:0 tvg-rec="3",ТНТ MUSIC
+#EXTINF:0 tvg-rec="7",ТНТ MUSIC
 #EXTGRP:Музыка
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/710/index.m3u8
 #EXTINF:0 tvg-rec="3",о2тв
 #EXTGRP:Музыка
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2068/index.m3u8
-#EXTINF:0 tvg-rec="3",MTV
+#EXTINF:0 tvg-rec="7",MTV
 #EXTGRP:Музыка
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/142/index.m3u8
-#EXTINF:0 tvg-rec="3",RU.TV
+#EXTINF:0 tvg-rec="7",RU.TV
 #EXTGRP:Музыка
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/838/index.m3u8
-#EXTINF:0 tvg-rec="3",Mezzo Live HD
-#EXTGRP:Музыка
-http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/217/index.m3u8
 #EXTINF:0 tvg-rec="3",1HD orig
 #EXTGRP:Музыка
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/9001/index.m3u8
@@ -1559,67 +1595,70 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/9258/index.m3u8
 #EXTINF:0 tvg-rec="3",Bridge TV Classic orig
 #EXTGRP:Музыка
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/9259/index.m3u8
-#EXTINF:0 tvg-rec="3",СТС Kids HD
+#EXTINF:0 tvg-rec="0",Mafi2a TV
+#EXTGRP:Музыка
+http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/7223/index.m3u8
+#EXTINF:0 tvg-rec="0",Ritsa TV
+#EXTGRP:Музыка
+http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/7224/index.m3u8
+#EXTINF:0 tvg-rec="7",СТС Kids HD
 #EXTGRP:Детские
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2001/index.m3u8
-#EXTINF:0 tvg-rec="3",Nickelodeon HD
+#EXTINF:0 tvg-rec="7",Nickelodeon HD
 #EXTGRP:Детские
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/223/index.m3u8
-#EXTINF:0 tvg-rec="3",Cartoon Network HD
-#EXTGRP:Детские
-http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2011/index.m3u8
-#EXTINF:0 tvg-rec="3",Tiji TV
+#EXTINF:0 tvg-rec="7",Tiji TV
 #EXTGRP:Детские
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/108/index.m3u8
-#EXTINF:0 tvg-rec="3",Gulli
+#EXTINF:0 tvg-rec="7",Gulli
 #EXTGRP:Детские
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/109/index.m3u8
-#EXTINF:0 tvg-rec="3",Nick Jr
+#EXTINF:0 tvg-rec="7",Nick Jr
 #EXTGRP:Детские
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/114/index.m3u8
-#EXTINF:0 tvg-rec="3",Nickelodeon
+#EXTINF:0 tvg-rec="7",Nickelodeon
 #EXTGRP:Детские
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/541/index.m3u8
-#EXTINF:0 tvg-rec="3",Disney
+#EXTINF:0 tvg-rec="7",Disney
 #EXTGRP:Детские
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/524/index.m3u8
-#EXTINF:0 tvg-rec="3",Детский мир
+#EXTINF:0 tvg-rec="7",Детский мир
 #EXTGRP:Детские
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/543/index.m3u8
-#EXTINF:0 tvg-rec="3",Jim Jam
+#EXTINF:0 tvg-rec="7",Jim Jam
 #EXTGRP:Детские
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/138/index.m3u8
-#EXTINF:0 tvg-rec="3",Cartoon Network
+#EXTINF:0 tvg-rec="7",Cartoon Network
 #EXTGRP:Детские
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/143/index.m3u8
-#EXTINF:0 tvg-rec="3",Карусель
+#EXTINF:0 tvg-rec="7",Карусель
 #EXTGRP:Детские
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/156/index.m3u8
-#EXTINF:0 tvg-rec="3",Ani
+#EXTINF:0 tvg-rec="7",Ani
 #EXTGRP:Детские
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/129/index.m3u8
-#EXTINF:0 tvg-rec="3",Мульт
+#EXTINF:0 tvg-rec="7",Мульт
 #EXTGRP:Детские
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/909/index.m3u8
-#EXTINF:0 tvg-rec="3",Тлум HD
+#EXTINF:0 tvg-rec="3",Мульт HD
 #EXTGRP:Детские
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/240/index.m3u8
-#EXTINF:0 tvg-rec="3",Boomerang
+#EXTINF:0 tvg-rec="7",Boomerang
 #EXTGRP:Детские
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/723/index.m3u8
-#EXTINF:0 tvg-rec="3",О!
+#EXTINF:0 tvg-rec="7",О!
 #EXTGRP:Детские
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/727/index.m3u8
-#EXTINF:0 tvg-rec="3",Детский
+#EXTINF:0 tvg-rec="7",Уникум
 #EXTGRP:Детские
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/730/index.m3u8
-#EXTINF:0 tvg-rec="3",В гостях у сказки
+#EXTINF:0 tvg-rec="7",В гостях у сказки
 #EXTGRP:Детские
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/737/index.m3u8
 #EXTINF:0 tvg-rec="3",Карусель (+3)
 #EXTGRP:Детские
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/740/index.m3u8
-#EXTINF:0 tvg-rec="3",Мультимузыка
+#EXTINF:0 tvg-rec="7",Мультимузыка
 #EXTGRP:Детские
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/749/index.m3u8
 #EXTINF:0 tvg-rec="3",Duck TV
@@ -1640,7 +1679,7 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/1041/index.m3u8
 #EXTINF:0 tvg-rec="3",Nickelodeon EN
 #EXTGRP:Детские
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/1069/index.m3u8
-#EXTINF:0 tvg-rec="3",Радость моя
+#EXTINF:0 tvg-rec="7",Радость моя
 #EXTGRP:Детские
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/853/index.m3u8
 #EXTINF:0 tvg-rec="3",Рыжий
@@ -1664,19 +1703,16 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/5055/index.m3u8
 #EXTINF:0 tvg-rec="3",Уникум
 #EXTGRP:Детские
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/5056/index.m3u8
-#EXTINF:0 tvg-rec="3",Мультик HD
+#EXTINF:0 tvg-rec="7",Мульт HD
 #EXTGRP:Детские
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/921/index.m3u8
 #EXTINF:0 tvg-rec="3",Nickelodeon HD orig
 #EXTGRP:Детские
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/9015/index.m3u8
-#EXTINF:0 tvg-rec="3",TLUM HD orig
+#EXTINF:0 tvg-rec="3",Мульт HD orig
 #EXTGRP:Детские
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/9037/index.m3u8
-#EXTINF:0 tvg-rec="3",Cartoon Network HD orig
-#EXTGRP:Детские
-http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/9074/index.m3u8
-#EXTINF:0 tvg-rec="3",Детский HD orig
+#EXTINF:0 tvg-rec="3",Уникум HD orig
 #EXTGRP:Детские
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/9077/index.m3u8
 #EXTINF:0 tvg-rec="3",СТС Kids HD orig
@@ -1715,7 +1751,7 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/9189/index.m3u8
 #EXTINF:0 tvg-rec="3",О! orig
 #EXTGRP:Детские
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/9190/index.m3u8
-#EXTINF:0 tvg-rec="3",Детский orig
+#EXTINF:0 tvg-rec="3",Уникум orig
 #EXTGRP:Детские
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/9191/index.m3u8
 #EXTINF:0 tvg-rec="3",Baby tv orig
@@ -1778,7 +1814,7 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/9327/index.m3u8
 #EXTINF:0 tvg-rec="3",Viasat Nature orig
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/9295/index.m3u8
-#EXTINF:0 tvg-rec="3",Первый образовательный orig
+#EXTINF:0 tvg-rec="3",Flix Snip orig
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/9311/index.m3u8
 #EXTINF:0 tvg-rec="3",Первый вегетарианский orig
@@ -1790,7 +1826,7 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/9288/index.m3u8
 #EXTINF:0 tvg-rec="3",Просвещение orig
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/9304/index.m3u8
-#EXTINF:0 tvg-rec="3",Мир увлечений orig
+#EXTINF:0 tvg-rec="3",Кто Куда orig
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/9329/index.m3u8
 #EXTINF:0 tvg-rec="3",Вопросы и ответы orig
@@ -1802,9 +1838,6 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/9313/index.m3u8
 #EXTINF:0 tvg-rec="3",Investigation Discovery orig
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/9322/index.m3u8
-#EXTINF:0 tvg-rec="3",Твой дом orig
-#EXTGRP:Познавательные
-http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/9290/index.m3u8
 #EXTINF:0 tvg-rec="3",Мужской orig
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/9306/index.m3u8
@@ -1892,6 +1925,9 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/9316/index.m3u8
 #EXTINF:0 tvg-rec="3",Insight UHD 4K
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/5000/index.m3u8
+#EXTINF:0 tvg-rec="3",Кухня ТВ HD
+#EXTGRP:Познавательные
+http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2127/index.m3u8
 #EXTINF:0 tvg-rec="3",Love Nature 4K
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/5001/index.m3u8
@@ -1904,67 +1940,61 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/6001/index.m3u8
 #EXTINF:0 tvg-rec="3",National Geographic FHD
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2416/index.m3u8
-#EXTINF:0 tvg-rec="3",National Geographic HD
+#EXTINF:0 tvg-rec="7",National Geographic HD
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/230/index.m3u8
 #EXTINF:0 tvg-rec="3",Viasat History HD
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/6002/index.m3u8
-#EXTINF:0 tvg-rec="3",nat geographic
-#EXTGRP:Познавательные
-http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/134/index.m3u8
-#EXTINF:0 tvg-rec="3",TLC HD
+#EXTINF:0 tvg-rec="7",TLC HD
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/232/index.m3u8
-#EXTINF:0 tvg-rec="3",Travel Channel HD
+#EXTINF:0 tvg-rec="7",Travel Channel HD
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/233/index.m3u8
-#EXTINF:0 tvg-rec="3",History HD
+#EXTINF:0 tvg-rec="7",History HD
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/231/index.m3u8
-#EXTINF:0 tvg-rec="3",Viasat Nature/History HD
+#EXTINF:0 tvg-rec="7",Viasat Nature/History HD
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/203/index.m3u8
-#EXTINF:0 tvg-rec="3",H2 HD
+#EXTINF:0 tvg-rec="7",H2 HD
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2033/index.m3u8
-#EXTINF:0 tvg-rec="3",Discovery Channel HD
+#EXTINF:0 tvg-rec="7",Discovery Channel HD
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/227/index.m3u8
-#EXTINF:0 tvg-rec="3",Discovery Channel
+#EXTINF:0 tvg-rec="7",Discovery Channel
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/140/index.m3u8
-#EXTINF:0 tvg-rec="3",Discovery HD Showcase
-#EXTGRP:Познавательные
-http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2058/index.m3u8
-#EXTINF:0 tvg-rec="3",RTG HD
+#EXTINF:0 tvg-rec="7",RTG HD
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/210/index.m3u8
 #EXTINF:0 tvg-rec="3",Nat Geo Wild FHD
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2415/index.m3u8
-#EXTINF:0 tvg-rec="3",Nat Geo Wild HD
+#EXTINF:0 tvg-rec="7",Nat Geo Wild HD
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/216/index.m3u8
-#EXTINF:0 tvg-rec="3",Nat Geo Wild
+#EXTINF:0 tvg-rec="7",Nat Geo Wild
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/133/index.m3u8
-#EXTINF:0 tvg-rec="3",Discovery Science
+#EXTINF:0 tvg-rec="7",Discovery Science
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/136/index.m3u8
-#EXTINF:0 tvg-rec="3",Animal Planet HD
+#EXTINF:0 tvg-rec="7",Animal Planet HD
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/218/index.m3u8
-#EXTINF:0 tvg-rec="3",Animal Planet
+#EXTINF:0 tvg-rec="7",Animal Planet
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/137/index.m3u8
-#EXTINF:0 tvg-rec="3",Охотник и рыболов HD
+#EXTINF:0 tvg-rec="7",Охотник и рыболов HD
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/917/index.m3u8
 #EXTINF:0 tvg-rec="3",ЕДА Премиум FHD
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2418/index.m3u8
-#EXTINF:0 tvg-rec="3",ЕДА Премиум
+#EXTINF:0 tvg-rec="7",ЕДА Премиум
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/918/index.m3u8
 #EXTINF:0 tvg-rec="3",Food Network FHD
@@ -1982,70 +2012,70 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2089/index.m3u8
 #EXTINF:0 tvg-rec="3",Планета HD
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2090/index.m3u8
-#EXTINF:0 tvg-rec="3",Приключения HD
+#EXTINF:0 tvg-rec="7",Приключения HD
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/920/index.m3u8
 #EXTINF:0 tvg-rec="3",Глазами туриста HD
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2104/index.m3u8
-#EXTINF:0 tvg-rec="3",Большая Азия HD
+#EXTINF:0 tvg-rec="7",Большая Азия HD
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2009/index.m3u8
 #EXTINF:0 tvg-rec="3",DocuBox HD
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/968/index.m3u8
-#EXTINF:0 tvg-rec="3",Дикая охота HD
+#EXTINF:0 tvg-rec="7",Дикая охота HD
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2004/index.m3u8
-#EXTINF:0 tvg-rec="3",Дикая рыбалка HD
+#EXTINF:0 tvg-rec="7",Дикая рыбалка HD
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2005/index.m3u8
 #EXTINF:0 tvg-rec="3",Диалоги о рыбалке HD
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2394/index.m3u8
-#EXTINF:0 tvg-rec="3",Fine living HD
-#EXTGRP:Познавательные
-http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2027/index.m3u8
-#EXTINF:0 tvg-rec="3",Fine Living
+#EXTINF:0 tvg-rec="7",Fine Living
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/735/index.m3u8
+#EXTINF:0 tvg-rec="3",Синергия ТВ
+#EXTGRP:Познавательные
+http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2067/index.m3u8
 #EXTINF:0 tvg-rec="3",Загородный int HD
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2124/index.m3u8
 #EXTINF:0 tvg-rec="3",ID Xtra HD
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2102/index.m3u8
-#EXTINF:0 tvg-rec="3",Авто Плюс
+#EXTINF:0 tvg-rec="7",Авто Плюс
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/151/index.m3u8
-#EXTINF:0 tvg-rec="3",Кухня ТВ
+#EXTINF:0 tvg-rec="7",Кухня ТВ
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/152/index.m3u8
 #EXTINF:0 tvg-rec="3",Нано ТВ HD
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2135/index.m3u8
-#EXTINF:0 tvg-rec="3",Время
+#EXTINF:0 tvg-rec="7",Время
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/552/index.m3u8
-#EXTINF:0 tvg-rec="3",Домашние Животные
+#EXTINF:0 tvg-rec="7",Домашние Животные
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/158/index.m3u8
-#EXTINF:0 tvg-rec="3",Точка отрыва
+#EXTINF:0 tvg-rec="7",Точка отрыва
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/159/index.m3u8
 #EXTINF:0 tvg-rec="3",Надежда
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2153/index.m3u8
-#EXTINF:0 tvg-rec="3",Viasat Nature
+#EXTINF:0 tvg-rec="7",Viasat Nature
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/161/index.m3u8
-#EXTINF:0 tvg-rec="3",Viasat History
+#EXTINF:0 tvg-rec="7",Viasat History
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/162/index.m3u8
-#EXTINF:0 tvg-rec="3",Viasat Explore
+#EXTINF:0 tvg-rec="7",Viasat Explore
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/163/index.m3u8
-#EXTINF:0 tvg-rec="3",Travel Channel
+#EXTINF:0 tvg-rec="7",Travel Channel
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/130/index.m3u8
 #EXTINF:0 tvg-rec="3",Наука HD
@@ -2054,28 +2084,28 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2155/index.m3u8
 #EXTINF:0 tvg-rec="3",Galaxy HD
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/5045/index.m3u8
-#EXTINF:0 tvg-rec="3",Первый образовательный
+#EXTINF:0 tvg-rec="7",Flix Snip
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/701/index.m3u8
-#EXTINF:0 tvg-rec="3",OCEAN-TV
+#EXTINF:0 tvg-rec="7",OCEAN-TV
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/703/index.m3u8
-#EXTINF:0 tvg-rec="3",Бобёр
+#EXTINF:0 tvg-rec="7",Бобёр
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/725/index.m3u8
-#EXTINF:0 tvg-rec="3",Зоопарк
+#EXTINF:0 tvg-rec="7",Зоопарк
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/731/index.m3u8
-#EXTINF:0 tvg-rec="3",E
+#EXTINF:0 tvg-rec="7",E
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/736/index.m3u8
-#EXTINF:0 tvg-rec="3",Морской
+#EXTINF:0 tvg-rec="7",Морской
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/742/index.m3u8
-#EXTINF:0 tvg-rec="3",Телекафе
+#EXTINF:0 tvg-rec="7",Телекафе
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/865/index.m3u8
-#EXTINF:0 tvg-rec="3",Усадьба
+#EXTINF:0 tvg-rec="7",Усадьба
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/532/index.m3u8
 #EXTINF:0 tvg-rec="3",English Club TV
@@ -2093,37 +2123,34 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/1037/index.m3u8
 #EXTINF:0 tvg-rec="3",Travel Channel EN
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/1070/index.m3u8
-#EXTINF:0 tvg-rec="3",History Russia
+#EXTINF:0 tvg-rec="7",History Russia
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/837/index.m3u8
-#EXTINF:0 tvg-rec="3",RTG TV
+#EXTINF:0 tvg-rec="7",RTG TV
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/841/index.m3u8
-#EXTINF:0 tvg-rec="3",Первый Метео
-#EXTGRP:Познавательные
-http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/845/index.m3u8
-#EXTINF:0 tvg-rec="3",Дикий
+#EXTINF:0 tvg-rec="7",Дикий
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/847/index.m3u8
-#EXTINF:0 tvg-rec="3",Spike Russia
+#EXTINF:0 tvg-rec="7",Spike Russia
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/849/index.m3u8
-#EXTINF:0 tvg-rec="3",travel+adventure
+#EXTINF:0 tvg-rec="7",travel+adventure
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/850/index.m3u8
-#EXTINF:0 tvg-rec="3",Поехали!
+#EXTINF:0 tvg-rec="7",Поехали!
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/135/index.m3u8
-#EXTINF:0 tvg-rec="3",Galaxy
+#EXTINF:0 tvg-rec="7",Galaxy
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2010/index.m3u8
-#EXTINF:0 tvg-rec="3",Охота и рыбалка
+#EXTINF:0 tvg-rec="7",Охота и рыбалка
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2019/index.m3u8
-#EXTINF:0 tvg-rec="3",ЕГЭ ТВ
+#EXTINF:0 tvg-rec="7",ЕГЭ ТВ
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2020/index.m3u8
-#EXTINF:0 tvg-rec="3",HD Media
+#EXTINF:0 tvg-rec="7",HD Media
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2037/index.m3u8
 #EXTINF:0 tvg-rec="3",365 дней ТВ
@@ -2171,46 +2198,43 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/1010/index.m3u8
 #EXTINF:0 tvg-rec="3",World Fashion Channel
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/1068/index.m3u8
-#EXTINF:0 tvg-rec="3",Мужской
+#EXTINF:0 tvg-rec="7",Мужской
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2047/index.m3u8
-#EXTINF:0 tvg-rec="3",Телеканал Да Винчи
+#EXTINF:0 tvg-rec="7",Телеканал Да Винчи
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/537/index.m3u8
-#EXTINF:0 tvg-rec="3",Мама
+#EXTINF:0 tvg-rec="7",Мама
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/704/index.m3u8
-#EXTINF:0 tvg-rec="3",CBS Reality
+#EXTINF:0 tvg-rec="7",CBS Reality
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/706/index.m3u8
-#EXTINF:0 tvg-rec="3",НТВ Стиль
+#EXTINF:0 tvg-rec="7",НТВ Стиль
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/745/index.m3u8
-#EXTINF:0 tvg-rec="3",НТВ Право
+#EXTINF:0 tvg-rec="7",НТВ Право
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/743/index.m3u8
 #EXTINF:0 tvg-rec="3",Kabbala TV
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/1053/index.m3u8
-#EXTINF:0 tvg-rec="3",Первый Вегетарианский
+#EXTINF:0 tvg-rec="7",Первый Вегетарианский
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/833/index.m3u8
-#EXTINF:0 tvg-rec="3",Загородная Жизнь
+#EXTINF:0 tvg-rec="7",Загородная Жизнь
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/852/index.m3u8
-#EXTINF:0 tvg-rec="3",Просвещение
+#EXTINF:0 tvg-rec="7",Просвещение
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/846/index.m3u8
-#EXTINF:0 tvg-rec="3",Твой дом
-#EXTGRP:Познавательные
-http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/864/index.m3u8
-#EXTINF:0 tvg-rec="3",ТДК
+#EXTINF:0 tvg-rec="7",ТДК
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2034/index.m3u8
 #EXTINF:0 tvg-rec="3",Связист ТВ
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2111/index.m3u8
-#EXTINF:0 tvg-rec="3",Мир Увлечений
+#EXTINF:0 tvg-rec="3",Кто Куда
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2112/index.m3u8
 #EXTINF:0 tvg-rec="3",Т 24
@@ -2222,28 +2246,28 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2149/index.m3u8
 #EXTINF:0 tvg-rec="3",Калейдоскоп ТВ
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/5037/index.m3u8
-#EXTINF:0 tvg-rec="3",История
+#EXTINF:0 tvg-rec="7",История
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/111/index.m3u8
-#EXTINF:0 tvg-rec="3",Моя Планета
+#EXTINF:0 tvg-rec="7",Моя Планета
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/117/index.m3u8
-#EXTINF:0 tvg-rec="3",Outdoor Channel
+#EXTINF:0 tvg-rec="7",Outdoor Channel
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/119/index.m3u8
-#EXTINF:0 tvg-rec="3",Вопросы и ответы
+#EXTINF:0 tvg-rec="7",Вопросы и ответы
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2026/index.m3u8
-#EXTINF:0 tvg-rec="3",Совершенно секретно
+#EXTINF:0 tvg-rec="7",Совершенно секретно
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/121/index.m3u8
-#EXTINF:0 tvg-rec="3",Доктор
+#EXTINF:0 tvg-rec="7",Доктор
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/512/index.m3u8
-#EXTINF:0 tvg-rec="3",Авто 24
+#EXTINF:0 tvg-rec="7",Авто 24
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/538/index.m3u8
-#EXTINF:0 tvg-rec="3",Теледом
+#EXTINF:0 tvg-rec="3",Теледом HD
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/954/index.m3u8
 #EXTINF:0 tvg-rec="3",Приключения HD orig
@@ -2276,9 +2300,6 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/9026/index.m3u8
 #EXTINF:0 tvg-rec="3",Viasat Nature/History HD orig
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/9027/index.m3u8
-#EXTINF:0 tvg-rec="3",Теледом HD orig
-#EXTGRP:Познавательные
-http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/9030/index.m3u8
 #EXTINF:0 tvg-rec="3",Discovery HD Showcase orig
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/9034/index.m3u8
@@ -2303,7 +2324,7 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/9060/index.m3u8
 #EXTINF:0 tvg-rec="3",Глазами туриста HD orig
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/9061/index.m3u8
-#EXTINF:0 tvg-rec="3",Трофей HD orig
+#EXTINF:0 tvg-rec="3",Трофей HD
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/9076/index.m3u8
 #EXTINF:0 tvg-rec="3",Дикая охота HD orig
@@ -2345,9 +2366,6 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/9272/index.m3u8
 #EXTINF:0 tvg-rec="3",Надежда orig
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/9273/index.m3u8
-#EXTINF:0 tvg-rec="3",Viasat History orig
-#EXTGRP:Познавательные
-http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/9274/index.m3u8
 #EXTINF:0 tvg-rec="3",Viasat Explore orig
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/9275/index.m3u8
@@ -2366,7 +2384,7 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/9279/index.m3u8
 #EXTINF:0 tvg-rec="3",RTG TV orig
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/9280/index.m3u8
-#EXTINF:0 tvg-rec="3",Первый Метео orig
+#EXTINF:0 tvg-rec="3",Восьмой канал orig
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/9281/index.m3u8
 #EXTINF:0 tvg-rec="3",Дикий orig
@@ -2381,22 +2399,25 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/9284/index.m3u8
 #EXTINF:0 tvg-rec="3",ЕГЭ ТВ orig
 #EXTGRP:Познавательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/9285/index.m3u8
-#EXTINF:0 tvg-rec="3",Paramount Comedy HD
-#EXTGRP:Развлекательные
-http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/6000/index.m3u8
+#EXTINF:0 tvg-rec="0",Museum HD
+#EXTGRP:Познавательные
+http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/7246/index.m3u8
+#EXTINF:0 tvg-rec="0",Морской HD
+#EXTGRP:Познавательные
+http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/7349/index.m3u8
 #EXTINF:0 tvg-rec="3",MyZen TV 4K
 #EXTGRP:Развлекательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/5002/index.m3u8
 #EXTINF:0 tvg-rec="3",FTV UHD
 #EXTGRP:Развлекательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/4005/index.m3u8
-#EXTINF:0 tvg-rec="3",HD Life
+#EXTINF:0 tvg-rec="7",HD Life
 #EXTGRP:Развлекательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/226/index.m3u8
-#EXTINF:0 tvg-rec="3",Эврика HD
+#EXTINF:0 tvg-rec="7",Первый космический HD
 #EXTGRP:Развлекательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/908/index.m3u8
-#EXTINF:0 tvg-rec="3",DTX HD
+#EXTINF:0 tvg-rec="7",DTX HD
 #EXTGRP:Развлекательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2006/index.m3u8
 #EXTINF:0 tvg-rec="3",DTX HD orig
@@ -2405,13 +2426,13 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/5064/index.m3u8
 #EXTINF:0 tvg-rec="3",Fashion TV FHD
 #EXTGRP:Развлекательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2411/index.m3u8
-#EXTINF:0 tvg-rec="3",Fashion TV HD
+#EXTINF:0 tvg-rec="7",Fashion TV HD
 #EXTGRP:Развлекательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2045/index.m3u8
 #EXTINF:0 tvg-rec="3",Fashion One FHD
 #EXTGRP:Развлекательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2412/index.m3u8
-#EXTINF:0 tvg-rec="3",Fashion One HD
+#EXTINF:0 tvg-rec="7",Fashion One HD
 #EXTGRP:Развлекательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2044/index.m3u8
 #EXTINF:0 tvg-rec="3",Арсенал HD
@@ -2429,13 +2450,13 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2072/index.m3u8
 #EXTINF:0 tvg-rec="3",Luxury
 #EXTGRP:Развлекательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/5032/index.m3u8
-#EXTINF:0 tvg-rec="3",Продвижение
+#EXTINF:0 tvg-rec="7",Продвижение
 #EXTGRP:Развлекательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/851/index.m3u8
-#EXTINF:0 tvg-rec="3",ACB TV
+#EXTINF:0 tvg-rec="7",ACB TV
 #EXTGRP:Развлекательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/868/index.m3u8
-#EXTINF:0 tvg-rec="3",Globalstar TV
+#EXTINF:0 tvg-rec="7",Globalstar TV
 #EXTGRP:Развлекательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2035/index.m3u8
 #EXTINF:0 tvg-rec="3",Раз ТВ
@@ -2453,7 +2474,7 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/9000/index.m3u8
 #EXTINF:0 tvg-rec="3",LUXURY WORLD HD orig
 #EXTGRP:Развлекательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/9038/index.m3u8
-#EXTINF:0 tvg-rec="3",Эврика HD orig
+#EXTINF:0 tvg-rec="3",Первый космический HD orig
 #EXTGRP:Развлекательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/9049/index.m3u8
 #EXTINF:0 tvg-rec="3",Продвижение orig
@@ -2465,9 +2486,6 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/9052/index.m3u8
 #EXTINF:0 tvg-rec="3",ACB TV orig
 #EXTGRP:Развлекательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/9332/index.m3u8
-#EXTINF:0 tvg-rec="3",Раз ТВ orig
-#EXTGRP:Развлекательные
-http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/9333/index.m3u8
 #EXTINF:0 tvg-rec="3",Globalstar TV orig
 #EXTGRP:Развлекательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/9334/index.m3u8
@@ -2480,12 +2498,18 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/9336/index.m3u8
 #EXTINF:0 tvg-rec="3",Театр orig
 #EXTGRP:Развлекательные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/9337/index.m3u8
-#EXTINF:0 tvg-rec="3",Санкт-Петербург
+#EXTINF:0 tvg-rec="0",Загородная жизнь HD
+#EXTGRP:Развлекательные
+http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/7348/index.m3u8
+#EXTINF:0 tvg-rec="7",Санкт-Петербург
 #EXTGRP:Региональные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/715/index.m3u8
-#EXTINF:0 tvg-rec="3",Хамдан
+#EXTINF:0 tvg-rec="3",НТК Калмыкия
 #EXTGRP:Региональные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2066/index.m3u8
+#EXTINF:0 tvg-rec="3",Брянская Губерния
+#EXTGRP:Региональные
+http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/857/index.m3u8
 #EXTINF:0 tvg-rec="3",КРЫМ 24
 #EXTGRP:Региональные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2143/index.m3u8
@@ -2504,19 +2528,19 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/1059/index.m3u8
 #EXTINF:0 tvg-rec="3",Липецк Time
 #EXTGRP:Региональные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2435/index.m3u8
-#EXTINF:0 tvg-rec="3",Юрган
+#EXTINF:0 tvg-rec="7",Юрган
 #EXTGRP:Региональные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2036/index.m3u8
-#EXTINF:0 tvg-rec="3",Грозный
+#EXTINF:0 tvg-rec="7",Грозный
 #EXTGRP:Региональные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/855/index.m3u8
-#EXTINF:0 tvg-rec="3",ТНВ-Планета
+#EXTINF:0 tvg-rec="7",ТНВ-Планета
 #EXTGRP:Региональные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/515/index.m3u8
 #EXTINF:0 tvg-rec="3",ТОЛК
 #EXTGRP:Региональные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2140/index.m3u8
-#EXTINF:0 tvg-rec="3",Москва Доверие
+#EXTINF:0 tvg-rec="7",Москва Доверие
 #EXTGRP:Региональные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/869/index.m3u8
 #EXTINF:0 tvg-rec="3",Первый Крымский
@@ -2531,7 +2555,7 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/1049/index.m3u8
 #EXTINF:0 tvg-rec="3",Сочи HD
 #EXTGRP:Региональные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2433/index.m3u8
-#EXTINF:0 tvg-rec="3",Башкирское спутниковое телевидение
+#EXTINF:0 tvg-rec="7",Башкирское спутниковое телевидение
 #EXTGRP:Региональные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/832/index.m3u8
 #EXTINF:0 tvg-rec="3",Ратник
@@ -2558,6 +2582,9 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/9342/index.m3u8
 #EXTINF:0 tvg-rec="3",БСТ orig
 #EXTGRP:Региональные
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/9343/index.m3u8
+#EXTINF:0 tvg-rec="3",Sexto Senso
+#EXTGRP:Взрослые
+http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/875/index.m3u8
 #EXTINF:0 tvg-rec="3",Penthouse Passion
 #EXTGRP:Взрослые
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/5010/index.m3u8
@@ -2567,6 +2594,9 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/910/index.m3u8
 #EXTINF:0 tvg-rec="3",Penthouse Quickies 1300k
 #EXTGRP:Взрослые
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/5012/index.m3u8
+#EXTINF:0 tvg-rec="3",PRIVE
+#EXTGRP:Взрослые
+http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/877/index.m3u8
 #EXTINF:0 tvg-rec="3",Candy
 #EXTGRP:Взрослые
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/923/index.m3u8
@@ -2576,9 +2606,6 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2160/index.m3u8
 #EXTINF:0 tvg-rec="3",Redlight HD
 #EXTGRP:Взрослые
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/242/index.m3u8
-#EXTINF:0 tvg-rec="3",SHOT TV
-#EXTGRP:Взрослые
-http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/526/index.m3u8
 #EXTINF:0 tvg-rec="0",Blue Hustler
 #EXTGRP:Взрослые
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/1064/index.m3u8
@@ -2597,6 +2624,9 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/5009/index.m3u8
 #EXTINF:0 tvg-rec="3",Русская Ночь
 #EXTGRP:Взрослые
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/147/index.m3u8
+#EXTINF:0 tvg-rec="3",BRAZZERS TV Europe 2
+#EXTGRP:Взрослые
+http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/872/index.m3u8
 #EXTINF:0 tvg-rec="3",Penthouse Gold HD
 #EXTGRP:Взрослые
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/5011/index.m3u8
@@ -2609,9 +2639,15 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2057/index.m3u8
 #EXTINF:0 tvg-rec="3",Passion XXX
 #EXTGRP:Взрослые
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/878/index.m3u8
+#EXTINF:0 tvg-rec="3",Pink'o TV
+#EXTGRP:Взрослые
+http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/874/index.m3u8
 #EXTINF:0 tvg-rec="3",Penthouse Quickies HD
 #EXTGRP:Взрослые
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/5013/index.m3u8
+#EXTINF:0 tvg-rec="0",SCT
+#EXTGRP:Взрослые
+http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/876/index.m3u8
 #EXTINF:0 tvg-rec="0",Penthouse TV
 #EXTGRP:Взрослые
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/1073/index.m3u8
@@ -2654,6 +2690,9 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/6169/index.m3u8
 #EXTINF:0 tvg-rec="0",AST TV 2
 #EXTGRP:Взрослые
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/6170/index.m3u8
+#EXTINF:0 tvg-rec="0",A3 Bikini
+#EXTGRP:Взрослые
+http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/6165/index.m3u8
 #EXTINF:0 tvg-rec="0",Babes HD
 #EXTGRP:Взрослые
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/6171/index.m3u8
@@ -2714,6 +2753,9 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/6190/index.m3u8
 #EXTINF:0 tvg-rec="0",Daughter Swap
 #EXTGRP:Взрослые
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/6191/index.m3u8
+#EXTINF:0 tvg-rec="0",cento x cento
+#EXTGRP:Взрослые
+http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/6184/index.m3u8
 #EXTINF:0 tvg-rec="0",Day with a Pornstar
 #EXTGRP:Взрослые
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/6192/index.m3u8
@@ -3035,9 +3077,6 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/6297/index.m3u8
 #EXTINF:0 tvg-rec="0",SuperOne HD
 #EXTGRP:Взрослые
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/6298/index.m3u8
-#EXTINF:0 tvg-rec="0",Искушение HD orig
-#EXTGRP:Взрослые
-http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/9006/index.m3u8
 #EXTINF:0 tvg-rec="0",Dorcel HD orig
 #EXTGRP:Взрослые
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/9064/index.m3u8
@@ -3065,57 +3104,66 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/9346/index.m3u8
 #EXTINF:0 tvg-rec="0",Shot TV orig
 #EXTGRP:Взрослые
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/9347/index.m3u8
-#EXTINF:0 tvg-rec="3",СТВ HD
+#EXTINF:0 tvg-rec="3",Беларусь 3
 #EXTGRP:Беларусь | Беларускія
-http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2184/index.m3u8
-#EXTINF:0 tvg-rec="3",Cinema HD
-#EXTGRP:Беларусь | Беларускія
-http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2185/index.m3u8
-#EXTINF:0 tvg-rec="3",ОНТ HD
-#EXTGRP:Беларусь | Беларускія
-http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2182/index.m3u8
-#EXTINF:0 tvg-rec="3",Беларусь 5 BY
-#EXTGRP:Беларусь | Беларускія
-http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/5060/index.m3u8
-#EXTINF:0 tvg-rec="3",Беларусь 2 HD
-#EXTGRP:Беларусь | Беларускія
-http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2179/index.m3u8
+http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2174/index.m3u8
 #EXTINF:0 tvg-rec="3",БелРос BY
 #EXTGRP:Беларусь | Беларускія
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/5062/index.m3u8
+#EXTINF:0 tvg-rec="3",ОНТ HD
+#EXTGRP:Беларусь | Беларускія
+http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2182/index.m3u8
+#EXTINF:0 tvg-rec="3",Беларусь 2 HD
+#EXTGRP:Беларусь | Беларускія
+http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2179/index.m3u8
 #EXTINF:0 tvg-rec="3",Беларусь 5 HD
 #EXTGRP:Беларусь | Беларускія
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2177/index.m3u8
-#EXTINF:0 tvg-rec="0",Беларусь 24
+#EXTINF:0 tvg-rec="3",БелРос
 #EXTGRP:Беларусь | Беларускія
-http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/1061/index.m3u8
-#EXTINF:0 tvg-rec="3",СТВ
-#EXTGRP:Беларусь | Беларускія
-http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2172/index.m3u8
-#EXTINF:0 tvg-rec="3",ОНТ
-#EXTGRP:Беларусь | Беларускія
-http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2171/index.m3u8
+http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/835/index.m3u8
 #EXTINF:0 tvg-rec="3",8 Канал HD
 #EXTGRP:Беларусь | Беларускія
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2186/index.m3u8
+#EXTINF:0 tvg-rec="3",СТВ
+#EXTGRP:Беларусь | Беларускія
+http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2172/index.m3u8
+#EXTINF:0 tvg-rec="3",Беларусь 2
+#EXTGRP:Беларусь | Беларускія
+http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2173/index.m3u8
+#EXTINF:0 tvg-rec="3",ОНТ BY
+#EXTGRP:Беларусь | Беларускія
+http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/5061/index.m3u8
+#EXTINF:0 tvg-rec="3",ОНТ
+#EXTGRP:Беларусь | Беларускія
+http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2171/index.m3u8
+#EXTINF:0 tvg-rec="3",Беларусь 24
+#EXTGRP:Беларусь | Беларускія
+http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/1061/index.m3u8
 #EXTINF:0 tvg-rec="3",Беларусь 1 HD
 #EXTGRP:Беларусь | Беларускія
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2178/index.m3u8
 #EXTINF:0 tvg-rec="3",РТР
 #EXTGRP:Беларусь | Беларускія
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2183/index.m3u8
-#EXTINF:0 tvg-rec="3",ОНТ BY
-#EXTGRP:Беларусь | Беларускія
-http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/5061/index.m3u8
 #EXTINF:0 tvg-rec="3",Беларусь 3 HD
 #EXTGRP:Беларусь | Беларускія
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2180/index.m3u8
+#EXTINF:0 tvg-rec="3",Cinema HD
+#EXTGRP:Беларусь | Беларускія
+http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2185/index.m3u8
 #EXTINF:0 tvg-rec="3",ВТВ (СТС)
 #EXTGRP:Беларусь | Беларускія
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2176/index.m3u8
-#EXTINF:0 tvg-rec="3",БелРос
+#EXTINF:0 tvg-rec="3",Беларусь 1
 #EXTGRP:Беларусь | Беларускія
-http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/835/index.m3u8
+http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2170/index.m3u8
+#EXTINF:0 tvg-rec="3",Беларусь 5 BY
+#EXTGRP:Беларусь | Беларускія
+http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/5060/index.m3u8
+#EXTINF:0 tvg-rec="3",СТВ HD
+#EXTGRP:Беларусь | Беларускія
+http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2184/index.m3u8
 #EXTINF:0 tvg-rec="3",Рен ТВ MD
 #EXTGRP:Молдавия | Moldovenească
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2455/index.m3u8
@@ -3152,7 +3200,7 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2459/index.m3u8
 #EXTINF:0 tvg-rec="3",ITV Moldova
 #EXTGRP:Молдавия | Moldovenească
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2461/index.m3u8
-#EXTINF:0 tvg-rec="0",TVR1 HD
+#EXTINF:0 tvg-rec="3",TVR1 HD
 #EXTGRP:Молдавия | Moldovenească
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/5026/index.m3u8
 #EXTINF:0 tvg-rec="3",CANAL 5 MD
@@ -3212,13 +3260,13 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/2471/index.m3u8
 #EXTINF:0 tvg-rec="3",Jurnal TV HD MD
 #EXTGRP:Молдавия | Moldovenească
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/5008/index.m3u8
-#EXTINF:0 tvg-rec="0",5 канал UA
+#EXTINF:0 tvg-rec="3",5 канал UA
 #EXTGRP:Украина | Українські
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/945/index.m3u8
 #EXTINF:0 tvg-rec="3",FilmBox
 #EXTGRP:Украина | Українські
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/948/index.m3u8
-#EXTINF:0 tvg-rec="0",24 Канал
+#EXTINF:0 tvg-rec="3",24 Канал
 #EXTGRP:Украина | Українські
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/951/index.m3u8
 #EXTINF:0 tvg-rec="3",ATR
@@ -3233,7 +3281,7 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/956/index.m3u8
 #EXTINF:0 tvg-rec="3",Перший Захiдний
 #EXTGRP:Украина | Українські
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/957/index.m3u8
-#EXTINF:0 tvg-rec="0",UA:ЛЬВIВ
+#EXTINF:0 tvg-rec="3",UA:ЛЬВIВ
 #EXTGRP:Украина | Українські
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/958/index.m3u8
 #EXTINF:0 tvg-rec="3",Vintage TV UA
@@ -3248,15 +3296,9 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/963/index.m3u8
 #EXTINF:0 tvg-rec="3",Черноморская ТРК
 #EXTGRP:Украина | Українські
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/965/index.m3u8
-#EXTINF:0 tvg-rec="0",112 Україна
-#EXTGRP:Украина | Українські
-http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/924/index.m3u8
 #EXTINF:0 tvg-rec="3",EU Music
 #EXTGRP:Украина | Українські
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/925/index.m3u8
-#EXTINF:0 tvg-rec="3",NewsOne
-#EXTGRP:Украина | Українські
-http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/926/index.m3u8
 #EXTINF:0 tvg-rec="3",Еспресо TV
 #EXTGRP:Украина | Українські
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/927/index.m3u8
@@ -3272,7 +3314,7 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/931/index.m3u8
 #EXTINF:0 tvg-rec="3",Квартал ТВ
 #EXTGRP:Украина | Українські
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/932/index.m3u8
-#EXTINF:0 tvg-rec="0",Enter-фільм
+#EXTINF:0 tvg-rec="3",Enter-фільм
 #EXTGRP:Украина | Українські
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/933/index.m3u8
 #EXTINF:0 tvg-rec="3",Новий Канал
@@ -3419,12 +3461,6 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/1005/index.m3u8
 #EXTINF:0 tvg-rec="3",Еко TV
 #EXTGRP:Украина | Українські
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/1006/index.m3u8
-#EXTINF:0 tvg-rec="3",ZIK HD
-#EXTGRP:Украина | Українські
-http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/1007/index.m3u8
-#EXTINF:0 tvg-rec="3",ZIK
-#EXTGRP:Украина | Українські
-http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/1008/index.m3u8
 #EXTINF:0 tvg-rec="3",ТЕТ
 #EXTGRP:Украина | Українські
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/1009/index.m3u8
@@ -3512,3 +3548,6 @@ http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/5042/index.m3u8
 #EXTINF:0 tvg-rec="3",Еспресо ТВ HD UA orig
 #EXTGRP:Украина | Українські
 http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/9073/index.m3u8
+#EXTINF:0 tvg-rec="0",Первый автомобильный HD
+#EXTGRP:Украина | Українські
+http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/7228/index.m3u8
